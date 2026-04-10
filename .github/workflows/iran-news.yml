@@ -1,0 +1,33 @@
+name: Iran News Daily
+
+on:
+  schedule:
+    - cron: "0 22 * * *"  # 日本時間 朝7時
+  workflow_dispatch:      # 手動実行もできる
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: コード取得
+        uses: actions/checkout@v4
+
+      - name: Pythonセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: ライブラリインストール
+        run: pip install -r requirements.txt
+
+      - name: 実行
+        run: python app.py
+
+      - name: 結果を保存（コミット）
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add data/ reports/
+          git commit -m "auto update $(date)" || echo "no changes"
+          git push
