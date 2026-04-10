@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>今日のイラン情勢</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="hero">
+      <p class="eyebrow">Daily Brief</p>
+      <h1>今日のイラン情勢</h1>
+      <p class="subtext">毎日読む用の要点まとめ</p>
+      <div id="dateBadge" class="date-badge">読み込み中...</div>
+    </header>
+
+    <main>
+      <section class="card summary-card">
+        <h2>全体まとめ</h2>
+        <p id="headlineSummary">読み込み中...</p>
+      </section>
+
+      <section class="grid two-col">
+        <div class="card">
+          <h2>重要トピック</h2>
+          <div id="topTopics" class="stack"></div>
+        </div>
+
+        <div class="card">
+          <h2>日本への影響</h2>
+          <ul id="impactList" class="clean-list"></ul>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>次に注目</h2>
+        <ul id="watchNextList" class="clean-list"></ul>
+      </section>
+
+      <section class="card">
+        <div class="section-head">
+          <h2>記事一覧</h2>
+          <div class="controls">
+            <select id="categoryFilter">
+              <option value="all">すべて</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="newsList" class="news-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <template id="topicTemplate">
+    <article class="topic-item">
+      <h3></h3>
+      <p></p>
+    </article>
+  </template>
+
+  <template id="newsCardTemplate">
+    <article class="news-card">
+      <div class="news-meta">
+        <span class="chip source"></span>
+        <span class="chip category"></span>
+        <span class="chip importance"></span>
+      </div>
+      <h3 class="news-title"></h3>
+      <p class="news-summary"></p>
+      <a class="news-link" target="_blank" rel="noopener noreferrer">元記事を開く</a>
+    </article>
+  </template>
+
+  <script src="./script.js"></script>
+</body>
+</html>
 
