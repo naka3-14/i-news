@@ -2,7 +2,7 @@ name: Iran News Daily
 
 on:
   schedule:
-    - cron: "0 22 * * *"   # JST 07:00
+    - cron: "7 22 * * *"   # JST 07:07
   workflow_dispatch:
 
 jobs:
@@ -32,21 +32,31 @@ jobs:
         run: |
           mkdir -p data
           mkdir -p reports
+          mkdir -p web/data
 
       - name: Run app
         run: python app.py
+
+      - name: Run analysis
+        run: python analysis.py
+
+      - name: Copy JSON for web
+        run: |
+          cp data/iran_news.json web/data/iran_news.json
+          cp data/daily_summary.json web/data/daily_summary.json
 
       - name: Show generated files
         run: |
           ls -la
           ls -la data || true
           ls -la reports || true
+          ls -la web/data || true
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add data reports
+          git add data reports web/data
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "auto update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git push
