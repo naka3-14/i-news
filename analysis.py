@@ -75,19 +75,22 @@ def infer_fallback_impacts(news: list) -> list[str]:
 
     impacts: list[str] = []
 
-    if any(word in joined for word in ["hormuz", "strait", "shipping", "oil", "energy"]):
-        impacts.append("ホルムズ海峡の緊張が強まると、日本向け原油輸送の遅れや調達コスト上昇につながる可能性があります。")
+    if any(word in joined for word in ["hormuz", "strait", "shipping"]):
+        impacts.append("ホルムズ海峡の緊張が強まると、日本向け原油輸送が遅れ、燃料調達コストが上がりやすくなります。")
 
-    if any(word in joined for word in ["stocks", "market", "oil prices", "price", "energy"]):
-        impacts.append("原油価格が上がると、ガソリン代や電気料金など家計負担に波及する可能性があります。")
+    if any(word in joined for word in ["oil", "energy", "price", "market", "stocks"]):
+        impacts.append("原油価格が上がると、ガソリン代や電気料金に反映され、家計負担が重くなります。")
 
-    if any(word in joined for word in ["missile", "attack", "drone", "troops", "military"]):
-        impacts.append("中東の軍事的緊張が高まると、日本政府もエネルギー確保や邦人保護を意識した対応を迫られる可能性があります。")
+    if any(word in joined for word in ["attack", "missile", "drone", "troops", "military"]):
+        impacts.append("中東の軍事的緊張が強まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られます。")
+
+    if any(word in joined for word in ["shipping", "logistics", "strait", "hormuz"]):
+        impacts.append("物流が不安定になると、輸入コストが上がり、食品や日用品の価格にも波及しやすくなります。")
 
     if not impacts:
         impacts = [
-            "中東情勢が不安定になると、エネルギー価格や輸送コストを通じて日本経済に影響が及ぶ可能性があります。",
-            "ホルムズ海峡や周辺海域の緊張は、日本の資源調達や物流面でも無視できません。"
+            "中東情勢が不安定になると、原油や輸送コストを通じて日本の物価を押し上げやすくなります。",
+            "エネルギー供給への不安が強まると、家計や企業のコスト負担が重くなります。"
         ]
 
     return impacts[:3]
@@ -99,12 +102,10 @@ def fallback_summary(news: list) -> dict:
     for item in news[:3]:
         title = clean_text(item.get("title", ""))
         summary = clean_text(item.get("summary", "")) or f"見出し: {title}"
-        short_title = title[:40] if title else "主要ニュース"
-        short_summary = summary[:160] if summary else "要約を作成できませんでした。"
 
         top_topics.append({
-            "title": short_title,
-            "summary": short_summary
+            "title": title[:32] if title else "主要ニュース",
+            "summary": summary[:140] if summary else "要約を作成できませんでした。"
         })
 
     if not top_topics:
@@ -119,15 +120,15 @@ def fallback_summary(news: list) -> dict:
         "date": TODAY_STR,
         "updated_at": NOW_STR,
         "headline_summary": (
-            "今日は停戦協議、ホルムズ海峡、軍事・外交の動きが主な注目点です。"
-            "全体として緊張は続いていますが、外交面の動きも見られます。"
+            "ホルムズ海峡、停戦交渉、軍事的緊張が今日の主要テーマです。"
+            "エネルギーと物流への影響が続く一方で、外交面の動きも出ています。"
         ),
         "top_topics": top_topics,
         "impact_on_japan": infer_fallback_impacts(news),
         "watch_next": [
+            "ホルムズ海峡の通航制限がさらに強まるか",
             "停戦協議が維持されるか",
-            "ホルムズ海峡の通航制限が強まるか",
-            "原油価格や海上輸送への影響が広がるか"
+            "原油価格と海上輸送への影響が広がるか"
         ]
     }
 
@@ -214,31 +215,53 @@ def ask_groq_for_summary(news: list) -> dict:
 最重要方針:
 - 出力はJSONのみ
 - 事実の断定は記事一覧から読める範囲に限る
-- 難しい言い回しより、毎日読むニュース要約として自然な日本語を優先する
+- ニュース要約として自然で読みやすい日本語を使う
 - 日本の読者にとって重要な視点を優先する
-
-特に impact_on_japan のルール:
-- 抽象表現を禁止する
-- 「影響がある」「影響が見られる」「懸念される」だけで終わらせない
-- 日本の生活・経済・エネルギー・物流・安全保障のどれにどう効くかを具体的に書く
-- 例:
-  - 良い例: 「ホルムズ海峡の緊張が強まると、日本向け原油輸送の遅れや調達コスト上昇につながる可能性があります」
-  - 悪い例: 「日本の経済に影響があります」
-- 1項目あたり1文で、短く具体的に書く
-
-watch_next のルール:
-- 記者が翌日以降に注目する論点として書く
-- できるだけ具体的にする
-- 例: 「ホルムズ海峡の通航制限がさらに強まるか」
+- 上から順に読めば全体像が分かる構成にする
 
 headline_summary のルール:
-- 2〜4文
-- 全体像が一読で分かるようにする
+- 2〜3文
+- 今日の全体像を一読でつかめるようにする
+- 同じ言い回しを繰り返さない
+- 抽象的すぎる総論は避ける
 
 top_topics のルール:
 - 最大3件
-- タイトルは短く
+- title は短く、見出しとして自然にする
 - summary は1〜2文
+- 抽象的すぎる表現は避ける
+
+impact_on_japan のルール:
+- 最重要
+- 抽象表現を禁止する
+- 「影響がある」「懸念される」「可能性がある」だけで終わらせない
+- 日本の生活レベルに落として書く
+- 次の観点を優先:
+  1. ガソリン代
+  2. 電気料金
+  3. 物流や輸入コスト
+  4. 食品・日用品の値上がり
+  5. 日本政府の対応や安全保障
+- 1項目は1文だけ
+- 短く、具体的にする
+- できるだけ断定的に書く
+- 「可能性がある」は全体で最大1回まで
+- 同じ語尾を繰り返さない
+
+impact_on_japan の良い例:
+- 原油価格が上がると、ガソリン代や電気料金の上昇につながる
+- 海上輸送が不安定になると、輸入コストが上がり、食品や日用品の値上がりにつながる
+- 中東の緊張が高まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られる
+
+impact_on_japan の悪い例:
+- 日本経済に影響がある
+- 日本の生活に影響が出る可能性がある
+- 日本への影響が懸念される
+
+watch_next のルール:
+- 翌日以降に注目すべき論点を書く
+- できるだけ具体的にする
+- 最大4件
 
 出力形式:
 {{
@@ -252,7 +275,7 @@ top_topics のルール:
     }}
   ],
   "impact_on_japan": [
-    "具体的な影響を1文で"
+    "生活レベルで具体化した影響"
   ],
   "watch_next": [
     "具体的な注目点"
@@ -267,7 +290,7 @@ top_topics のルール:
         response = client.chat.completions.create(
             model="llama-3.1-8b-instant",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0.2,
+            temperature=0.15,
         )
 
         content = clean_text(response.choices[0].message.content)
