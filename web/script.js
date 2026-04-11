@@ -2,6 +2,7 @@ const summaryPath = "./data/daily_summary.json";
 const newsPath = "./data/iran_news.json";
 
 const dateBadge = document.getElementById("dateBadge");
+const timeBadge = document.getElementById("timeBadge");
 const headlineSummary = document.getElementById("headlineSummary");
 const topTopics = document.getElementById("topTopics");
 const impactList = document.getElementById("impactList");
@@ -22,8 +23,65 @@ async function fetchJson(path) {
   return res.json();
 }
 
+function getCategoryColor(category) {
+  if (!category) {
+    return { bg: "rgba(122,162,255,0.18)", color: "#cfe0ff" };
+  }
+
+  if (category.includes("軍事")) {
+    return { bg: "rgba(255,107,107,0.18)", color: "#ffb1b1" };
+  }
+
+  if (category.includes("外交")) {
+    return { bg: "rgba(78,224,193,0.18)", color: "#9bf7e4" };
+  }
+
+  if (category.includes("ホルムズ") || category.includes("市場") || category.includes("物流")) {
+    return { bg: "rgba(255,209,102,0.18)", color: "#ffe08a" };
+  }
+
+  if (category.includes("人道")) {
+    return { bg: "rgba(83,216,251,0.18)", color: "#baf0ff" };
+  }
+
+  if (category.includes("制裁") || category.includes("核")) {
+    return { bg: "rgba(179,136,255,0.18)", color: "#d6beff" };
+  }
+
+  return { bg: "rgba(122,162,255,0.18)", color: "#cfe0ff" };
+}
+
+function getImportanceLabel(value) {
+  const score = Number(value);
+
+  if (score >= 5) return "重要度 5";
+  if (score === 4) return "重要度 4";
+  if (score === 3) return "重要度 3";
+  if (score === 2) return "重要度 2";
+  return "重要度 1";
+}
+
+function getImpactIcon(text) {
+  if (text.includes("ガソリン") || text.includes("原油") || text.includes("燃料")) return "⛽";
+  if (text.includes("電気") || text.includes("料金") || text.includes("電力")) return "💡";
+  if (text.includes("物流") || text.includes("輸入") || text.includes("輸送") || text.includes("日用品")) return "📦";
+  if (text.includes("安全保障") || text.includes("政府") || text.includes("邦人")) return "🛡";
+  if (text.includes("物価") || text.includes("家計")) return "🛒";
+  return "📌";
+}
+
+function getWatchIcon(text) {
+  if (text.includes("ホルムズ")) return "🚢";
+  if (text.includes("停戦") || text.includes("協議")) return "🤝";
+  if (text.includes("原油") || text.includes("価格")) return "📈";
+  if (text.includes("軍事") || text.includes("攻撃")) return "⚠️";
+  return "👀";
+}
+
 function renderSummary(summary) {
   dateBadge.textContent = summary.date ? `更新日: ${summary.date}` : "更新日不明";
+  timeBadge.textContent = summary.updated_at ? `最終更新: ${summary.updated_at}` : "最終更新: -";
+
   headlineSummary.textContent = summary.headline_summary || "要約がありません。";
 
   topTopics.innerHTML = "";
@@ -37,14 +95,14 @@ function renderSummary(summary) {
   impactList.innerHTML = "";
   (summary.impact_on_japan || []).forEach((item) => {
     const li = document.createElement("li");
-    li.textContent = item;
+    li.textContent = `${getImpactIcon(item)} ${item}`;
     impactList.appendChild(li);
   });
 
   watchNextList.innerHTML = "";
   (summary.watch_next || []).forEach((item) => {
     const li = document.createElement("li");
-    li.textContent = item;
+    li.textContent = `${getWatchIcon(item)} ${item}`;
     watchNextList.appendChild(li);
   });
 }
@@ -80,8 +138,19 @@ function renderNews(news) {
     const node = newsCardTemplate.content.cloneNode(true);
 
     node.querySelector(".source").textContent = item.source || "不明";
-    node.querySelector(".category").textContent = item.category || "未分類";
-    node.querySelector(".importance").textContent = `重要度 ${item.importance ?? "-"}`;
+
+    const categoryEl = node.querySelector(".category");
+    categoryEl.textContent = item.category || "未分類";
+    const colors = getCategoryColor(item.category || "");
+    categoryEl.style.background = colors.bg;
+    categoryEl.style.color = colors.color;
+    categoryEl.style.borderColor = "rgba(255,255,255,0.08)";
+
+    const importanceEl = node.querySelector(".importance");
+    importanceEl.textContent = getImportanceLabel(item.importance);
+    importanceEl.style.background = "rgba(255,255,255,0.06)";
+    importanceEl.style.color = "#ffffff";
+
     node.querySelector(".news-title").textContent = item.title || "タイトルなし";
     node.querySelector(".news-summary").textContent = item.summary || "要約なし";
 
@@ -111,6 +180,7 @@ async function init() {
   } catch (error) {
     console.error(error);
     dateBadge.textContent = "読み込みエラー";
+    timeBadge.textContent = "";
     headlineSummary.textContent = "データの読み込みに失敗しました。JSONの配置を確認してください。";
     newsList.innerHTML = `<div class="empty">${error.message}</div>`;
   }
