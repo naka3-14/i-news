@@ -7,98 +7,105 @@
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
-  <div class="bg-orb orb-1"></div>
-  <div class="bg-orb orb-2"></div>
-  <div class="bg-orb orb-3"></div>
+  <div class="topline"></div>
 
-  <div class="container">
-    <header class="hero">
-      <p class="eyebrow">DAILY BRIEF</p>
-      <h1>今日のイラン情勢</h1>
-      <p class="subtext">毎日読む用の要点まとめ</p>
-
-      <div class="hero-badges">
-        <div id="dateBadge" class="date-badge">更新日: 読み込み中...</div>
-        <div id="timeBadge" class="time-badge">最終更新: -</div>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div>
+        <p class="site-kicker">MIDDLE EAST MONITOR</p>
+        <h1 class="site-title">今日のイラン情勢</h1>
+        <p class="site-desc">毎日読む用の要点まとめ</p>
       </div>
-    </header>
 
-    <main>
-      <section class="card summary-card gradient-card">
-        <div class="section-title-row">
-          <h2>全体まとめ</h2>
-          <span class="mini-chip chip-summary">SUMMARY</span>
+      <div class="header-status">
+        <div class="status-row">
+          <span class="status-label">更新日</span>
+          <span id="dateBadge" class="status-value">読み込み中...</span>
         </div>
-        <p id="headlineSummary">読み込み中...</p>
-      </section>
+        <div class="status-row">
+          <span class="status-label">最終更新</span>
+          <span id="timeBadge" class="status-value">-</span>
+        </div>
+      </div>
+    </div>
+  </header>
 
-      <section class="grid two-col">
-        <div class="card accent-card topics-card">
-          <div class="section-title-row">
+  <main class="container main-layout">
+    <section class="lead-panel">
+      <div class="section-bar">
+        <span class="section-bar-label urgent">TOP</span>
+        <h2>全体まとめ</h2>
+      </div>
+      <p id="headlineSummary" class="lead-text">読み込み中...</p>
+    </section>
+
+    <section class="content-grid">
+      <div class="main-column">
+        <section class="news-block">
+          <div class="section-bar">
+            <span class="section-bar-label red">重要</span>
             <h2>重要トピック</h2>
-            <span class="mini-chip chip-topic">TOPICS</span>
           </div>
-          <div id="topTopics" class="stack"></div>
-        </div>
+          <div id="topTopics" class="topic-list"></div>
+        </section>
 
-        <div class="card accent-card impact-card">
-          <div class="section-title-row">
-            <h2>日本への影響</h2>
-            <span class="mini-chip chip-impact">JAPAN</span>
-          </div>
-          <ul id="impactList" class="clean-list"></ul>
-        </div>
-      </section>
-
-      <section class="card accent-card watch-card">
-        <div class="section-title-row">
-          <h2>次に注目</h2>
-          <span class="mini-chip chip-watch">WATCH</span>
-        </div>
-        <ul id="watchNextList" class="clean-list"></ul>
-      </section>
-
-      <section class="card news-section-card">
-        <div class="section-head">
-          <div class="section-title-row">
+        <section class="news-block">
+          <div class="section-bar">
+            <span class="section-bar-label blue">一覧</span>
             <h2>記事一覧</h2>
-            <span class="mini-chip chip-news">NEWS</span>
           </div>
 
-          <div class="controls">
+          <div class="toolbar">
+            <label for="categoryFilter">カテゴリ</label>
             <select id="categoryFilter">
               <option value="all">すべて</option>
             </select>
           </div>
-        </div>
 
-        <div id="newsList" class="news-list"></div>
-      </section>
-    </main>
-  </div>
+          <div id="newsList" class="article-list"></div>
+        </section>
+      </div>
+
+      <aside class="side-column">
+        <section class="side-block">
+          <div class="section-bar compact">
+            <span class="section-bar-label gold">日本</span>
+            <h2>日本への影響</h2>
+          </div>
+          <ul id="impactList" class="bullet-list"></ul>
+        </section>
+
+        <section class="side-block">
+          <div class="section-bar compact">
+            <span class="section-bar-label green">注目</span>
+            <h2>次に注目</h2>
+          </div>
+          <ul id="watchNextList" class="bullet-list"></ul>
+        </section>
+      </aside>
+    </section>
+  </main>
 
   <template id="topicTemplate">
-    <article class="topic-item">
-      <div class="topic-icon-wrap">
-        <span class="topic-icon">●</span>
-      </div>
-      <div class="topic-content">
+    <article class="topic-row">
+      <div class="topic-row-head">
+        <span class="topic-rank">1</span>
         <h3></h3>
-        <p></p>
       </div>
+      <p></p>
     </article>
   </template>
 
   <template id="newsCardTemplate">
-    <article class="news-card">
-      <div class="news-meta">
-        <span class="chip source"></span>
-        <span class="chip category"></span>
-        <span class="chip importance"></span>
+    <article class="article-row">
+      <div class="article-meta">
+        <span class="meta-chip source"></span>
+        <span class="meta-chip category"></span>
+        <span class="meta-chip importance"></span>
       </div>
-      <h3 class="news-title"></h3>
-      <p class="news-summary"></p>
-      <a class="news-link" target="_blank" rel="noopener noreferrer">元記事を開く</a>
+      <h3 class="article-title"></h3>
+      <p class="article-summary"></p>
+      <a class="article-link" target="_blank" rel="noopener noreferrer">元記事を開く</a>
     </article>
   </template>
 
