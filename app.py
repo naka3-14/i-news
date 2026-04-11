@@ -108,15 +108,12 @@ def is_iran_related(text: str) -> bool:
     if is_noise_title(t):
         return False
 
-    # イラン系の語が1つもなければ落とす
     if not any(k in t for k in STRONG_IRAN_KEYWORDS):
         return False
 
-    # 直結度が高いものは通す
     if any(p in t for p in DIRECT_IRAN_PATTERNS):
         return True
 
-    # 基本形
     if "iran" in t or "iranian" in t or "tehran" in t or "hormuz" in t:
         return True
 
@@ -290,9 +287,7 @@ def collect_news() -> list[dict]:
             "summary": summary,
         })
 
-    # 重要度2以上だけ残す
     results = [x for x in results if x["importance"] >= 2]
-
     results.sort(key=lambda x: (-x["importance"], x["source"], x["title"]))
     return results
 
@@ -338,7 +333,6 @@ def save_markdown(news: list[dict], path: Path) -> None:
 
 
 def main() -> None:
-    today = datetime.now().strftime("%Y-%m-%d")
     news = collect_news()
 
     # 上位20件まで
@@ -346,7 +340,7 @@ def main() -> None:
 
     json_path = DATA_DIR / "iran_news.json"
     csv_path = DATA_DIR / "iran_news.csv"
-    md_path = REPORT_DIR / f"{today}_iran_report.md"
+    md_path = REPORT_DIR / "iran_report.md"
 
     save_json(news, json_path)
     save_csv(news, csv_path)
