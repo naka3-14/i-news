@@ -25,40 +25,35 @@ async function fetchJson(path) {
 
 function getCategoryColor(category) {
   if (!category) {
-    return { bg: "rgba(122,162,255,0.18)", color: "#cfe0ff" };
+    return { bg: "#edf4ff", color: "#365ea8" };
   }
 
   if (category.includes("軍事")) {
-    return { bg: "rgba(255,107,107,0.18)", color: "#ffb1b1" };
+    return { bg: "#ffe7e7", color: "#bf2f2f" };
   }
 
   if (category.includes("外交")) {
-    return { bg: "rgba(78,224,193,0.18)", color: "#9bf7e4" };
+    return { bg: "#e8fff7", color: "#147a57" };
   }
 
   if (category.includes("ホルムズ") || category.includes("市場") || category.includes("物流")) {
-    return { bg: "rgba(255,209,102,0.18)", color: "#ffe08a" };
+    return { bg: "#fff6de", color: "#9a6b07" };
   }
 
   if (category.includes("人道")) {
-    return { bg: "rgba(83,216,251,0.18)", color: "#baf0ff" };
+    return { bg: "#eaf8ff", color: "#166a8a" };
   }
 
   if (category.includes("制裁") || category.includes("核")) {
-    return { bg: "rgba(179,136,255,0.18)", color: "#d6beff" };
+    return { bg: "#f3ebff", color: "#6e42ad" };
   }
 
-  return { bg: "rgba(122,162,255,0.18)", color: "#cfe0ff" };
+  return { bg: "#edf4ff", color: "#365ea8" };
 }
 
 function getImportanceLabel(value) {
   const score = Number(value);
-
-  if (score >= 5) return "重要度 5";
-  if (score === 4) return "重要度 4";
-  if (score === 3) return "重要度 3";
-  if (score === 2) return "重要度 2";
-  return "重要度 1";
+  return `重要度 ${Number.isNaN(score) ? "-" : score}`;
 }
 
 function getImpactIcon(text) {
@@ -67,7 +62,7 @@ function getImpactIcon(text) {
   if (text.includes("物流") || text.includes("輸入") || text.includes("輸送") || text.includes("日用品")) return "📦";
   if (text.includes("安全保障") || text.includes("政府") || text.includes("邦人")) return "🛡";
   if (text.includes("物価") || text.includes("家計")) return "🛒";
-  return "📌";
+  return "•";
 }
 
 function getWatchIcon(text) {
@@ -75,18 +70,18 @@ function getWatchIcon(text) {
   if (text.includes("停戦") || text.includes("協議")) return "🤝";
   if (text.includes("原油") || text.includes("価格")) return "📈";
   if (text.includes("軍事") || text.includes("攻撃")) return "⚠️";
-  return "👀";
+  return "•";
 }
 
 function renderSummary(summary) {
-  dateBadge.textContent = summary.date ? `更新日: ${summary.date}` : "更新日不明";
-  timeBadge.textContent = summary.updated_at ? `最終更新: ${summary.updated_at}` : "最終更新: -";
-
+  dateBadge.textContent = summary.date || "-";
+  timeBadge.textContent = summary.updated_at || "-";
   headlineSummary.textContent = summary.headline_summary || "要約がありません。";
 
   topTopics.innerHTML = "";
-  (summary.top_topics || []).forEach((topic) => {
+  (summary.top_topics || []).forEach((topic, index) => {
     const node = topicTemplate.content.cloneNode(true);
+    node.querySelector(".topic-rank").textContent = String(index + 1);
     node.querySelector("h3").textContent = topic.title || "話題";
     node.querySelector("p").textContent = topic.summary || "";
     topTopics.appendChild(node);
@@ -109,7 +104,6 @@ function renderSummary(summary) {
 
 function populateCategoryFilter(news) {
   const categories = [...new Set(news.map((item) => item.category).filter(Boolean))];
-
   categories.forEach((category) => {
     const option = document.createElement("option");
     option.value = category;
@@ -144,17 +138,15 @@ function renderNews(news) {
     const colors = getCategoryColor(item.category || "");
     categoryEl.style.background = colors.bg;
     categoryEl.style.color = colors.color;
-    categoryEl.style.borderColor = "rgba(255,255,255,0.08)";
+    categoryEl.style.borderColor = "transparent";
 
     const importanceEl = node.querySelector(".importance");
     importanceEl.textContent = getImportanceLabel(item.importance);
-    importanceEl.style.background = "rgba(255,255,255,0.06)";
-    importanceEl.style.color = "#ffffff";
 
-    node.querySelector(".news-title").textContent = item.title || "タイトルなし";
-    node.querySelector(".news-summary").textContent = item.summary || "要約なし";
+    node.querySelector(".article-title").textContent = item.title || "タイトルなし";
+    node.querySelector(".article-summary").textContent = item.summary || "要約なし";
 
-    const link = node.querySelector(".news-link");
+    const link = node.querySelector(".article-link");
     link.href = item.url || "#";
 
     newsList.appendChild(node);
@@ -180,7 +172,7 @@ async function init() {
   } catch (error) {
     console.error(error);
     dateBadge.textContent = "読み込みエラー";
-    timeBadge.textContent = "";
+    timeBadge.textContent = "-";
     headlineSummary.textContent = "データの読み込みに失敗しました。JSONの配置を確認してください。";
     newsList.innerHTML = `<div class="empty">${error.message}</div>`;
   }
