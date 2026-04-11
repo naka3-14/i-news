@@ -60,6 +60,7 @@ jobs:
           git add data/iran_news.json
           git add data/iran_news.csv
           git add data/daily_summary.json
+          git add data/yesterday_summary.json
           git add reports/iran_report.md
           git add web/data/iran_news.json
           git add web/data/daily_summary.json
