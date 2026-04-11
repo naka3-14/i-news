@@ -20,6 +20,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 NEWS_JSON_PATH = DATA_DIR / "iran_news.json"
 SUMMARY_JSON_PATH = DATA_DIR / "daily_summary.json"
+YESTERDAY_SUMMARY_PATH = DATA_DIR / "yesterday_summary.json"
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
 TODAY_STR = datetime.now().strftime("%Y-%m-%d")
@@ -45,6 +46,23 @@ def load_news() -> list:
         raise ValueError("iran_news.json の形式が不正です。リスト形式を想定しています。")
 
     return data
+
+
+def load_yesterday_summary() -> dict | None:
+    if not YESTERDAY_SUMMARY_PATH.exists():
+        return None
+
+    try:
+        with open(YESTERDAY_SUMMARY_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data if isinstance(data, dict) else None
+    except Exception:
+        return None
+
+
+def save_yesterday_summary(summary: dict) -> None:
+    with open(YESTERDAY_SUMMARY_PATH, "w", encoding="utf-8") as f:
+        json.dump(summary, f, ensure_ascii=False, indent=2)
 
 
 def build_article_text(news: list, limit: int = 12) -> str:
@@ -83,6 +101,9 @@ def infer_fallback_impacts(news: list) -> list[str]:
 
     if any(word in joined for word in ["attack", "missile", "drone", "troops", "military"]):
         impacts.append("中東の軍事的緊張が強まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られます。")
+
+    if any(word in joined for word in ["shipping", "logistics", "strait", "hormuz"]):
+        impacts.append("物流が不安定になると、輸入コストが上がり、食品や日用品の価格にも波及しやすくなります。")
 
     if not impacts:
         impacts = [
@@ -220,6 +241,34 @@ def normalize_summary_payload(data: dict, news: list) -> dict:
     }
 
 
+def build_diff(today: dict, yesterday: dict | None) -> dict:
+    if not yesterday:
+        return {
+            "new_topics": [],
+            "removed_topics": []
+        }
+
+    today_titles = {
+        clean_text(t.get("title", ""))
+        for t in today.get("top_topics", [])
+        if isinstance(t, dict) and clean_text(t.get("title", ""))
+    }
+
+    yesterday_titles = {
+        clean_text(t.get("title", ""))
+        for t in yesterday.get("top_topics", [])
+        if isinstance(t, dict) and clean_text(t.get("title", ""))
+    }
+
+    new_topics = sorted(today_titles - yesterday_titles)
+    removed_topics = sorted(yesterday_titles - today_titles)
+
+    return {
+        "new_topics": new_topics,
+        "removed_topics": removed_topics
+    }
+
+
 def ask_groq_for_summary(news: list) -> dict:
     if not GROQ_API_KEY or Groq is None:
         return fallback_summary(news)
@@ -235,7 +284,7 @@ def ask_groq_for_summary(news: list) -> dict:
 - 出力はJSONのみ
 - ニュースソース由来の事実と、AIが整理した分析・予想を混同しない
 - 事実の断定は記事一覧から読める範囲に限る
-- ai_forecast は「AI予想」であり、未来予測や見通しであることを踏まえて書く
+- ai_forecast はAI予想として、今後の見通しを書く
 - 自然で読みやすい日本語にする
 
 headline_summary:
@@ -254,7 +303,6 @@ impact_on_japan:
 ai_forecast:
 - AI予想として、今後どうなりそうかを最大3件
 - 断定しすぎず、見通しとして書く
-- 「〜しやすい」「〜が焦点になりそう」などの表現は可
 
 出力形式:
 {{
@@ -313,14 +361,22 @@ def save_summary(summary: dict) -> None:
 
 def main() -> None:
     news = load_news()
+    yesterday = load_yesterday_summary()
+
     summary = ask_groq_for_summary(news)
+    summary["diff"] = build_diff(summary, yesterday)
+
     save_summary(summary)
+    save_yesterday_summary(summary)
 
     print("==== 分析完了 ====")
     print(f"入力: {NEWS_JSON_PATH}")
     print(f"出力: {SUMMARY_JSON_PATH}")
+    print(f"比較元: {YESTERDAY_SUMMARY_PATH}")
     print(f"日付: {summary.get('date')}")
     print(f"更新時刻: {summary.get('updated_at')}")
+    print(f"新規話題数: {len(summary.get('diff', {}).get('new_topics', []))}")
+    print(f"消滅話題数: {len(summary.get('diff', {}).get('removed_topics', []))}")
 
 
 if __name__ == "__main__":
