@@ -73,7 +73,7 @@ def infer_fallback_impacts(news: list) -> list[str]:
         for item in news[:12]
     ).lower()
 
-    impacts: list[str] = []
+    impacts = []
 
     if any(word in joined for word in ["hormuz", "strait", "shipping"]):
         impacts.append("ホルムズ海峡の緊張が強まると、日本向け原油輸送が遅れ、燃料調達コストが上がりやすくなります。")
@@ -84,9 +84,6 @@ def infer_fallback_impacts(news: list) -> list[str]:
     if any(word in joined for word in ["attack", "missile", "drone", "troops", "military"]):
         impacts.append("中東の軍事的緊張が強まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られます。")
 
-    if any(word in joined for word in ["shipping", "logistics", "strait", "hormuz"]):
-        impacts.append("物流が不安定になると、輸入コストが上がり、食品や日用品の価格にも波及しやすくなります。")
-
     if not impacts:
         impacts = [
             "中東情勢が不安定になると、原油や輸送コストを通じて日本の物価を押し上げやすくなります。",
@@ -96,12 +93,38 @@ def infer_fallback_impacts(news: list) -> list[str]:
     return impacts[:3]
 
 
+def infer_fallback_forecast(news: list) -> list[str]:
+    joined = " ".join(
+        clean_text(item.get("title", "")) + " " + clean_text(item.get("summary", ""))
+        for item in news[:12]
+    ).lower()
+
+    forecasts = []
+
+    if any(word in joined for word in ["ceasefire", "talks", "negotiation", "truce"]):
+        forecasts.append("停戦協議が続いても、周辺地域で攻撃が続けば交渉は不安定になりやすいです。")
+
+    if any(word in joined for word in ["hormuz", "strait", "shipping"]):
+        forecasts.append("ホルムズ海峡の通航条件が厳しくなると、原油と物流コストへの反応がさらに強まりそうです。")
+
+    if any(word in joined for word in ["oil", "energy", "stocks", "market"]):
+        forecasts.append("市場は停戦期待と軍事リスクの両方を織り込みながら、値動きが荒くなりやすいです。")
+
+    if not forecasts:
+        forecasts = [
+            "軍事的な緊張と外交交渉が並行し、情勢はしばらく不安定なまま推移しやすいです。",
+            "エネルギーと物流に関するニュースが、今後も市場の焦点になりそうです。"
+        ]
+
+    return forecasts[:3]
+
+
 def fallback_summary(news: list) -> dict:
     top_topics = []
 
     for item in news[:3]:
         title = clean_text(item.get("title", ""))
-        summary = clean_text(item.get("summary", "")) or f"見出し: {title}"
+        summary = clean_text(item.get("summary", ""))
 
         top_topics.append({
             "title": title[:32] if title else "主要ニュース",
@@ -125,11 +148,7 @@ def fallback_summary(news: list) -> dict:
         ),
         "top_topics": top_topics,
         "impact_on_japan": infer_fallback_impacts(news),
-        "watch_next": [
-            "ホルムズ海峡の通航制限がさらに強まるか",
-            "停戦協議が維持されるか",
-            "原油価格と海上輸送への影響が広がるか"
-        ]
+        "ai_forecast": infer_fallback_forecast(news)
     }
 
 
@@ -185,11 +204,11 @@ def normalize_summary_payload(data: dict, news: list) -> dict:
     impact_on_japan = [clean_text(x) for x in impact_on_japan if clean_text(x)]
     impact_on_japan = impact_on_japan[:3] or fallback["impact_on_japan"]
 
-    watch_next = data.get("watch_next", fallback["watch_next"])
-    if not isinstance(watch_next, list):
-        watch_next = fallback["watch_next"]
-    watch_next = [clean_text(x) for x in watch_next if clean_text(x)]
-    watch_next = watch_next[:4] or fallback["watch_next"]
+    ai_forecast = data.get("ai_forecast", fallback["ai_forecast"])
+    if not isinstance(ai_forecast, list):
+        ai_forecast = fallback["ai_forecast"]
+    ai_forecast = [clean_text(x) for x in ai_forecast if clean_text(x)]
+    ai_forecast = ai_forecast[:3] or fallback["ai_forecast"]
 
     return {
         "date": TODAY_STR,
@@ -197,7 +216,7 @@ def normalize_summary_payload(data: dict, news: list) -> dict:
         "headline_summary": headline_summary,
         "top_topics": fixed_topics,
         "impact_on_japan": impact_on_japan,
-        "watch_next": watch_next
+        "ai_forecast": ai_forecast
     }
 
 
@@ -212,73 +231,47 @@ def ask_groq_for_summary(news: list) -> dict:
 あなたはニュース編集者です。
 以下のニュース一覧をもとに、日本人向けに「毎日読む簡潔な情勢まとめ」を作成してください。
 
-最重要方針:
+重要:
 - 出力はJSONのみ
+- ニュースソース由来の事実と、AIが整理した分析・予想を混同しない
 - 事実の断定は記事一覧から読める範囲に限る
-- ニュース要約として自然で読みやすい日本語を使う
-- 日本の読者にとって重要な視点を優先する
-- 上から順に読めば全体像が分かる構成にする
+- ai_forecast は「AI予想」であり、未来予測や見通しであることを踏まえて書く
+- 自然で読みやすい日本語にする
 
-headline_summary のルール:
-- 2〜3文
-- 今日の全体像を一読でつかめるようにする
-- 同じ言い回しを繰り返さない
-- 抽象的すぎる総論は避ける
+headline_summary:
+- AI分析として、全体像を2〜3文でまとめる
 
-top_topics のルール:
-- 最大3件
-- title は短く、見出しとして自然にする
+top_topics:
+- AI分析として、最大3件
+- title は短く
 - summary は1〜2文
-- 抽象的すぎる表現は避ける
 
-impact_on_japan のルール:
-- 最重要
-- 抽象表現を禁止する
-- 「影響がある」「懸念される」「可能性がある」だけで終わらせない
-- 日本の生活レベルに落として書く
-- 次の観点を優先:
-  1. ガソリン代
-  2. 電気料金
-  3. 物流や輸入コスト
-  4. 食品・日用品の値上がり
-  5. 日本政府の対応や安全保障
-- 1項目は1文だけ
-- 短く、具体的にする
-- できるだけ断定的に書く
-- 「可能性がある」は全体で最大1回まで
-- 同じ語尾を繰り返さない
+impact_on_japan:
+- AI分析として、日本の生活・経済・エネルギー・物流・安全保障への影響を具体的に書く
+- 抽象表現は禁止
+- 1項目1文
 
-impact_on_japan の良い例:
-- 原油価格が上がると、ガソリン代や電気料金の上昇につながる
-- 海上輸送が不安定になると、輸入コストが上がり、食品や日用品の値上がりにつながる
-- 中東の緊張が高まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られる
-
-impact_on_japan の悪い例:
-- 日本経済に影響がある
-- 日本の生活に影響が出る可能性がある
-- 日本への影響が懸念される
-
-watch_next のルール:
-- 翌日以降に注目すべき論点を書く
-- できるだけ具体的にする
-- 最大4件
+ai_forecast:
+- AI予想として、今後どうなりそうかを最大3件
+- 断定しすぎず、見通しとして書く
+- 「〜しやすい」「〜が焦点になりそう」などの表現は可
 
 出力形式:
 {{
   "date": "{TODAY_STR}",
   "updated_at": "{NOW_STR}",
-  "headline_summary": "全体要約",
+  "headline_summary": "AI分析による全体要約",
   "top_topics": [
     {{
       "title": "短いテーマ名",
-      "summary": "1〜2文で要点"
+      "summary": "AI分析による要点"
     }}
   ],
   "impact_on_japan": [
-    "生活レベルで具体化した影響"
+    "AI分析による日本への影響"
   ],
-  "watch_next": [
-    "具体的な注目点"
+  "ai_forecast": [
+    "AI予想による今後の見通し"
   ]
 }}
 
@@ -304,11 +297,6 @@ watch_next のルール:
         parsed = json.loads(json_text)
         return normalize_summary_payload(parsed, news)
 
-    except json.JSONDecodeError:
-        result = fallback_summary(news)
-        result["headline_summary"] = "GroqのJSON解析に失敗したため、簡易要約を表示しています。"
-        return result
-
     except Exception as e:
         result = fallback_summary(news)
         result["headline_summary"] = f"Groq要約に失敗したため、簡易要約を表示しています。({str(e)[:120]})"
@@ -333,7 +321,6 @@ def main() -> None:
     print(f"出力: {SUMMARY_JSON_PATH}")
     print(f"日付: {summary.get('date')}")
     print(f"更新時刻: {summary.get('updated_at')}")
-    print(f"見出し要約: {summary.get('headline_summary', '')[:100]}")
 
 
 if __name__ == "__main__":
