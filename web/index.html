@@ -43,6 +43,25 @@
       <div class="main-column">
         <section class="news-block">
           <div class="section-bar">
+            <span class="section-bar-label orange">差分</span>
+            <h2>昨日との差分</h2>
+          </div>
+
+          <div class="diff-grid">
+            <div class="diff-card diff-new">
+              <h3>新しく出てきた話題</h3>
+              <ul id="diffNew" class="bullet-list"></ul>
+            </div>
+
+            <div class="diff-card diff-removed">
+              <h3>消えた話題</h3>
+              <ul id="diffRemoved" class="bullet-list"></ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="news-block">
+          <div class="section-bar">
             <span class="section-bar-label red">AI分析</span>
             <h2>重要トピック</h2>
           </div>
@@ -75,7 +94,7 @@
           <ul id="impactList" class="bullet-list"></ul>
         </section>
 
-        <section class="side-block">
+        <section class="side-block forecast-block">
           <div class="section-bar compact">
             <span class="section-bar-label green">AI予想</span>
             <h2>今後の見通し</h2>
