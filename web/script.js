@@ -6,7 +6,7 @@ const timeBadge = document.getElementById("timeBadge");
 const headlineSummary = document.getElementById("headlineSummary");
 const topTopics = document.getElementById("topTopics");
 const impactList = document.getElementById("impactList");
-const watchNextList = document.getElementById("watchNextList");
+const forecastList = document.getElementById("forecastList");
 const newsList = document.getElementById("newsList");
 const categoryFilter = document.getElementById("categoryFilter");
 
@@ -65,12 +65,12 @@ function getImpactIcon(text) {
   return "•";
 }
 
-function getWatchIcon(text) {
-  if (text.includes("ホルムズ")) return "🚢";
+function getForecastIcon(text) {
   if (text.includes("停戦") || text.includes("協議")) return "🤝";
-  if (text.includes("原油") || text.includes("価格")) return "📈";
-  if (text.includes("軍事") || text.includes("攻撃")) return "⚠️";
-  return "•";
+  if (text.includes("ホルムズ") || text.includes("通航")) return "🚢";
+  if (text.includes("価格") || text.includes("市場")) return "📈";
+  if (text.includes("攻撃") || text.includes("軍事")) return "⚠️";
+  return "🔎";
 }
 
 function renderSummary(summary) {
@@ -94,11 +94,11 @@ function renderSummary(summary) {
     impactList.appendChild(li);
   });
 
-  watchNextList.innerHTML = "";
-  (summary.watch_next || []).forEach((item) => {
+  forecastList.innerHTML = "";
+  (summary.ai_forecast || []).forEach((item) => {
     const li = document.createElement("li");
-    li.textContent = `${getWatchIcon(item)} ${item}`;
-    watchNextList.appendChild(li);
+    li.textContent = `${getForecastIcon(item)} ${item}`;
+    forecastList.appendChild(li);
   });
 }
 
