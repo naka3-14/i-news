@@ -23,6 +23,7 @@ SUMMARY_JSON_PATH = DATA_DIR / "daily_summary.json"
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
 TODAY_STR = datetime.now().strftime("%Y-%m-%d")
+NOW_STR = datetime.now().strftime("%Y-%m-%d %H:%M")
 
 
 def clean_text(text: str) -> str:
@@ -66,6 +67,32 @@ def build_article_text(news: list, limit: int = 12) -> str:
     return "\n".join(lines)
 
 
+def infer_fallback_impacts(news: list) -> list[str]:
+    joined = " ".join(
+        clean_text(item.get("title", "")) + " " + clean_text(item.get("summary", ""))
+        for item in news[:12]
+    ).lower()
+
+    impacts: list[str] = []
+
+    if any(word in joined for word in ["hormuz", "strait", "shipping", "oil", "energy"]):
+        impacts.append("ホルムズ海峡の緊張が強まると、日本向け原油輸送の遅れや調達コスト上昇につながる可能性があります。")
+
+    if any(word in joined for word in ["stocks", "market", "oil prices", "price", "energy"]):
+        impacts.append("原油価格が上がると、ガソリン代や電気料金など家計負担に波及する可能性があります。")
+
+    if any(word in joined for word in ["missile", "attack", "drone", "troops", "military"]):
+        impacts.append("中東の軍事的緊張が高まると、日本政府もエネルギー確保や邦人保護を意識した対応を迫られる可能性があります。")
+
+    if not impacts:
+        impacts = [
+            "中東情勢が不安定になると、エネルギー価格や輸送コストを通じて日本経済に影響が及ぶ可能性があります。",
+            "ホルムズ海峡や周辺海域の緊張は、日本の資源調達や物流面でも無視できません。"
+        ]
+
+    return impacts[:3]
+
+
 def fallback_summary(news: list) -> dict:
     top_topics = []
 
@@ -90,28 +117,22 @@ def fallback_summary(news: list) -> dict:
 
     return {
         "date": TODAY_STR,
+        "updated_at": NOW_STR,
         "headline_summary": (
             "今日は停戦協議、ホルムズ海峡、軍事・外交の動きが主な注目点です。"
             "全体として緊張は続いていますが、外交面の動きも見られます。"
         ),
         "top_topics": top_topics,
-        "impact_on_japan": [
-            "原油価格やエネルギー調達への影響が意識されます。",
-            "ホルムズ海峡の通航状況は日本の海上輸送にも関わります。"
-        ],
+        "impact_on_japan": infer_fallback_impacts(news),
         "watch_next": [
             "停戦協議が維持されるか",
-            "ホルムズ海峡の制限が強まるか",
-            "周辺国を含む軍事的緊張が広がるか"
+            "ホルムズ海峡の通航制限が強まるか",
+            "原油価格や海上輸送への影響が広がるか"
         ]
     }
 
 
 def extract_json_object(text: str) -> str:
-    """
-    Groqがコードブロックや前置きを混ぜた場合でも、
-    JSONオブジェクト部分だけを抜き出す。
-    """
     if not text:
         return ""
 
@@ -130,10 +151,6 @@ def extract_json_object(text: str) -> str:
 
 
 def normalize_summary_payload(data: dict, news: list) -> dict:
-    """
-    モデル出力が少し崩れていても必要なキーを整える。
-    date はモデル出力を信用せず、必ず TODAY_STR を使う。
-    """
     fallback = fallback_summary(news)
 
     headline_summary = clean_text(data.get("headline_summary", fallback["headline_summary"]))
@@ -174,7 +191,8 @@ def normalize_summary_payload(data: dict, news: list) -> dict:
     watch_next = watch_next[:4] or fallback["watch_next"]
 
     return {
-        "date": TODAY_STR,  # モデル出力を無視して強制固定
+        "date": TODAY_STR,
+        "updated_at": NOW_STR,
         "headline_summary": headline_summary,
         "top_topics": fixed_topics,
         "impact_on_japan": impact_on_japan,
@@ -193,21 +211,39 @@ def ask_groq_for_summary(news: list) -> dict:
 あなたはニュース編集者です。
 以下のニュース一覧をもとに、日本人向けに「毎日読む簡潔な情勢まとめ」を作成してください。
 
-ルール:
+最重要方針:
 - 出力はJSONのみ
-- date は必ず "{TODAY_STR}" とする
-- headline_summary は2〜4文
-- top_topics は最大3件
-- impact_on_japan は2〜3件
-- watch_next は2〜4件
-- 記事に書かれていないことを断定しない
-- 読みやすい自然な日本語にする
-- 同じ言い回しを繰り返しすぎない
+- 事実の断定は記事一覧から読める範囲に限る
+- 難しい言い回しより、毎日読むニュース要約として自然な日本語を優先する
 - 日本の読者にとって重要な視点を優先する
+
+特に impact_on_japan のルール:
+- 抽象表現を禁止する
+- 「影響がある」「影響が見られる」「懸念される」だけで終わらせない
+- 日本の生活・経済・エネルギー・物流・安全保障のどれにどう効くかを具体的に書く
+- 例:
+  - 良い例: 「ホルムズ海峡の緊張が強まると、日本向け原油輸送の遅れや調達コスト上昇につながる可能性があります」
+  - 悪い例: 「日本の経済に影響があります」
+- 1項目あたり1文で、短く具体的に書く
+
+watch_next のルール:
+- 記者が翌日以降に注目する論点として書く
+- できるだけ具体的にする
+- 例: 「ホルムズ海峡の通航制限がさらに強まるか」
+
+headline_summary のルール:
+- 2〜4文
+- 全体像が一読で分かるようにする
+
+top_topics のルール:
+- 最大3件
+- タイトルは短く
+- summary は1〜2文
 
 出力形式:
 {{
   "date": "{TODAY_STR}",
+  "updated_at": "{NOW_STR}",
   "headline_summary": "全体要約",
   "top_topics": [
     {{
@@ -216,10 +252,10 @@ def ask_groq_for_summary(news: list) -> dict:
     }}
   ],
   "impact_on_japan": [
-    "具体的な影響"
+    "具体的な影響を1文で"
   ],
   "watch_next": [
-    "今後の注目点"
+    "具体的な注目点"
   ]
 }}
 
@@ -257,8 +293,8 @@ def ask_groq_for_summary(news: list) -> dict:
 
 
 def save_summary(summary: dict) -> None:
-    # 念のため保存直前にも今日の日付で固定
     summary["date"] = TODAY_STR
+    summary["updated_at"] = NOW_STR
 
     with open(SUMMARY_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
@@ -273,6 +309,7 @@ def main() -> None:
     print(f"入力: {NEWS_JSON_PATH}")
     print(f"出力: {SUMMARY_JSON_PATH}")
     print(f"日付: {summary.get('date')}")
+    print(f"更新時刻: {summary.get('updated_at')}")
     print(f"見出し要約: {summary.get('headline_summary', '')[:100]}")
 
 
