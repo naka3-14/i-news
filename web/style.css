@@ -12,6 +12,7 @@
   --red: #d93b3b;
   --gold: #c9901a;
   --green: #14845a;
+  --orange: #dc7a16;
   --black: #0f1728;
 
   --shadow: 0 12px 28px rgba(16, 32, 59, 0.08);
@@ -161,6 +162,11 @@ body {
   padding: 0 18px 18px;
 }
 
+.forecast-block {
+  background: linear-gradient(180deg, #f3fff9 0%, #ecfff7 100%);
+  border-color: #bfeedd;
+}
+
 .section-bar {
   display: flex;
   align-items: center;
@@ -213,6 +219,39 @@ body {
 
 .section-bar-label.green {
   background: var(--green);
+}
+
+.section-bar-label.orange {
+  background: var(--orange);
+}
+
+.diff-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.diff-card {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 14px 16px;
+  background: #fafcff;
+}
+
+.diff-card h3 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  color: var(--black);
+}
+
+.diff-new {
+  background: #f5fbf5;
+  border-color: #cfe7cf;
+}
+
+.diff-removed {
+  background: #fff6f6;
+  border-color: #f0cccc;
 }
 
 .topic-list {
@@ -384,14 +423,8 @@ body {
   .content-grid {
     grid-template-columns: 1fr;
   }
-}
 
-/* AI予想（今後の見通し）専用 */
-.side-block:last-child {
-  background: linear-gradient(
-    180deg,
-    #f3fff9 0%,
-    #ecfff7 100%
-  );
-  border: 1px solid #bfeedd;
+  .diff-grid {
+    grid-template-columns: 1fr;
+  }
 }
