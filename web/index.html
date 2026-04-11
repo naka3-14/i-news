@@ -7,40 +7,64 @@
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-orb orb-3"></div>
+
   <div class="container">
     <header class="hero">
-      <p class="eyebrow">Daily Brief</p>
+      <p class="eyebrow">DAILY BRIEF</p>
       <h1>今日のイラン情勢</h1>
       <p class="subtext">毎日読む用の要点まとめ</p>
-      <div id="dateBadge" class="date-badge">読み込み中...</div>
+
+      <div class="hero-badges">
+        <div id="dateBadge" class="date-badge">更新日: 読み込み中...</div>
+        <div id="timeBadge" class="time-badge">最終更新: -</div>
+      </div>
     </header>
 
     <main>
-      <section class="card summary-card">
-        <h2>全体まとめ</h2>
+      <section class="card summary-card gradient-card">
+        <div class="section-title-row">
+          <h2>全体まとめ</h2>
+          <span class="mini-chip chip-summary">SUMMARY</span>
+        </div>
         <p id="headlineSummary">読み込み中...</p>
       </section>
 
       <section class="grid two-col">
-        <div class="card">
-          <h2>重要トピック</h2>
+        <div class="card accent-card topics-card">
+          <div class="section-title-row">
+            <h2>重要トピック</h2>
+            <span class="mini-chip chip-topic">TOPICS</span>
+          </div>
           <div id="topTopics" class="stack"></div>
         </div>
 
-        <div class="card">
-          <h2>日本への影響</h2>
+        <div class="card accent-card impact-card">
+          <div class="section-title-row">
+            <h2>日本への影響</h2>
+            <span class="mini-chip chip-impact">JAPAN</span>
+          </div>
           <ul id="impactList" class="clean-list"></ul>
         </div>
       </section>
 
-      <section class="card">
-        <h2>次に注目</h2>
+      <section class="card accent-card watch-card">
+        <div class="section-title-row">
+          <h2>次に注目</h2>
+          <span class="mini-chip chip-watch">WATCH</span>
+        </div>
         <ul id="watchNextList" class="clean-list"></ul>
       </section>
 
-      <section class="card">
+      <section class="card news-section-card">
         <div class="section-head">
-          <h2>記事一覧</h2>
+          <div class="section-title-row">
+            <h2>記事一覧</h2>
+            <span class="mini-chip chip-news">NEWS</span>
+          </div>
+
           <div class="controls">
             <select id="categoryFilter">
               <option value="all">すべて</option>
@@ -55,8 +79,13 @@
 
   <template id="topicTemplate">
     <article class="topic-item">
-      <h3></h3>
-      <p></p>
+      <div class="topic-icon-wrap">
+        <span class="topic-icon">●</span>
+      </div>
+      <div class="topic-content">
+        <h3></h3>
+        <p></p>
+      </div>
     </article>
   </template>
 
@@ -76,4 +105,3 @@
   <script src="./script.js"></script>
 </body>
 </html>
-
