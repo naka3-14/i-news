@@ -7,6 +7,8 @@ const headlineSummary = document.getElementById("headlineSummary");
 const topTopics = document.getElementById("topTopics");
 const impactList = document.getElementById("impactList");
 const forecastList = document.getElementById("forecastList");
+const diffNew = document.getElementById("diffNew");
+const diffRemoved = document.getElementById("diffRemoved");
 const newsList = document.getElementById("newsList");
 const categoryFilter = document.getElementById("categoryFilter");
 
@@ -73,6 +75,38 @@ function getForecastIcon(text) {
   return "🔎";
 }
 
+function renderDiff(diff) {
+  diffNew.innerHTML = "";
+  diffRemoved.innerHTML = "";
+
+  const newTopics = diff?.new_topics || [];
+  const removedTopics = diff?.removed_topics || [];
+
+  if (newTopics.length === 0) {
+    const li = document.createElement("li");
+    li.textContent = "＋ 目立った新規トピックはありません";
+    diffNew.appendChild(li);
+  } else {
+    newTopics.forEach((item) => {
+      const li = document.createElement("li");
+      li.textContent = `＋ ${item}`;
+      diffNew.appendChild(li);
+    });
+  }
+
+  if (removedTopics.length === 0) {
+    const li = document.createElement("li");
+    li.textContent = "− 目立って消えた話題はありません";
+    diffRemoved.appendChild(li);
+  } else {
+    removedTopics.forEach((item) => {
+      const li = document.createElement("li");
+      li.textContent = `− ${item}`;
+      diffRemoved.appendChild(li);
+    });
+  }
+}
+
 function renderSummary(summary) {
   dateBadge.textContent = summary.date || "-";
   timeBadge.textContent = summary.updated_at || "-";
@@ -100,6 +134,8 @@ function renderSummary(summary) {
     li.textContent = `${getForecastIcon(item)} ${item}`;
     forecastList.appendChild(li);
   });
+
+  renderDiff(summary.diff || {});
 }
 
 function populateCategoryFilter(news) {
