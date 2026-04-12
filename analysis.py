@@ -3,6 +3,7 @@ import os
 import re
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 
@@ -10,7 +11,6 @@ try:
     from groq import Groq
 except ImportError:
     Groq = None
-
 
 load_dotenv()
 
@@ -23,9 +23,11 @@ SUMMARY_JSON_PATH = DATA_DIR / "daily_summary.json"
 YESTERDAY_SUMMARY_PATH = DATA_DIR / "yesterday_summary.json"
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
-TODAY_STR = datetime.now().strftime("%Y-%m-%d")
-NOW_STR = datetime.now().strftime("%Y-%m-%d %H:%M")
 
+JST = ZoneInfo("Asia/Tokyo")
+NOW_JST = datetime.now(JST)
+TODAY_STR = NOW_JST.strftime("%Y-%m-%d")
+NOW_STR = NOW_JST.strftime("%Y-%m-%d %H:%M")
 
 def clean_text(text: str) -> str:
     text = str(text or "")
