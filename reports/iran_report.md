@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-04-11
+# Iran Daily Report - 2026-04-12
 
 ## 今日の重要ニュース
 
@@ -6,63 +6,63 @@
 - ソース: AP Middle East
 - カテゴリ: 外交
 - 重要度: 5
-- 要約: イスラエルがベイルートの中心部を攻撃し、少なくとも182人が死亡した。イスラエルはイランとの休戦協定はベイルートには適用されないと述べていた。
+- 要約: イスラエルは、イランとの休戦がベイルートの中心部には適用されないと述べた後、ベイルートの中心部を攻撃し、少なくとも182人が死亡した。
 - URL: https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-9402965418687c634d4a157c966ec6ea
 
 ### 2. Strait of Hormuz leverage looms over US-Iran talks in Islamabad
 - ソース: Al Jazeera Middle East
 - カテゴリ: ホルムズ海峡
 - 重要度: 5
-- 要約: ホルムズ海峡の通過権益に関する交渉が、パキスタンのイスラマバードで行われている。アメリカとイランの交渉が進む中、ホルムズ海峡の通過権益が重要な問題となっている。
+- 要約: ホルムズ海峡の通過権利をめぐる交渉が、パキスタンのイスラマバードで行われている。米国とイランの交渉が進む中、ホルムズ海峡の通過権利をめぐる緊張が高まっている。
 - URL: https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad
 
 ### 3. UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz
 - ソース: AP Middle East
 - カテゴリ: ホルムズ海峡
 - 重要度: 4
-- 要約: イギリスは、イランがホルムズ海峡を再開させるように圧力をかけるために、40を超える国と協力しています。
+- 要約: イギリスは、イランがホルムズ海峡を再開するよう圧力をかけるために、40を超える国々を集めた。
 - URL: https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856
 
 ### 4. US stocks rise and oil prices trim their gains on hopes for the ceasefire with Iran
 - ソース: AP Middle East
 - カテゴリ: 外交
 - 重要度: 4
-- 要約: 米国株価は、イランとの停戦の可能性により上昇したが、石油価格はその利益を縮小した。
+- 要約: 米国株価が上昇し、イランとの停戦の期待により石油価格が回復した。
 - URL: https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-857ae30b3be4441819b2848fd594a33d
 
 ### 5. US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing
 - ソース: Al Jazeera Middle East
 - カテゴリ: ホルムズ海峡
 - 重要度: 4
-- 要約: 米国は、ホルムズ海峡を通過した2隻の海軍艦船が、海底に設置された爆雷の除去作業を行ったと発表した。
+- 要約: アメリカは、ホルムズ海峡を通過した2隻の海軍艦船が、水雷除去作業を行ったと発表した。
 - URL: https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing
 
 ### 6. 2 US aircraft shot down as war in Iran escalates. At least 1 crew member is missing
 - ソース: AP Middle East
 - カテゴリ: 軍事
 - 重要度: 3
-- 要約: イランの戦争が激化し、米国軍の2機の航空機が撃墜された。少なくとも1人の乗組員が行方不明になっている。
+- 要約: アメリカの2機の飛行機がイランで撃墜され、少なくとも1人の乗員が行方不明となっています。
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-3-2026-a6365c6123cc8a696474f576d4ce7668
 
 ### 7. After Trump’s Iran ultimatum and a fragile ceasefire, Iranian Americans brace for what’s next
 - ソース: AP Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: トランプ大統領がイランに対して最後通牒を出した後、イランとイスラエルの間で暫定的な休戦が成立したが、イラン系アメリカ人は次の行動に備えている。
+- 要約: トランプ大統領がイランに対して最終的な ultimatum を出した後、イランとイスラエルの間で暫定的な休戦が成立したが、イラン系アメリカ人はこれからどうなるか不安を感じている。
 - URL: https://apnews.com/article/iran-diaspora-war-bombing-threats-protests-299b68562c4741bb433acbc64b2f0065
 
 ### 8. Ceasefire deal brings relief to some in Iran, but Trump’s threat to end a civilization still echoes
 - ソース: AP Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: イランで停戦協定が成立したことで、イラン国内の一部の人々に安心感が広がった。しかし、トランプ元大統領のイラン文明を終わらせる脅威はまだ残っている。
+- 要約: イランで停戦協定が成立し、イラン国内のいくつかの地域で緊張が和らいだ。しかし、トランプ元大統領のイランに対する脅威はまだ残っており、文明の終焉を予言した彼の言葉はまだ耳に残っている。
 - URL: https://apnews.com/article/iran-us-war-ceasefire-tehran-trump-civilization-threat-3fae8cb8c07f92184d7485da663f75b0
 
 ### 9. Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war
 - ソース: AP Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: ガザ地区は、6か月前の停戦協定が実現したことを記念しています。この停戦協定は、イランとの戦争の教訓を得るために参考になるかもしれません。
+- 要約: ガザ地区は6か月続いた停戦を記念し、イランとの戦争に役立つ教訓を得たかもしれないと考えられています。
 - URL: https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524
 
 ### 10. LIVE US and Iranian officials meet face-to-face in Islamabad ceasefire talks
@@ -72,74 +72,72 @@
 - 要約: 米国とイランの官僚がイスラマバードで停戦交渉の面談を行った。
 - URL: https://apnews.com/live/iran-war-israel-trump-04-11-2026
 
-### 11. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
+### 11. US Vice President JD Vance says talks with Iran ended after 21 hours without reaching agreement
 - ソース: AP Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: 米国とイランは高レベルの交渉の準備を進めている。イスラエルとヘズボラはさらに攻撃を続けており、緊張が高まっている。
-- URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05
-
-### 12. US-Iran historic ceasefire talks in Pakistan continue after midnight
-- ソース: AP Middle East
-- カテゴリ: 外交
-- 重要度: 3
-- 要約: 米国とイランの歴史的な停戦交渉は、パキスタンで午前深夜まで続いた。
+- 要約: 米国副大統領のJDバンスは、21時間にわたる交渉の末、イランとの合意に達することができなかったと発表した。
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9
 
-### 13. Vance warns Iran not to ‘play’ the US as he departs for negotiations aimed at ending the war
+### 12. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
 - ソース: AP Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: ジョン・バンス国防長官は、イランにアメリカを「遊び相手」として扱うことを警告しながら、戦争の終結を目指す交渉のため、イランに赴くことになりました。
+- 要約: 米国とイランは高レベルの交渉の準備を進めている。イスラエルとヘズボラはさらに攻撃を続けている。
+- URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05
+
+### 13. Unsettled and uncertain: What the Iran war means around the world as US and Iran enter talks
+- ソース: AP Middle East
+- カテゴリ: 外交
+- 重要度: 3
+- 要約: 米国とイランが交渉に入った状況について、世界中で不安と不確実性が広がっている。イランの紛争は世界の政治情勢に大きな影響を与え、世界中で不安定化の懸念が高まっている。
+- URL: https://apnews.com/article/iran-war-pakistan-trump-israel-vance-lebanon-gulf-nato-b0dcca332a3e631a5fa98c9fe0434071
+
+### 14. Vance warns Iran not to ‘play’ the US as he departs for negotiations aimed at ending the war
+- ソース: AP Middle East
+- カテゴリ: 外交
+- 重要度: 3
+- 要約: ジョン・バンス国防長官は、イランに対して「米国を遊びにしないように」と注意し、戦争終結を目指す交渉のためにイランに向かう予定です。
 - URL: https://apnews.com/article/iran-us-negotiations-vance-trump-b82625fd24adb2336a5a9615b6953629
 
-### 14. Ceasefire brings some relief for Iranians but economic outlook remains grim
+### 15. Ceasefire brings some relief for Iranians but economic outlook remains grim
 - ソース: Al Jazeera Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: イランで停戦が成立したことで、住民は一時的な安心感を感じている。しかし、経済状況は依然として厳しい状態が続いている。
+- 要約: イランで停戦が実施され、イランの人々に少しの安心感が生まれた。しかし、経済状況は今でも厳しいままである。
 - URL: https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim
 
-### 15. Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US
+### 16. Historic Iran-US talks to continue for a second day; Israel pounds Lebanon
 - ソース: Al Jazeera Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: イランの副外務大臣は、アメリカとの交渉でイランが「上回っている」と述べた。
+- 要約: 歴史的なイランとアメリカの交渉は2日目にも続きます。イスラエルはレバノンを攻撃しています。
+- URL: https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad
+
+### 17. Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US
+- ソース: Al Jazeera Middle East
+- カテゴリ: 外交
+- 重要度: 3
+- 要約: イランの副外務大臣は、アメリカとの交渉でイランが「有利な立場」にあると述べた。
 - URL: https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us
 
-### 16. Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire
+### 18. Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire
 - ソース: Al Jazeera Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: パキスタンは、米伊の停戦が脆弱な状況にある中、戦闘機をサウジアラビアに派遣した。
+- 要約: パキスタンは、米伊の停戦が脆弱な状況下で、戦闘機をサウジアラビアに派遣した。
 - URL: https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire
 
-### 17. US President Trump says US ‘wins’ regardless of how Iran talks go
+### 19. US President Trump says US ‘wins’ regardless of how Iran talks go
 - ソース: Al Jazeera Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: アメリカのトランプ大統領は、イランとの交渉の結果に関係なく、アメリカは勝利を収めるだろうと述べた。
+- 要約: アメリカのトランプ大統領は、イランとの交渉の結果に関係なく、アメリカが勝つと述べた。
 - URL: https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go
 
-### 18. US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal
+### 20. US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal
 - ソース: Al Jazeera Middle East
 - カテゴリ: 外交
 - 重要度: 3
-- 要約: 米国とイランの停戦協定についてのニュースです。 
-
-米国とイランは停戦協定を結ぶことができるか、圧力、インセンティブ、リスクが最終的な合意を導くかについての議論が続いています。
+- 要約: 米国とイランの停戦合意: 厳しい圧力や誘因、そしてリスクが最終的な合意を導く可能性はあるか。
 - URL: https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal
-
-### 19. US-Iran direct talks on ending war under way in Pakistan
-- ソース: Al Jazeera Middle East
-- カテゴリ: 外交
-- 重要度: 3
-- 要約: 米国とイランの間で、パキスタンで戦争の終結を目指した直接交渉が行われている。
-- URL: https://www.aljazeera.com/news/2026/4/11/us-iran-talks-on-ending-war-begin-in-pakistan
-
-### 20. Aid groups warn Iran war is hindering food and medicine from reaching millions
-- ソース: AP Middle East
-- カテゴリ: 人道
-- 重要度: 2
-- 要約: 人道援助団体は、イランの戦争が数百万人の人々に食料や医薬品を届けることを妨げていると警告しています。
-- URL: https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b
