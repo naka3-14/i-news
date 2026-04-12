@@ -34,8 +34,10 @@ HEADERS = {
     )
 }
 
+# ★ ここ追加
 SOURCES = [
     {"name": "AP Middle East", "url": "https://apnews.com/hub/middle-east"},
+    {"name": "Al Jazeera Iran", "url": "https://www.aljazeera.com/where/iran/"},
     {"name": "Al Jazeera Middle East", "url": "https://www.aljazeera.com/middle-east/"},
 ]
 
@@ -123,24 +125,18 @@ def is_iran_related(text: str) -> bool:
 def classify_article(text: str) -> str:
     t = normalize_title(text)
 
-    if "hormuz" in t or "strait of hormuz" in t or "persian gulf" in t or "shipping" in t:
+    if "hormuz" in t or "strait of hormuz" in t:
         return "ホルムズ海峡"
     if "sanction" in t:
         return "制裁"
-    if "nuclear" in t or "iaea" in t:
+    if "nuclear" in t:
         return "核問題"
-    if "ceasefire" in t or "truce" in t or "talks" in t or "negotiation" in t or "diplom" in t:
+    if "ceasefire" in t or "talks" in t:
         return "外交"
-    if (
-        "strike" in t or "missile" in t or "military" in t or "attack" in t
-        or "drone" in t or "shot down" in t or "troops" in t or "rescue" in t
-        or "carrier" in t or "forces" in t
-    ):
+    if "missile" in t or "attack" in t or "drone" in t:
         return "軍事"
-    if "oil" in t or "market" in t or "energy" in t or "stocks" in t:
-        return "市場・物流"
-    if "food" in t or "medicine" in t or "aid" in t or "humanitarian" in t:
-        return "人道"
+    if "oil" in t or "market" in t:
+        return "市場"
     return "その他"
 
 
@@ -148,38 +144,34 @@ def importance_score(text: str) -> int:
     t = normalize_title(text)
     score = 1
 
-    if "hormuz" in t or "strait of hormuz" in t:
+    if "hormuz" in t:
         score += 3
-    if "ceasefire" in t or "truce" in t or "negotiation" in t or "talks" in t:
+    if "ceasefire" in t or "talks" in t:
         score += 2
-    if "missile" in t or "strike" in t or "attack" in t or "drone" in t or "shot down" in t:
+    if "missile" in t or "attack" in t:
         score += 2
-    if "sanction" in t or "nuclear" in t or "iaea" in t:
+    if "sanction" in t or "nuclear" in t:
         score += 2
-    if "shipping" in t or "oil" in t or "energy" in t or "stocks" in t:
-        score += 1
-    if "aid" in t or "food" in t or "medicine" in t:
+    if "oil" in t or "market" in t:
         score += 1
 
     return min(score, 5)
 
 
 def fetch_html(url: str) -> str:
-    response = requests.get(url, headers=HEADERS, timeout=20)
-    response.raise_for_status()
-    return response.text
+    res = requests.get(url, headers=HEADERS, timeout=20)
+    res.raise_for_status()
+    return res.text
 
 
 def make_absolute_url(base_url: str, href: str) -> str:
     if href.startswith("http"):
         return href
-
     if href.startswith("/"):
         if "apnews.com" in base_url:
             return "https://apnews.com" + href
         if "aljazeera.com" in base_url:
             return "https://www.aljazeera.com" + href
-
     return href
 
 
@@ -195,6 +187,7 @@ def parse_links_generic(html: str, base_url: str, source_name: str) -> list[dict
             continue
 
         url = make_absolute_url(base_url, href)
+
         if not url.startswith("http"):
             continue
 
@@ -205,77 +198,44 @@ def parse_links_generic(html: str, base_url: str, source_name: str) -> list[dict
                 "url": url,
             })
 
-    deduped = []
+    # 重複削除（URLベース）
+    dedup = []
     seen = set()
-    for item in items:
-        if item["url"] not in seen:
-            seen.add(item["url"])
-            deduped.append(item)
+    for x in items:
+        if x["url"] not in seen:
+            seen.add(x["url"])
+            dedup.append(x)
 
-    return deduped
-
-
-def fallback_summary(title: str) -> str:
-    return f"見出しベース要約: {title}"
-
-
-def groq_summary(title: str, category: str) -> str:
-    if not GROQ_API_KEY or Groq is None:
-        return fallback_summary(title)
-
-    try:
-        client = Groq(api_key=GROQ_API_KEY)
-
-        prompt = f"""
-以下のニュース見出しを日本語で2文以内で要約してください。
-見出しから読み取れる範囲を超えた推測は避けてください。
-固有名詞はなるべくそのまま残してください。
-
-見出し: {title}
-カテゴリ: {category}
-"""
-
-        response = client.chat.completions.create(
-            model="llama-3.1-8b-instant",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.2,
-        )
-
-        content = response.choices[0].message.content.strip()
-        return content if content else fallback_summary(title)
-
-    except Exception as e:
-        return f"{fallback_summary(title)} / Groq要約失敗: {e}"
+    return dedup
 
 
 def collect_news() -> list[dict]:
     all_items = []
 
-    for source in SOURCES:
+    for src in SOURCES:
         try:
-            html = fetch_html(source["url"])
-            links = parse_links_generic(html, source["url"], source["name"])
+            html = fetch_html(src["url"])
+            links = parse_links_generic(html, src["url"], src["name"])
             all_items.extend(links)
-            print(f"[OK] {source['name']} : {len(links)}件")
+            print(f"[OK] {src['name']} : {len(links)}件")
         except Exception as e:
-            print(f"[ERROR] {source['name']} : {e}")
+            print(f"[ERROR] {src['name']} : {e}")
 
-    deduped = []
-    seen_titles = set()
-
+    # タイトル重複除去
+    dedup = []
+    seen = set()
     for item in all_items:
         key = normalize_title(item["title"])
-        if key not in seen_titles:
-            seen_titles.add(key)
-            deduped.append(item)
+        if key not in seen:
+            seen.add(key)
+            dedup.append(item)
 
     today = datetime.now().strftime("%Y-%m-%d")
-    results = []
 
-    for item in deduped:
+    results = []
+    for item in dedup:
         category = classify_article(item["title"])
         score = importance_score(item["title"])
-        summary = groq_summary(item["title"], category)
 
         results.append({
             "date": today,
@@ -284,59 +244,44 @@ def collect_news() -> list[dict]:
             "url": item["url"],
             "category": category,
             "importance": score,
-            "summary": summary,
+            "summary": item["title"],
         })
 
     results = [x for x in results if x["importance"] >= 2]
-    results.sort(key=lambda x: (-x["importance"], x["source"], x["title"]))
+    results.sort(key=lambda x: -x["importance"])
+
     return results
 
 
-def save_json(news: list[dict], path: Path) -> None:
+def save_json(news, path):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(news, f, ensure_ascii=False, indent=2)
 
 
-def save_csv(news: list[dict], path: Path) -> None:
+def save_csv(news, path):
     if not news:
         return
-
     with open(path, "w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(
-            f,
-            fieldnames=["date", "source", "category", "importance", "title", "summary", "url"]
-        )
+        writer = csv.DictWriter(f, fieldnames=news[0].keys())
         writer.writeheader()
         writer.writerows(news)
 
 
-def save_markdown(news: list[dict], path: Path) -> None:
+def save_markdown(news, path):
     today = datetime.now().strftime("%Y-%m-%d")
     lines = [f"# Iran Daily Report - {today}", ""]
 
-    if not news:
-        lines.append("ニュースが取得できませんでした。")
-    else:
-        lines.append("## 今日の重要ニュース")
+    for i, n in enumerate(news[:20], 1):
+        lines.append(f"## {i}. {n['title']}")
+        lines.append(f"- ソース: {n['source']}")
+        lines.append(f"- URL: {n['url']}")
         lines.append("")
-
-        for i, item in enumerate(news[:20], 1):
-            lines.append(f"### {i}. {item['title']}")
-            lines.append(f"- ソース: {item['source']}")
-            lines.append(f"- カテゴリ: {item['category']}")
-            lines.append(f"- 重要度: {item['importance']}")
-            lines.append(f"- 要約: {item['summary']}")
-            lines.append(f"- URL: {item['url']}")
-            lines.append("")
 
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def main() -> None:
+def main():
     news = collect_news()
-
-    # 上位20件まで
-    news = news[:20]
 
     json_path = DATA_DIR / "iran_news.json"
     csv_path = DATA_DIR / "iran_news.csv"
@@ -346,11 +291,7 @@ def main() -> None:
     save_csv(news, csv_path)
     save_markdown(news, md_path)
 
-    print("")
     print("==== 完了 ====")
-    print(f"JSON: {json_path}")
-    print(f"CSV : {csv_path}")
-    print(f"MD  : {md_path}")
     print(f"件数: {len(news)}")
 
 
