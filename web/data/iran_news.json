@@ -28,15 +28,6 @@
   },
   {
     "date": "2026-04-12",
-    "source": "Al Jazeera Iran",
-    "title": "Gulf states look for alternatives as Strait of Hormuz remains effectively closed",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?update=4487121",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Gulf states look for alternatives as Strait of Hormuz remains effectively closed"
-  },
-  {
-    "date": "2026-04-12",
     "source": "AP Middle East",
     "title": "US military says it will blockade Iranian ports after ceasefire talks ended without agreement",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13",
@@ -169,14 +160,5 @@
     "category": "市場",
     "importance": 2,
     "summary": "Oil prices rise after the US says it would block Iranian ports starting Monday"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "Al Jazeera Iran",
-    "title": "Oil prices jump after US announces blockade of Iranian ports",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?update=4487253",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Oil prices jump after US announces blockade of Iranian ports"
   }
 ]
