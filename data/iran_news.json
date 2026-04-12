@@ -2,29 +2,11 @@
   {
     "date": "2026-04-12",
     "source": "AP Middle East",
-    "title": "At least 182 killed as Israel strikes central Beirut after saying Iran truce doesn’t apply there",
-    "url": "https://apnews.com/article/israel-lebanon-hezbollah-beirut-strikes-9402965418687c634d4a157c966ec6ea",
+    "title": "US stocks rise and oil prices trim their gains on hopes for the ceasefire with Iran",
+    "url": "https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-857ae30b3be4441819b2848fd594a33d",
     "category": "外交",
-    "importance": 5,
-    "summary": "イスラエルは、イランとの休戦がベイルートの中心部には適用されないと述べた後、ベイルートの中心部を攻撃し、少なくとも182人が死亡した。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "AP Middle East",
-    "title": "Trump threatens Strait of Hormuz blockade after US-Iran ceasefire talks end without agreement",
-    "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "トランプ大統領は、米伊の停戦交渉が合意に達せず終了したことを受けて、ホルムズ海峡を封鎖することを脅した。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "Al Jazeera Middle East",
-    "title": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
-    "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "ホルムズ海峡を通過する石油タンカーが、米国とイランの停戦状態が不安定な中で海峡を出発した。"
+    "importance": 4,
+    "summary": "US stocks rise and oil prices trim their gains on hopes for the ceasefire with Iran"
   },
   {
     "date": "2026-04-12",
@@ -33,43 +15,34 @@
     "url": "https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "イギリスは、イランがホルムズ海峡を再開させるように圧力をかけるために、40を超える国と協力しています。"
+    "summary": "UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says US to blockade ships crossing Strait of Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/james-bays-on-trump-blocking-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump says US to blockade ships crossing Strait of Hormuz"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "Al Jazeera Iran",
+    "title": "Gulf states look for alternatives as Strait of Hormuz remains effectively closed",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?update=4487121",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Gulf states look for alternatives as Strait of Hormuz remains effectively closed"
   },
   {
     "date": "2026-04-12",
     "source": "AP Middle East",
-    "title": "US stocks rise and oil prices trim their gains on hopes for the ceasefire with Iran",
-    "url": "https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-857ae30b3be4441819b2848fd594a33d",
+    "title": "US military says it will blockade Iranian ports after ceasefire talks ended without agreement",
+    "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13",
     "category": "外交",
-    "importance": 4,
-    "summary": "米国株価が上昇し、イランとの休戦の期待により石油価格が減少した。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "Al Jazeera Middle East",
-    "title": "Trump says US to ‘blockade all ships entering or leaving Hormuz’",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?update=4485951",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "トランプはホルムズ海峡を通過するすべての船舶を封鎖すると発表した。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "Al Jazeera Middle East",
-    "title": "‘Iran military won’t hesitate to shoot at US ships’ in Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?update=4485917",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "イラン軍はホルムズ海峡でアメリカの船舶に銃撃することを躊躇しないと述べた。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "AP Middle East",
-    "title": "2 US aircraft shot down as war in Iran escalates. At least 1 crew member is missing",
-    "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-3-2026-a6365c6123cc8a696474f576d4ce7668",
-    "category": "軍事",
     "importance": 3,
-    "summary": "米国軍の2機の航空機がイランで撃墜され、少なくとも1人の乗員が行方不明になっている。"
+    "summary": "US military says it will blockade Iranian ports after ceasefire talks ended without agreement"
   },
   {
     "date": "2026-04-12",
@@ -78,25 +51,16 @@
     "url": "https://apnews.com/article/iran-diaspora-war-bombing-threats-protests-299b68562c4741bb433acbc64b2f0065",
     "category": "外交",
     "importance": 3,
-    "summary": "トランプ政権のイランとの最終警告と暫定の停戦の後、イラン系アメリカ人たちは次のステップに備えている。"
+    "summary": "After Trump’s Iran ultimatum and a fragile ceasefire, Iranian Americans brace for what’s next"
   },
   {
     "date": "2026-04-12",
     "source": "AP Middle East",
-    "title": "Ceasefire deal brings relief to some in Iran, but Trump’s threat to end a civilization still echoes",
-    "url": "https://apnews.com/article/iran-us-war-ceasefire-tehran-trump-civilization-threat-3fae8cb8c07f92184d7485da663f75b0",
+    "title": "Failed US-Iran talks in Pakistan raise questions about fragile ceasefire",
+    "url": "https://apnews.com/article/iran-us-talks-ceasefire-36cd009a0b238fcad4665a5a02cc895e",
     "category": "外交",
     "importance": 3,
-    "summary": "イランで停戦協定が成立し、イラン国内のいくつかの地域で安定がもたらされたが、トランプ元大統領のイランに対する脅威はまだ残っている。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "AP Middle East",
-    "title": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
-    "url": "https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524",
-    "category": "外交",
-    "importance": 3,
-    "summary": "ガザが6か月続いた休戦が、イランとの戦争に役立つ教訓を提供するかもしれない。ガザの休戦は、イスラエルとパレスチナの両方にとって、戦争の代替手段としての休戦の可能性を示唆している。"
+    "summary": "Failed US-Iran talks in Pakistan raise questions about fragile ceasefire"
   },
   {
     "date": "2026-04-12",
@@ -105,7 +69,25 @@
     "url": "https://apnews.com/article/iran-voices-negotiations-ceasefire-war-ca007ac1ba9f247cb3a59f9b97b06314",
     "category": "外交",
     "importance": 3,
-    "summary": "イランの国民は、米国との平和交渉が失敗したことに対して失望したものの、決して屈しない姿勢を示した。"
+    "summary": "Iranians left disappointed but defiant after failure of peace talks with US"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "AP Middle East",
+    "title": "Ceasefire deal brings relief to some in Iran, but Trump’s threat to end a civilization still echoes",
+    "url": "https://apnews.com/article/iran-us-war-ceasefire-tehran-trump-civilization-threat-3fae8cb8c07f92184d7485da663f75b0",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Ceasefire deal brings relief to some in Iran, but Trump’s threat to end a civilization still echoes"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "AP Middle East",
+    "title": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
+    "url": "https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
   },
   {
     "date": "2026-04-12",
@@ -114,7 +96,7 @@
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9",
     "category": "外交",
     "importance": 3,
-    "summary": "米国とイランは21時間の停戦交渉の末、合意に達することができず、パキスタンを訪問中のバンス外相が去る前に交渉は打ち切られた。"
+    "summary": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan"
   },
   {
     "date": "2026-04-12",
@@ -123,60 +105,78 @@
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05",
     "category": "外交",
     "importance": 3,
-    "summary": "米国とイランは高レベルの交渉を準備している。イスラエルとヒズボラはさらに攻撃を続けている。"
+    "summary": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire"
   },
   {
     "date": "2026-04-12",
-    "source": "AP Middle East",
-    "title": "Vance warns Iran not to ‘play’ the US as he departs for negotiations aimed at ending the war",
-    "url": "https://apnews.com/article/iran-us-negotiations-vance-trump-b82625fd24adb2336a5a9615b6953629",
+    "source": "Al Jazeera Iran",
+    "title": "How shaky is the Iran-US ceasefire?",
+    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire",
     "category": "外交",
     "importance": 3,
-    "summary": "ジョン・バンス米国国防長官は、イランとの交渉に向けて出発した際に、イランに「米国を遊びにしないように」と警告した。"
+    "summary": "How shaky is the Iran-US ceasefire?"
   },
   {
     "date": "2026-04-12",
-    "source": "Al Jazeera Middle East",
-    "title": "Ghalibaf says US failed to gain trust of Iran’s delegates in Pakistan talks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad",
-    "category": "外交",
-    "importance": 3,
-    "summary": "イランのガリバフ氏は、パキスタンでの米伊交渉で、イラン代表団の信頼を得ることができなかったと述べた。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "Al Jazeera Middle East",
-    "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us",
-    "category": "外交",
-    "importance": 3,
-    "summary": "イランの副外務大臣は、アメリカとの交渉でイランが優位な立場にあると述べた。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "Al Jazeera Middle East",
-    "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go",
-    "category": "外交",
-    "importance": 3,
-    "summary": "アメリカのトランプ大統領は、イランとの交渉の結果に関係なく、アメリカは勝利を収めるだろうと述べた。"
-  },
-  {
-    "date": "2026-04-12",
-    "source": "Al Jazeera Middle East",
+    "source": "Al Jazeera Iran",
     "title": "US-Iran ceasefire talks: What are the key sticking points?",
     "url": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points",
     "category": "外交",
     "importance": 3,
-    "summary": "米国とイランの停戦交渉についての重要な議題は何でしょうか。米国とイランの停戦交渉は、イランの核計画とイランのイスラム革命防衛隊の活動をめぐって、停戦の条件についての合意に達することが困難です。"
+    "summary": "US-Iran ceasefire talks: What are the key sticking points?"
   },
   {
     "date": "2026-04-12",
-    "source": "Al Jazeera Middle East",
+    "source": "Al Jazeera Iran",
+    "title": "Why did US-Iran talks end without an agreement in Pakistan?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Why did US-Iran talks end without an agreement in Pakistan?"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "Al Jazeera Iran",
     "title": "Watch JD Vance’s full remarks after US-Iran talks end without deal",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal",
     "category": "外交",
     "importance": 3,
-    "summary": "JD Vanceが米伊交渉の終了を発表した際の全文を紹介します。米伊交渉は合意に達することなく終了したということです。"
+    "summary": "Watch JD Vance’s full remarks after US-Iran talks end without deal"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "Al Jazeera Iran",
+    "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go",
+    "category": "外交",
+    "importance": 3,
+    "summary": "US President Trump says US ‘wins’ regardless of how Iran talks go"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "Al Jazeera Iran",
+    "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "AP Middle East",
+    "title": "Oil prices rise after the US says it would block Iranian ports starting Monday",
+    "url": "https://apnews.com/article/iran-oil-prices-4b0b4b1f6df389bf2e17f47e55e13119",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Oil prices rise after the US says it would block Iranian ports starting Monday"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "Al Jazeera Iran",
+    "title": "Oil prices jump after US announces blockade of Iranian ports",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?update=4487253",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Oil prices jump after US announces blockade of Iranian ports"
   }
 ]
