@@ -1,72 +1,72 @@
-# Iran Daily Report - 2026-04-12
+# Iran Daily Report - 2026-04-13
 
-## 1. US stocks rise and oil prices trim their gains on hopes for the ceasefire with Iran
+## 1. Oil is back above $100, though US stocks hold steady on hopes for US-Iran talks
 - ソース: AP Middle East
-- URL: https://apnews.com/article/stock-markets-trump-iran-ceasefire-oil-857ae30b3be4441819b2848fd594a33d
+- URL: https://apnews.com/article/oil-prices-stock-markets-trump-iran-ceasefire-fafebd0711ab3b2a191ae23d4fe33350
 
 ## 2. UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz
 - ソース: AP Middle East
 - URL: https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856
 
-## 3. Trump says US to blockade ships crossing Strait of Hormuz
+## 3. What do we know about sea mines in and around the Strait of Hormuz?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/12/james-bays-on-trump-blocking-strait-of-hormuz
+- URL: https://www.aljazeera.com/economy/2026/4/13/what-do-we-know-about-sea-mines-in-and-around-the-strait-of-hormuz
 
-## 4. US military says it will blockade Iranian ports after ceasefire talks ended without agreement
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13
+## 4. Trump’s threat to blockade Hormuz: Why it’s the latest major escalation
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation
 
-## 5. After Trump’s Iran ultimatum and a fragile ceasefire, Iranian Americans brace for what’s next
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-diaspora-war-bombing-threats-protests-299b68562c4741bb433acbc64b2f0065
+## 5. Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy
 
-## 6. Failed US-Iran talks in Pakistan raise questions about fragile ceasefire
+## 6. Starmer says UK will not support US blockade of Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz
+
+## 7. UK’s Starmer says summit of leaders to address Strait of Hormuz this week
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?update=4489027
+
+## 8. Failed US-Iran talks in Pakistan raise questions about fragile ceasefire
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-talks-ceasefire-36cd009a0b238fcad4665a5a02cc895e
 
-## 7. Iranians left disappointed but defiant after failure of peace talks with US
+## 9. Iranians left disappointed but defiant after failure of peace talks with US
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-voices-negotiations-ceasefire-war-ca007ac1ba9f247cb3a59f9b97b06314
-
-## 8. Ceasefire deal brings relief to some in Iran, but Trump’s threat to end a civilization still echoes
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-war-ceasefire-tehran-trump-civilization-threat-3fae8cb8c07f92184d7485da663f75b0
-
-## 9. Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war
-- ソース: AP Middle East
-- URL: https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524
 
 ## 10. US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9
 
-## 11. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
+## 11. Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war
+- ソース: AP Middle East
+- URL: https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524
+
+## 12. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05
 
-## 12. How shaky is the Iran-US ceasefire?
+## 13. Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/13/pakistan-eyes-narrow-window-to-resuscitate-us-iran-talks-after-breakdown
+
+## 14. How the US-Iran talks in Islamabad unfolded
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded
+
+## 15. Pope Leo says he does not fear Trump after attack over Iran peace appeal
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal
+
+## 16. Pakistan eyes narrow window to resuscitate US-Iran talks
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?update=4488952
+
+## 17. How shaky is the Iran-US ceasefire?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire
-
-## 13. US-Iran ceasefire talks: What are the key sticking points?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points
-
-## 14. Why did US-Iran talks end without an agreement in Pakistan?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan
-
-## 15. Watch JD Vance’s full remarks after US-Iran talks end without deal
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal
-
-## 16. US President Trump says US ‘wins’ regardless of how Iran talks go
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go
-
-## 17. Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us
 
 ## 18. Oil prices rise after the US says it would block Iranian ports starting Monday
 - ソース: AP Middle East
