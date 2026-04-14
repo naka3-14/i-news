@@ -1,15 +1,24 @@
 [
   {
-    "date": "2026-04-13",
-    "source": "AP Middle East",
-    "title": "Oil is back above $100, though US stocks hold steady on hopes for US-Iran talks",
-    "url": "https://apnews.com/article/oil-prices-stock-markets-trump-iran-ceasefire-fafebd0711ab3b2a191ae23d4fe33350",
-    "category": "外交",
-    "importance": 4,
-    "summary": "Oil is back above $100, though US stocks hold steady on hopes for US-Iran talks"
+    "date": "2026-04-14",
+    "source": "Al Jazeera Iran",
+    "title": "Starmer announces talks to address the Strait of Hormuz crisis",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/starmer-announces-talks-to-address-the-strait-of-hormuz-crisis",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Starmer announces talks to address the Strait of Hormuz crisis"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
+    "source": "AP Middle East",
+    "title": "How a US blockade near the Strait of Hormuz could work and the impact ahead for the global economy",
+    "url": "https://apnews.com/article/iran-war-strait-of-hormuz-blockade-trump-bf6a057faebfc11eb0c76510a4fc20b1",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "How a US blockade near the Strait of Hormuz could work and the impact ahead for the global economy"
+  },
+  {
+    "date": "2026-04-14",
     "source": "AP Middle East",
     "title": "UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz",
     "url": "https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856",
@@ -18,7 +27,16 @@
     "summary": "UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
+    "source": "Al Jazeera Iran",
+    "title": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz"
+  },
+  {
+    "date": "2026-04-14",
     "source": "Al Jazeera Iran",
     "title": "What do we know about sea mines in and around the Strait of Hormuz?",
     "url": "https://www.aljazeera.com/economy/2026/4/13/what-do-we-know-about-sea-mines-in-and-around-the-strait-of-hormuz",
@@ -27,7 +45,7 @@
     "summary": "What do we know about sea mines in and around the Strait of Hormuz?"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "Al Jazeera Iran",
     "title": "Trump’s threat to blockade Hormuz: Why it’s the latest major escalation",
     "url": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation",
@@ -36,7 +54,7 @@
     "summary": "Trump’s threat to blockade Hormuz: Why it’s the latest major escalation"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "Al Jazeera Iran",
     "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
     "url": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy",
@@ -45,7 +63,7 @@
     "summary": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "Al Jazeera Iran",
     "title": "Starmer says UK will not support US blockade of Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz",
@@ -54,25 +72,16 @@
     "summary": "Starmer says UK will not support US blockade of Strait of Hormuz"
   },
   {
-    "date": "2026-04-13",
-    "source": "Al Jazeera Iran",
-    "title": "UK’s Starmer says summit of leaders to address Strait of Hormuz this week",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?update=4489027",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "UK’s Starmer says summit of leaders to address Strait of Hormuz this week"
-  },
-  {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "AP Middle East",
-    "title": "Failed US-Iran talks in Pakistan raise questions about fragile ceasefire",
+    "title": "The US blockade on Iran casts further doubt on the fragile ceasefire",
     "url": "https://apnews.com/article/iran-us-talks-ceasefire-36cd009a0b238fcad4665a5a02cc895e",
     "category": "外交",
     "importance": 3,
-    "summary": "Failed US-Iran talks in Pakistan raise questions about fragile ceasefire"
+    "summary": "The US blockade on Iran casts further doubt on the fragile ceasefire"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "AP Middle East",
     "title": "Iranians left disappointed but defiant after failure of peace talks with US",
     "url": "https://apnews.com/article/iran-voices-negotiations-ceasefire-war-ca007ac1ba9f247cb3a59f9b97b06314",
@@ -81,7 +90,7 @@
     "summary": "Iranians left disappointed but defiant after failure of peace talks with US"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "AP Middle East",
     "title": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9",
@@ -90,7 +99,7 @@
     "summary": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "AP Middle East",
     "title": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
     "url": "https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524",
@@ -99,7 +108,7 @@
     "summary": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "AP Middle East",
     "title": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05",
@@ -108,7 +117,7 @@
     "summary": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "Al Jazeera Iran",
     "title": "Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown",
     "url": "https://www.aljazeera.com/news/2026/4/13/pakistan-eyes-narrow-window-to-resuscitate-us-iran-talks-after-breakdown",
@@ -117,7 +126,7 @@
     "summary": "Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown"
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "source": "Al Jazeera Iran",
     "title": "How the US-Iran talks in Islamabad unfolded",
     "url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded",
@@ -126,39 +135,12 @@
     "summary": "How the US-Iran talks in Islamabad unfolded"
   },
   {
-    "date": "2026-04-13",
-    "source": "Al Jazeera Iran",
-    "title": "Pope Leo says he does not fear Trump after attack over Iran peace appeal",
-    "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal",
+    "date": "2026-04-14",
+    "source": "Al Jazeera Middle East",
+    "title": "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf",
+    "url": "https://www.aljazeera.com/news/2026/4/13/bahrain-summons-iraqi-envoy-as-pro-iranian-attacks-persist-in-gulf",
     "category": "軍事",
     "importance": 3,
-    "summary": "Pope Leo says he does not fear Trump after attack over Iran peace appeal"
-  },
-  {
-    "date": "2026-04-13",
-    "source": "Al Jazeera Iran",
-    "title": "Pakistan eyes narrow window to resuscitate US-Iran talks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?update=4488952",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Pakistan eyes narrow window to resuscitate US-Iran talks"
-  },
-  {
-    "date": "2026-04-13",
-    "source": "Al Jazeera Iran",
-    "title": "How shaky is the Iran-US ceasefire?",
-    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire",
-    "category": "外交",
-    "importance": 3,
-    "summary": "How shaky is the Iran-US ceasefire?"
-  },
-  {
-    "date": "2026-04-13",
-    "source": "AP Middle East",
-    "title": "Oil prices rise after the US says it would block Iranian ports starting Monday",
-    "url": "https://apnews.com/article/iran-oil-prices-4b0b4b1f6df389bf2e17f47e55e13119",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Oil prices rise after the US says it would block Iranian ports starting Monday"
+    "summary": "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf"
   }
 ]
