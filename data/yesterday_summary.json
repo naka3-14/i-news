@@ -1,37 +1,40 @@
 {
-  "date": "2026-04-16",
-  "updated_at": "2026-04-16 07:55",
-  "headline_summary": "ホルムズ海峡の状況が緊迫しており、世界経済への影響が懸念される。40以上の国がイランに海峡の再開を求め、IMFは世界経済成長予想を下方修正した。",
+  "date": "2026-04-17",
+  "updated_at": "2026-04-17 07:57",
+  "headline_summary": "Groq要約に失敗したため、簡易要約を表示しています。(Expecting ',' delimiter: line 1 column 166 (char 165))",
   "top_topics": [
     {
-      "title": "ホルムズ海峡の状況",
-      "summary": "イランがホルムズ海峡を封鎖し、世界の石油輸送に影響を与えている。40以上の国がイランに海峡の再開を求めている。"
+      "title": "UK gathers more than 40 countrie",
+      "summary": "UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz"
     },
     {
-      "title": "IMFの予想",
-      "summary": "IMFはホルムズ海峡の封鎖による影響で、世界経済成長予想を下方修正した。"
+      "title": "US general clarifies Iranian por",
+      "summary": "US general clarifies Iranian ports under blockade, not Strait of Hormuz"
     },
     {
-      "title": "外交の動向",
-      "summary": "イランとアメリカの外交交渉が進められているが、合意には至っていない。パキスタンがイランとの緊張緩和を目指し、米伊交渉を進める。"
+      "title": "Iran war day 48: What’s happenin",
+      "summary": "Iran war day 48: What’s happening in Lebanon, Tehran and Strait of Hormuz?"
     }
   ],
   "impact_on_japan": [
-    "日本の石油輸送に影響を与える可能性があり、経済への影響が懸念される。"
+    "ホルムズ海峡の緊張が強まると、日本向け原油輸送が遅れ、燃料調達コストが上がりやすくなります。",
+    "中東の軍事的緊張が強まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られます。",
+    "物流が不安定になると、輸入コストが上がり、食品や日用品の価格にも波及しやすくなります。"
   ],
   "ai_forecast": [
-    "ホルムズ海峡の封鎖が続き、世界経済への影響が深刻化する可能性がある。"
+    "停戦協議が続いても、周辺地域で攻撃が続けば交渉は不安定になりやすいです。",
+    "ホルムズ海峡の通航条件が厳しくなると、原油と物流コストへの反応がさらに強まりそうです。"
   ],
   "diff": {
     "new_topics": [
+      "Iran war day 48: What’s happenin",
+      "UK gathers more than 40 countrie",
+      "US general clarifies Iranian por"
+    ],
+    "removed_topics": [
       "IMFの予想",
       "ホルムズ海峡の状況",
       "外交の動向"
-    ],
-    "removed_topics": [
-      "ホルムズ海峡封鎖",
-      "世界経済への影響",
-      "国際社会の対応"
     ]
   }
 }
