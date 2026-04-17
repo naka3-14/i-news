@@ -1,69 +1,81 @@
 # Iran Daily Report - 2026-04-17
 
-## 1. Macron and Starmer hold international summit on reopening the Strait of Hormuz
+## 1. Oil prices drop 9% and Wall Street rallies to a record after Iran reopens the Strait of Hormuz
+- ソース: AP Middle East
+- URL: https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13
+
+## 2. LIVE US military says it's clearing mines as Strait of Hormuz reopens
+- ソース: AP Middle East
+- URL: https://apnews.com/live/iran-war-israel-trump-04-17-2026
+
+## 3. Iran reopens Strait of Hormuz, but Trump says blockade on Iranian ships and ports will stay in force
+- ソース: AP Middle East
+- URL: https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-17-april-2026-4bd5a29af608ecbd72356559b3c55d67
+
+## 4. Macron and Starmer welcome Hormuz reopening and push for permanent navigation security
 - ソース: AP Middle East
 - URL: https://apnews.com/article/hormuz-strait-iran-blockade-britain-france-10518e69aecbb986c9118ff42ab0ca02
 
-## 2. UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz
+## 5. UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz
 - ソース: AP Middle East
 - URL: https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856
 
-## 3. US general clarifies Iranian ports under blockade, not Strait of Hormuz
+## 6. World reacts to Strait of Hormuz reopening amid US-Iran conflict
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/16/us-general-clarifies-iranian-ports-under-blockade-not-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict
 
-## 4. Iran war day 48: What’s happening in Lebanon, Tehran and Strait of Hormuz?
+## 7. Shipping firms seek clarifications before crossing Hormuz
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict
+- URL: https://www.aljazeera.com/economy/2026/4/17/shipping-firms-seek-clarifications-before-crossing-hormuz
 
-## 5. Pakistani delegation meets in Tehran hoping for more US-Iran talks before ceasefire ends
+## 8. Macron demands assurances after Iran opens Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/4/17/macron-demands-assurances-after-iran-opens-strait-of-hormuz
+
+## 9. Macron and Starmer host allies for summit on Hormuz maritime security
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/17/macron-and-starmer-host-allies-for-summit-on-hormuz-maritime-security
+
+## 10. Pakistani delegation meets in Tehran hoping for more US-Iran talks before ceasefire ends
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-15-april-2026-f1b02d16f81d6fdcf68c0ed16d7a719d
 
-## 6. The US blockade on Iran casts further doubt on the fragile ceasefire
+## 11. The US blockade on Iran casts further doubt on the fragile ceasefire
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-talks-ceasefire-36cd009a0b238fcad4665a5a02cc895e
 
-## 7. Iran war energy shock drives nuclear power plans in hard-hit Asia and Africa
+## 12. Sri Lanka sent home 238 Iranian sailors, including survivors of a US torpedo attack
+- ソース: AP Middle East
+- URL: https://apnews.com/article/sri-lanka-iran-sailors-us-torpedo-b214171b3fc145e61875dbb3c584b2f8
+
+## 13. Iran war energy shock drives nuclear power plans in hard-hit Asia and Africa
 - ソース: AP Middle East
 - URL: https://apnews.com/article/middle-east-wars-nuclear-energy-asia-africa-ab082ccbbc1fca8ab7eb6871040bf4a3
 
-## 8. How a US blockade on Iran has sanctioned ships turning around
+## 14. How a US blockade on Iran has sanctioned ships turning around
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc
 
-## 9. US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan
+## 15. US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9
 
-## 10. Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war
+## 16. Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war
 - ソース: AP Middle East
 - URL: https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524
 
-## 11. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
+## 17. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05
 
-## 12. Lebanon celebrates as 10-day ceasefire starts; Trump says Iran deal close
+## 18. Iran rejects Trump claim on deal to surrender nuclear material stockpiles
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close
+- URL: https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles
 
-## 13. No date set for US-Iran talks, as Pakistan pushes to keep diplomacy alive
+## 19. What has Trump said before possible US-Iran talks and what could it mean?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/16/no-date-set-for-us-iran-talks-as-pakistan-pushes-to-keep-diplomacy-alive
+- URL: https://www.aljazeera.com/news/2026/4/17/what-has-trump-said-ahead-of-possible-us-iran-talks-and-what-could-it-mean
 
-## 14. US defence secretary Pete Hegseth attacks press coverage of war on Iran
+## 20. Can Pakistan secure Iran-US nuclear compromise, as Trump says deal ‘close’?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/16/us-defence-secretary-pete-hegseth-attacks-press-coverage-of-war-on-iran
-
-## 15. Ceasefire in Lebanon ‘as important’ as in Iran, Ghalibaf says
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/16/ceasefire-in-lebanon-as-important-as-in-iran-says-ghalibaf
-
-## 16. Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates
-
-## 17. Qatar hosts talks aimed at putting Iran peace process back on track
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track
+- URL: https://www.aljazeera.com/news/2026/4/17/can-pakistan-secure-iran-us-nuclear-compromise-as-trump-says-deal
