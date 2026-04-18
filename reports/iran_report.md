@@ -1,16 +1,16 @@
-# Iran Daily Report - 2026-04-17
+# Iran Daily Report - 2026-04-18
 
-## 1. Oil prices drop 9% and Wall Street rallies to a record after Iran reopens the Strait of Hormuz
+## 1. Iran fully closes Strait of Hormuz over US blockade and fires on ships
 - ソース: AP Middle East
-- URL: https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13
+- URL: https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37
 
-## 2. LIVE US military says it's clearing mines as Strait of Hormuz reopens
+## 2. LIVE Iran fires on ships in Strait of Hormuz as Tehran imposes restrictions again
 - ソース: AP Middle East
-- URL: https://apnews.com/live/iran-war-israel-trump-04-17-2026
+- URL: https://apnews.com/live/iran-war-israel-trump-04-18-2026
 
-## 3. Iran reopens Strait of Hormuz, but Trump says blockade on Iranian ships and ports will stay in force
+## 3. AP visualizes why the Strait of Hormuz is a keystone of the world economy
 - ソース: AP Middle East
-- URL: https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-17-april-2026-4bd5a29af608ecbd72356559b3c55d67
+- URL: https://apnews.com/article/the-worlds-most-important-21-miles-0000019d2fbfd29daffdefffc72e0000
 
 ## 4. Macron and Starmer welcome Hormuz reopening and push for permanent navigation security
 - ソース: AP Middle East
@@ -20,62 +20,62 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856
 
-## 6. World reacts to Strait of Hormuz reopening amid US-Iran conflict
+## 6. Iran navy says any ship trying to pass Strait of Hormuz will be targeted
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict
+- URL: https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail
 
-## 7. Shipping firms seek clarifications before crossing Hormuz
+## 7. Iran military orders Indian ship to abort Strait of Hormuz passage
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/economy/2026/4/17/shipping-firms-seek-clarifications-before-crossing-hormuz
+- URL: https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage
 
-## 8. Macron demands assurances after Iran opens Strait of Hormuz
+## 8. Iran closes Strait of Hormuz again over US blockade of its ports
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/17/macron-demands-assurances-after-iran-opens-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports
 
-## 9. Macron and Starmer host allies for summit on Hormuz maritime security
+## 9. Gunfire reported by vessel in Strait of Hormuz
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/17/macron-and-starmer-host-allies-for-summit-on-hormuz-maritime-security
+- URL: https://www.aljazeera.com/video/newsfeed/2026/4/18/gunfire-reported-by-vessel-in-strait-of-hormuz
 
-## 10. Pakistani delegation meets in Tehran hoping for more US-Iran talks before ceasefire ends
+## 10. US blockade of Iran needs to end before the Strait of Hormuz is fully reope
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/quotable/2026/4/18/us-blockade-of-iran-needs-to-end-before-the-strait-of-hormuz-is-fully-reope
+
+## 11. Hormuz: Spin in the Strait
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/the-listening-post/2026/4/18/hormuz-spin-in-the-strait
+
+## 12. Iran has learned that the Strait of Hormuz is its strongest deterrent
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent
+
+## 13. Iran war day 50: What’s happening in Tehran, Strait of Hormuz and Lebanon?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict
+
+## 14. Iran says Hormuz closed until US blockade lifted, warns vessels
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks
+
+## 15. Iran says ‘fiction’ of ‘unconditional transit passage’ in Hormuz ‘sailed’ after US-Israeli aggression
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?update=4503425
+
+## 16. Trump’s optimism on negotiations questioned as Iran shuts Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?update=4503341
+
+## 17. Iranian official says US 'maximalist' demands stall face-to-face talks
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-deputy-foreign-minister-interview-40d8e43e3c7b5a23cda6783b064b9dbf
+
+## 18. Pakistani delegation meets in Tehran hoping for more US-Iran talks before ceasefire ends
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-15-april-2026-f1b02d16f81d6fdcf68c0ed16d7a719d
 
-## 11. The US blockade on Iran casts further doubt on the fragile ceasefire
+## 19. The US blockade on Iran casts further doubt on the fragile ceasefire
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-talks-ceasefire-36cd009a0b238fcad4665a5a02cc895e
 
-## 12. Sri Lanka sent home 238 Iranian sailors, including survivors of a US torpedo attack
-- ソース: AP Middle East
-- URL: https://apnews.com/article/sri-lanka-iran-sailors-us-torpedo-b214171b3fc145e61875dbb3c584b2f8
-
-## 13. Iran war energy shock drives nuclear power plans in hard-hit Asia and Africa
-- ソース: AP Middle East
-- URL: https://apnews.com/article/middle-east-wars-nuclear-energy-asia-africa-ab082ccbbc1fca8ab7eb6871040bf4a3
-
-## 14. How a US blockade on Iran has sanctioned ships turning around
+## 20. How a US blockade on Iran has sanctioned ships turning around
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc
-
-## 15. US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9
-
-## 16. Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war
-- ソース: AP Middle East
-- URL: https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524
-
-## 17. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05
-
-## 18. Iran rejects Trump claim on deal to surrender nuclear material stockpiles
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles
-
-## 19. What has Trump said before possible US-Iran talks and what could it mean?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/17/what-has-trump-said-ahead-of-possible-us-iran-talks-and-what-could-it-mean
-
-## 20. Can Pakistan secure Iran-US nuclear compromise, as Trump says deal ‘close’?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/17/can-pakistan-secure-iran-us-nuclear-compromise-as-trump-says-deal
