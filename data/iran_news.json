@@ -1,24 +1,15 @@
 [
   {
-    "date": "2026-04-19",
-    "source": "Al Jazeera Iran",
-    "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "US forces attack and seize Iranian ship Touska near Strait of Hormuz"
-  },
-  {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
-    "title": "US seizes Iranian-flagged ship near Strait of Hormuz and Tehran vows to respond",
+    "title": "US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response",
     "url": "https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "US seizes Iranian-flagged ship near Strait of Hormuz and Tehran vows to respond"
+    "summary": "US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
     "title": "Iran fully closes Strait of Hormuz over US blockade and fires on ships",
     "url": "https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37",
@@ -27,106 +18,43 @@
     "summary": "Iran fully closes Strait of Hormuz over US blockade and fires on ships"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
+    "source": "Al Jazeera Iran",
+    "title": "What we know about the US capture of Iranian vessel near Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-we-know-about-the-us-capture-of-iranian-vessel-near-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "What we know about the US capture of Iranian vessel near Hormuz"
+  },
+  {
+    "date": "2026-04-20",
+    "source": "Al Jazeera Iran",
+    "title": "Oil prices surge amid mixed signals on US-Iran peace talks",
+    "url": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks",
+    "category": "外交",
+    "importance": 4,
+    "summary": "Oil prices surge amid mixed signals on US-Iran peace talks"
+  },
+  {
+    "date": "2026-04-20",
     "source": "AP Middle East",
-    "title": "Iran fires on ships in Strait of Hormuz as Tehran imposes restrictions again",
-    "url": "https://apnews.com/live/iran-war-israel-trump-04-18-2026",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran fires on ships in Strait of Hormuz as Tehran imposes restrictions again"
+    "title": "LIVE Trump says he’s 'highly unlikely' to renew ceasefire with Iran ahead of peace talks in Pakistan",
+    "url": "https://apnews.com/live/iran-war-israel-trump-04-20-2026",
+    "category": "外交",
+    "importance": 3,
+    "summary": "LIVE Trump says he’s 'highly unlikely' to renew ceasefire with Iran ahead of peace talks in Pakistan"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
-    "title": "AP visualizes why the Strait of Hormuz is a keystone of the world economy",
-    "url": "https://apnews.com/article/the-worlds-most-important-21-miles-0000019d2fbfd29daffdefffc72e0000",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "AP visualizes why the Strait of Hormuz is a keystone of the world economy"
+    "title": "What to know as ceasefire in the Iran war hangs in the balance",
+    "url": "https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa",
+    "category": "外交",
+    "importance": 3,
+    "summary": "What to know as ceasefire in the Iran war hangs in the balance"
   },
   {
-    "date": "2026-04-19",
-    "source": "AP Middle East",
-    "title": "US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial",
-    "url": "https://apnews.com/article/russian-oil-sanctions-iran-war-95ae06ece63f4f8c1f72ac3c2dc4251f",
-    "category": "制裁",
-    "importance": 4,
-    "summary": "US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial"
-  },
-  {
-    "date": "2026-04-19",
-    "source": "AP Middle East",
-    "title": "UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz",
-    "url": "https://apnews.com/article/hormuz-strait-shipping-summit-uk-iran-ca2c6af551df98c81a39f2137e417856",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "UK gathers more than 40 countries to press Iran to reopen the Strait of Hormuz"
-  },
-  {
-    "date": "2026-04-19",
-    "source": "Al Jazeera Iran",
-    "title": "Trump says US seized Iranian ship trying to get past blockade near Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Trump says US seized Iranian ship trying to get past blockade near Hormuz"
-  },
-  {
-    "date": "2026-04-19",
-    "source": "Al Jazeera Iran",
-    "title": "What to know about US-Iran standoff over the Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "What to know about US-Iran standoff over the Strait of Hormuz"
-  },
-  {
-    "date": "2026-04-19",
-    "source": "Al Jazeera Iran",
-    "title": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-warns-hormuz-will-stay-shut-unless-us-lifts-siege-on-its-ports",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran warns Hormuz will stay shut unless US lifts siege on its ports"
-  },
-  {
-    "date": "2026-04-19",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war day 51: What is happening in Lebanon and the Strait of Hormuz?",
-    "url": "https://www.aljazeera.com/news/2026/4/19/iran-war-what-is-happening-on-day-51-of-the-us-iran-conflict",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war day 51: What is happening in Lebanon and the Strait of Hormuz?"
-  },
-  {
-    "date": "2026-04-19",
-    "source": "Al Jazeera Iran",
-    "title": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse",
-    "url": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse"
-  },
-  {
-    "date": "2026-04-19",
-    "source": "Al Jazeera Iran",
-    "title": "Iran navy says any ship trying to pass Strait of Hormuz will be targeted",
-    "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran navy says any ship trying to pass Strait of Hormuz will be targeted"
-  },
-  {
-    "date": "2026-04-19",
-    "source": "Al Jazeera Iran",
-    "title": "Iran military orders Indian ship to abort Strait of Hormuz passage",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran military orders Indian ship to abort Strait of Hormuz passage"
-  },
-  {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
     "title": "Iranian official says US ‘maximalist’ demands stall face-to-face talks",
     "url": "https://apnews.com/article/iran-deputy-foreign-minister-interview-40d8e43e3c7b5a23cda6783b064b9dbf",
@@ -135,7 +63,7 @@
     "summary": "Iranian official says US ‘maximalist’ demands stall face-to-face talks"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
     "title": "Sri Lanka sent home 238 Iranian sailors, including survivors of a US torpedo attack",
     "url": "https://apnews.com/article/sri-lanka-iran-sailors-us-torpedo-b214171b3fc145e61875dbb3c584b2f8",
@@ -144,7 +72,7 @@
     "summary": "Sri Lanka sent home 238 Iranian sailors, including survivors of a US torpedo attack"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
     "title": "How a US blockade on Iran has sanctioned ships turning around",
     "url": "https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc",
@@ -153,7 +81,7 @@
     "summary": "How a US blockade on Iran has sanctioned ships turning around"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
     "title": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9",
@@ -162,7 +90,7 @@
     "summary": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
     "title": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
     "url": "https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524",
@@ -171,7 +99,7 @@
     "summary": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "AP Middle East",
     "title": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05",
@@ -180,30 +108,57 @@
     "summary": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "Al Jazeera Iran",
-    "title": "Israeli attacks on healthcare across Iran, Lebanon and Gaza",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/israeli-attacks-on-healthcare-across-iran-lebanon-and-gaza",
+    "title": "Iranian FM spokesman says ceasefire ‘violated’ by US in shipment seizure",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/iranian-fm-spokesman-says-ceasefire-violated-by-us-in-shipment-seizure",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iranian FM spokesman says ceasefire ‘violated’ by US in shipment seizure"
+  },
+  {
+    "date": "2026-04-20",
+    "source": "Al Jazeera Iran",
+    "title": "Cloud over US-Iran talks: What are the key sticking points?",
+    "url": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Cloud over US-Iran talks: What are the key sticking points?"
+  },
+  {
+    "date": "2026-04-20",
+    "source": "Al Jazeera Iran",
+    "title": "Tight security in Islamabad as US-Iran talks set to go ahead",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/tight-security-in-islamabad-as-us-iran-talks-set-to-go-ahead",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Tight security in Islamabad as US-Iran talks set to go ahead"
+  },
+  {
+    "date": "2026-04-20",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war: What is happening on day 52 of US-Israeli attacks?",
+    "url": "https://www.aljazeera.com/news/2026/4/20/iran-war-what-is-happening-on-day-52-of-the-us-israeli-conflict",
     "category": "軍事",
     "importance": 3,
-    "summary": "Israeli attacks on healthcare across Iran, Lebanon and Gaza"
+    "summary": "Iran war: What is happening on day 52 of US-Israeli attacks?"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "Al Jazeera Iran",
-    "title": "What would it take for the Iran-US talks to succeed?",
-    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/19/what-would-it-take-for-the-iran-us-talks-to-succeed",
+    "title": "Iran says no talks with US for now, casting doubt over Pakistan’s efforts",
+    "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining",
     "category": "外交",
     "importance": 3,
-    "summary": "What would it take for the Iran-US talks to succeed?"
+    "summary": "Iran says no talks with US for now, casting doubt over Pakistan’s efforts"
   },
   {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "Al Jazeera Iran",
-    "title": "Trump to send US delegation to Pakistan for possible Iran talks",
-    "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks",
+    "title": "Uncertainty over US-Iran talks as Trump insists deal to come ‘quickly’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response",
     "category": "外交",
     "importance": 3,
-    "summary": "Trump to send US delegation to Pakistan for possible Iran talks"
+    "summary": "Uncertainty over US-Iran talks as Trump insists deal to come ‘quickly’"
   }
 ]
