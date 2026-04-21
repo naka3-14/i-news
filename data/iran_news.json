@@ -1,6 +1,24 @@
 [
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
+    "source": "Al Jazeera Iran",
+    "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
+    "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan",
+    "category": "制裁",
+    "importance": 5,
+    "summary": "US issues more Iran sanctions on eve of possible talks in Pakistan"
+  },
+  {
+    "date": "2026-04-21",
+    "source": "AP Middle East",
+    "title": "Stocks slip and oil prices rise on uncertainty about US-Iran ceasefire talks",
+    "url": "https://apnews.com/article/stocks-markets-iran-oil-trump-2a433707e09976e2e77f2eba3a225f3d",
+    "category": "外交",
+    "importance": 4,
+    "summary": "Stocks slip and oil prices rise on uncertainty about US-Iran ceasefire talks"
+  },
+  {
+    "date": "2026-04-21",
     "source": "AP Middle East",
     "title": "US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response",
     "url": "https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3",
@@ -9,7 +27,7 @@
     "summary": "US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
     "title": "Iran fully closes Strait of Hormuz over US blockade and fires on ships",
     "url": "https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37",
@@ -18,61 +36,61 @@
     "summary": "Iran fully closes Strait of Hormuz over US blockade and fires on ships"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "Al Jazeera Iran",
-    "title": "What we know about the US capture of Iranian vessel near Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-we-know-about-the-us-capture-of-iranian-vessel-near-hormuz",
+    "title": "Strait of Hormuz: How a threat became a playbook",
+    "url": "https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "What we know about the US capture of Iranian vessel near Hormuz"
+    "summary": "Strait of Hormuz: How a threat became a playbook"
   },
   {
-    "date": "2026-04-20",
-    "source": "Al Jazeera Iran",
-    "title": "Oil prices surge amid mixed signals on US-Iran peace talks",
-    "url": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks",
-    "category": "外交",
-    "importance": 4,
-    "summary": "Oil prices surge amid mixed signals on US-Iran peace talks"
-  },
-  {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
-    "title": "LIVE Trump says he’s 'highly unlikely' to renew ceasefire with Iran ahead of peace talks in Pakistan",
+    "title": "LIVE Trump says US is extending ceasefire while awaiting proposal from Iran",
+    "url": "https://apnews.com/live/iran-war-israel-trump-04-21-2026",
+    "category": "外交",
+    "importance": 3,
+    "summary": "LIVE Trump says US is extending ceasefire while awaiting proposal from Iran"
+  },
+  {
+    "date": "2026-04-21",
+    "source": "AP Middle East",
+    "title": "Trump says he’s ‘highly unlikely’ to renew ceasefire with Iran ahead of peace talks in Pakistan",
     "url": "https://apnews.com/live/iran-war-israel-trump-04-20-2026",
     "category": "外交",
     "importance": 3,
-    "summary": "LIVE Trump says he’s 'highly unlikely' to renew ceasefire with Iran ahead of peace talks in Pakistan"
+    "summary": "Trump says he’s ‘highly unlikely’ to renew ceasefire with Iran ahead of peace talks in Pakistan"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
-    "title": "What to know as ceasefire in the Iran war hangs in the balance",
+    "title": "What to know as Trump extends ceasefire in Iran war",
     "url": "https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa",
     "category": "外交",
     "importance": 3,
-    "summary": "What to know as ceasefire in the Iran war hangs in the balance"
+    "summary": "What to know as Trump extends ceasefire in Iran war"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
-    "title": "Iranian official says US ‘maximalist’ demands stall face-to-face talks",
-    "url": "https://apnews.com/article/iran-deputy-foreign-minister-interview-40d8e43e3c7b5a23cda6783b064b9dbf",
+    "title": "Trump says the US will extend its ceasefire with Iran at Pakistan’s request",
+    "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30",
     "category": "外交",
     "importance": 3,
-    "summary": "Iranian official says US ‘maximalist’ demands stall face-to-face talks"
+    "summary": "Trump says the US will extend its ceasefire with Iran at Pakistan’s request"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
-    "title": "Sri Lanka sent home 238 Iranian sailors, including survivors of a US torpedo attack",
-    "url": "https://apnews.com/article/sri-lanka-iran-sailors-us-torpedo-b214171b3fc145e61875dbb3c584b2f8",
-    "category": "軍事",
+    "title": "Iran’s leadership survived US-Israeli bombardment. But talks to end the war present a new challenge",
+    "url": "https://apnews.com/article/iran-us-war-leadership-24061a2a22ea5d74d3df89149ebcc3da",
+    "category": "外交",
     "importance": 3,
-    "summary": "Sri Lanka sent home 238 Iranian sailors, including survivors of a US torpedo attack"
+    "summary": "Iran’s leadership survived US-Israeli bombardment. But talks to end the war present a new challenge"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
     "title": "How a US blockade on Iran has sanctioned ships turning around",
     "url": "https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc",
@@ -81,7 +99,7 @@
     "summary": "How a US blockade on Iran has sanctioned ships turning around"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
     "title": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9",
@@ -90,7 +108,7 @@
     "summary": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
     "title": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
     "url": "https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524",
@@ -99,7 +117,7 @@
     "summary": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "AP Middle East",
     "title": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05",
@@ -108,57 +126,93 @@
     "summary": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "Al Jazeera Iran",
-    "title": "Iranian FM spokesman says ceasefire ‘violated’ by US in shipment seizure",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/iranian-fm-spokesman-says-ceasefire-violated-by-us-in-shipment-seizure",
+    "title": "US forces detain Iran-linked tanker Tifani with ceasefire talks on edge",
+    "url": "https://www.aljazeera.com/news/2026/4/21/us-forces-detain-iran-linked-tanker-tifani-with-ceasefire-talks-on-edge",
     "category": "外交",
     "importance": 3,
-    "summary": "Iranian FM spokesman says ceasefire ‘violated’ by US in shipment seizure"
+    "summary": "US forces detain Iran-linked tanker Tifani with ceasefire talks on edge"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "Al Jazeera Iran",
-    "title": "Cloud over US-Iran talks: What are the key sticking points?",
-    "url": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points",
+    "title": "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
+    "url": "https://www.aljazeera.com/news/2026/4/21/trump-says-he-opposes-extending-iran-ceasefire-amid-talks-uncertainty",
     "category": "外交",
     "importance": 3,
-    "summary": "Cloud over US-Iran talks: What are the key sticking points?"
+    "summary": "Trump says he opposes extending Iran ceasefire amid talks uncertainty"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "Al Jazeera Iran",
-    "title": "Tight security in Islamabad as US-Iran talks set to go ahead",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/tight-security-in-islamabad-as-us-iran-talks-set-to-go-ahead",
+    "title": "Pakistan races against time to get Iran back to US talks as truce end nears",
+    "url": "https://www.aljazeera.com/news/2026/4/21/pakistan-races-against-time-to-get-iran-back-to-us-talks-as-truce-end-nears",
     "category": "外交",
     "importance": 3,
-    "summary": "Tight security in Islamabad as US-Iran talks set to go ahead"
+    "summary": "Pakistan races against time to get Iran back to US talks as truce end nears"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "Al Jazeera Iran",
-    "title": "Iran war: What is happening on day 52 of US-Israeli attacks?",
-    "url": "https://www.aljazeera.com/news/2026/4/20/iran-war-what-is-happening-on-day-52-of-the-us-israeli-conflict",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war: What is happening on day 52 of US-Israeli attacks?"
-  },
-  {
-    "date": "2026-04-20",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says no talks with US for now, casting doubt over Pakistan’s efforts",
-    "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining",
+    "title": "Iran-US war: Four scenarios for what’s next as talks stumble",
+    "url": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble",
     "category": "外交",
     "importance": 3,
-    "summary": "Iran says no talks with US for now, casting doubt over Pakistan’s efforts"
+    "summary": "Iran-US war: Four scenarios for what’s next as talks stumble"
   },
   {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "Al Jazeera Iran",
-    "title": "Uncertainty over US-Iran talks as Trump insists deal to come ‘quickly’",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response",
+    "title": "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
+    "url": "https://www.aljazeera.com/news/2026/4/21/what-was-the-iran-nuclear-deal-trump-dumped-in-search-of-better-terms",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?"
+  },
+  {
+    "date": "2026-04-21",
+    "source": "Al Jazeera Iran",
+    "title": "My dreams in Iran were already dead before the ceasefire came",
+    "url": "https://www.aljazeera.com/features/2026/4/21/my-dreams-in-iran-were-already-dead-before-the-ceasefire-came",
     "category": "外交",
     "importance": 3,
-    "summary": "Uncertainty over US-Iran talks as Trump insists deal to come ‘quickly’"
+    "summary": "My dreams in Iran were already dead before the ceasefire came"
+  },
+  {
+    "date": "2026-04-21",
+    "source": "Al Jazeera Iran",
+    "title": "US, Iran exchange threats as fragile ceasefire set to expire",
+    "url": "https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire",
+    "category": "外交",
+    "importance": 3,
+    "summary": "US, Iran exchange threats as fragile ceasefire set to expire"
+  },
+  {
+    "date": "2026-04-21",
+    "source": "Al Jazeera Iran",
+    "title": "Trump extends Iran ceasefire, keeps blockade as Pakistan talks in disarray",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump extends Iran ceasefire, keeps blockade as Pakistan talks in disarray"
+  },
+  {
+    "date": "2026-04-21",
+    "source": "Al Jazeera Iran",
+    "title": "Ceasefire extension by Trump means buying time for a surprise strike: Iranian official",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain?update=4511516",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Ceasefire extension by Trump means buying time for a surprise strike: Iranian official"
+  },
+  {
+    "date": "2026-04-21",
+    "source": "Al Jazeera Iran",
+    "title": "Trump in a quandary after ‘embarrassment’ over Iran talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain?update=4511488",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump in a quandary after ‘embarrassment’ over Iran talks"
   }
 ]

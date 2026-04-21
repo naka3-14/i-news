@@ -1,73 +1,81 @@
-# Iran Daily Report - 2026-04-20
+# Iran Daily Report - 2026-04-21
 
-## 1. US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response
+## 1. US issues more Iran sanctions on eve of possible talks in Pakistan
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan
+
+## 2. Stocks slip and oil prices rise on uncertainty about US-Iran ceasefire talks
+- ソース: AP Middle East
+- URL: https://apnews.com/article/stocks-markets-iran-oil-trump-2a433707e09976e2e77f2eba3a225f3d
+
+## 3. US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3
 
-## 2. Iran fully closes Strait of Hormuz over US blockade and fires on ships
+## 4. Iran fully closes Strait of Hormuz over US blockade and fires on ships
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37
 
-## 3. What we know about the US capture of Iranian vessel near Hormuz
+## 5. Strait of Hormuz: How a threat became a playbook
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/20/what-we-know-about-the-us-capture-of-iranian-vessel-near-hormuz
+- URL: https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook
 
-## 4. Oil prices surge amid mixed signals on US-Iran peace talks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks
+## 6. LIVE Trump says US is extending ceasefire while awaiting proposal from Iran
+- ソース: AP Middle East
+- URL: https://apnews.com/live/iran-war-israel-trump-04-21-2026
 
-## 5. LIVE Trump says he’s 'highly unlikely' to renew ceasefire with Iran ahead of peace talks in Pakistan
+## 7. Trump says he’s ‘highly unlikely’ to renew ceasefire with Iran ahead of peace talks in Pakistan
 - ソース: AP Middle East
 - URL: https://apnews.com/live/iran-war-israel-trump-04-20-2026
 
-## 6. What to know as ceasefire in the Iran war hangs in the balance
+## 8. What to know as Trump extends ceasefire in Iran war
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa
 
-## 7. Iranian official says US ‘maximalist’ demands stall face-to-face talks
+## 9. Trump says the US will extend its ceasefire with Iran at Pakistan’s request
 - ソース: AP Middle East
-- URL: https://apnews.com/article/iran-deputy-foreign-minister-interview-40d8e43e3c7b5a23cda6783b064b9dbf
+- URL: https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30
 
-## 8. Sri Lanka sent home 238 Iranian sailors, including survivors of a US torpedo attack
+## 10. Iran’s leadership survived US-Israeli bombardment. But talks to end the war present a new challenge
 - ソース: AP Middle East
-- URL: https://apnews.com/article/sri-lanka-iran-sailors-us-torpedo-b214171b3fc145e61875dbb3c584b2f8
+- URL: https://apnews.com/article/iran-us-war-leadership-24061a2a22ea5d74d3df89149ebcc3da
 
-## 9. How a US blockade on Iran has sanctioned ships turning around
+## 11. How a US blockade on Iran has sanctioned ships turning around
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc
 
-## 10. US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan
+## 12. US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9
 
-## 11. Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war
+## 13. Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war
 - ソース: AP Middle East
 - URL: https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524
 
-## 12. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
+## 14. US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05
 
-## 13. Iranian FM spokesman says ceasefire ‘violated’ by US in shipment seizure
+## 15. US forces detain Iran-linked tanker Tifani with ceasefire talks on edge
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/20/iranian-fm-spokesman-says-ceasefire-violated-by-us-in-shipment-seizure
+- URL: https://www.aljazeera.com/news/2026/4/21/us-forces-detain-iran-linked-tanker-tifani-with-ceasefire-talks-on-edge
 
-## 14. Cloud over US-Iran talks: What are the key sticking points?
+## 16. Trump says he opposes extending Iran ceasefire amid talks uncertainty
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points
+- URL: https://www.aljazeera.com/news/2026/4/21/trump-says-he-opposes-extending-iran-ceasefire-amid-talks-uncertainty
 
-## 15. Tight security in Islamabad as US-Iran talks set to go ahead
+## 17. Pakistan races against time to get Iran back to US talks as truce end nears
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/20/tight-security-in-islamabad-as-us-iran-talks-set-to-go-ahead
+- URL: https://www.aljazeera.com/news/2026/4/21/pakistan-races-against-time-to-get-iran-back-to-us-talks-as-truce-end-nears
 
-## 16. Iran war: What is happening on day 52 of US-Israeli attacks?
+## 18. Iran-US war: Four scenarios for what’s next as talks stumble
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/20/iran-war-what-is-happening-on-day-52-of-the-us-israeli-conflict
+- URL: https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble
 
-## 17. Iran says no talks with US for now, casting doubt over Pakistan’s efforts
+## 19. What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining
+- URL: https://www.aljazeera.com/news/2026/4/21/what-was-the-iran-nuclear-deal-trump-dumped-in-search-of-better-terms
 
-## 18. Uncertainty over US-Iran talks as Trump insists deal to come ‘quickly’
+## 20. My dreams in Iran were already dead before the ceasefire came
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response
+- URL: https://www.aljazeera.com/features/2026/4/21/my-dreams-in-iran-were-already-dead-before-the-ceasefire-came
