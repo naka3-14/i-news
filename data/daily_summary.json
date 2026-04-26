@@ -1,37 +1,40 @@
 {
-  "date": "2026-04-26",
-  "updated_at": "2026-04-26 07:52",
-  "headline_summary": "ホルムズ海峡の情勢が緊張高まり、米国は制裁を強化し、海上交通を保護するための措置を講じている。イランは海峡を完全に閉鎖し、米国軍艦を攻撃した。外交努力も進展せず、米国とイランの対立が深刻化している。",
+  "date": "2026-04-27",
+  "updated_at": "2026-04-27 07:53",
+  "headline_summary": "Groq要約に失敗したため、簡易要約を表示しています。(Expecting ',' delimiter: line 1 column 137 (char 136))",
   "top_topics": [
     {
-      "title": "ホルムズ海峡の緊張",
-      "summary": "ホルムズ海峡は世界の約20%の石油輸送が通過する重要な海峡であるが、イランの制圧により、海上交通が大幅に遅れ、世界経済に大きな影響を与えている。"
+      "title": "Analysis: The US protected ships",
+      "summary": "Analysis: The US protected ships from Iran in the Strait of Hormuz in the ‘80s. Could it again?"
     },
     {
-      "title": "米国とイランの対立",
-      "summary": "米国はイランに対して制裁を強化し、海上交通を保護するための措置を講じているが、イランは海峡を完全に閉鎖し、米国軍艦を攻撃した。外交努力も進展せず、米国とイランの対立が深刻化している。"
+      "title": "Businesses dole out up to $4 mil",
+      "summary": "Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold"
     },
     {
-      "title": "外交努力の進展",
-      "summary": "外交努力は進展せず、米国とイランの対立が深刻化している。米国はイランとの平和交渉を呼びかけているが、イランは平和交渉への参加を拒否している。"
+      "title": "US says it’s hunting for explosi",
+      "summary": "US says it’s hunting for explosive mines in latest push to open the Strait of Hormuz"
     }
   ],
   "impact_on_japan": [
-    "日本の石油輸入が遅れ、経済に影響を与える可能性がある。"
+    "ホルムズ海峡の緊張が強まると、日本向け原油輸送が遅れ、燃料調達コストが上がりやすくなります。",
+    "中東の軍事的緊張が強まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られます。",
+    "物流が不安定になると、輸入コストが上がり、食品や日用品の価格にも波及しやすくなります。"
   ],
   "ai_forecast": [
-    "ホルムズ海峡の緊張が続き、世界経済に大きな影響を与える可能性がある。"
+    "停戦協議が続いても、周辺地域で攻撃が続けば交渉は不安定になりやすいです。",
+    "ホルムズ海峡の通航条件が厳しくなると、原油と物流コストへの反応がさらに強まりそうです。"
   ],
   "diff": {
     "new_topics": [
+      "Analysis: The US protected ships",
+      "Businesses dole out up to $4 mil",
+      "US says it’s hunting for explosi"
+    ],
+    "removed_topics": [
       "ホルムズ海峡の緊張",
       "外交努力の進展",
       "米国とイランの対立"
-    ],
-    "removed_topics": [
-      "ホルムズ海峡の状況",
-      "石油価格の影響",
-      "米伊の対立"
     ]
   }
 }
