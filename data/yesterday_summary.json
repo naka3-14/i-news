@@ -1,40 +1,39 @@
 {
-  "date": "2026-04-27",
-  "updated_at": "2026-04-27 07:53",
-  "headline_summary": "Groq要約に失敗したため、簡易要約を表示しています。(Expecting ',' delimiter: line 1 column 137 (char 136))",
+  "date": "2026-04-28",
+  "updated_at": "2026-04-28 08:04",
+  "headline_summary": "ホルムズ海峡の状況が緊迫しており、イランは海峡の再開を求めているが、米国はイランの核問題に対して対立している。両国間の緊張が続いている。",
   "top_topics": [
     {
-      "title": "Analysis: The US protected ships",
-      "summary": "Analysis: The US protected ships from Iran in the Strait of Hormuz in the ‘80s. Could it again?"
+      "title": "ホルムズ海峡の再開",
+      "summary": "イランは海峡の再開を求めているが、米国はイランの核問題に対して対立している。"
     },
     {
-      "title": "Businesses dole out up to $4 mil",
-      "summary": "Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold"
+      "title": "核問題の対立",
+      "summary": "米国とイランは核問題について対立しており、UNで核条約の再検討が始まっている。"
     },
     {
-      "title": "US says it’s hunting for explosi",
-      "summary": "US says it’s hunting for explosive mines in latest push to open the Strait of Hormuz"
+      "title": "外交の混乱",
+      "summary": "イランと米国の外交交渉は混乱しており、両国間の緊張が続いている。"
     }
   ],
   "impact_on_japan": [
-    "ホルムズ海峡の緊張が強まると、日本向け原油輸送が遅れ、燃料調達コストが上がりやすくなります。",
-    "中東の軍事的緊張が強まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られます。",
-    "物流が不安定になると、輸入コストが上がり、食品や日用品の価格にも波及しやすくなります。"
+    "日本のエネルギー輸入に影響を与える可能性があり、海峡の再開が遅れると日本の石油輸入が困難になる可能性がある。"
   ],
   "ai_forecast": [
-    "停戦協議が続いても、周辺地域で攻撃が続けば交渉は不安定になりやすいです。",
-    "ホルムズ海峡の通航条件が厳しくなると、原油と物流コストへの反応がさらに強まりそうです。"
+    "ホルムズ海峡の状況がさらに緊迫化する可能性があり、両国間の対立が深まる可能性がある。",
+    "イランと米国の外交交渉が進展する可能性があり、両国間の緊張が緩和する可能性がある。",
+    "核問題の対立が深まる可能性があり、両国間の緊張がさらに高まる可能性がある。"
   ],
   "diff": {
     "new_topics": [
+      "ホルムズ海峡の再開",
+      "外交の混乱",
+      "核問題の対立"
+    ],
+    "removed_topics": [
       "Analysis: The US protected ships",
       "Businesses dole out up to $4 mil",
       "US says it’s hunting for explosi"
-    ],
-    "removed_topics": [
-      "ホルムズ海峡の緊張",
-      "外交努力の進展",
-      "米国とイランの対立"
     ]
   }
 }
