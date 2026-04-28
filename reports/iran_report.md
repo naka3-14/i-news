@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-04-27
+# Iran Daily Report - 2026-04-28
 
 ## 1. Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in
 - ソース: Al Jazeera Iran
@@ -8,41 +8,41 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103
 
-## 3. LIVE Live updates: Iran wants Strait of Hormuz reopening tied to US ending the war, officials say
-- ソース: AP Middle East
-- URL: https://apnews.com/live/iran-war-israel-trump-04-27-2026
-
-## 4. Analysis: The US protected ships from Iran in the Strait of Hormuz in the ‘80s. Could it again?
+## 3. Analysis: The US protected ships from Iran in the Strait of Hormuz in the ‘80s. Could it again?
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-strait-hormuz-closed-us-military-analysis-5df204d8321e76cfad30c4329eb8d1ac
 
-## 5. Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold
-- ソース: AP Middle East
-- URL: https://apnews.com/article/panama-canal-trade-strait-of-hormuz-iran-war-middle-east-shipment-d6a2aa2a21f29bfdf313182e753e1c41
-
-## 6. Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz
+## 4. Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8
 
-## 7. Iran fully closes Strait of Hormuz over US blockade and fires on ships
+## 5. Iran fully closes Strait of Hormuz over US blockade and fires on ships
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37
 
-## 8. Top US officials review Iran’s proposal to end war and open Hormuz Strait
+## 6. Qatar says using Hormuz Strait as political weapon is ‘unacceptable’
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks
+- URL: https://www.aljazeera.com/video/newsfeed/2026/4/28/qatar-says-using-hormuz-strait-as-political-weapon-is
 
-## 9. Talks stumble as Iran’s top diplomat leaves Pakistan and Trump says he told envoys not to go
-- ソース: AP Middle East
-- URL: https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-25-2026-7e52d208e7b517c615fc178280ca57d0
+## 7. When will Strait of Hormuz be ‘safe’ for commercial shipping again?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again
 
-## 10. Despite a new proposal from Iran, ceasefire negotiations with US are in flux
+## 8. Trump reviews Iranian proposal aimed at reopening Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz
+
+## 9. Despite a new proposal from Iran, ceasefire negotiations with US are in flux
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa
 
-## 11. US and Iran clash over Tehran’s nuclear program as review of atomic treaty begins at UN
+## 10. US and Iran clash over Tehran’s nuclear program as review of atomic treaty begins at UN
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-un-nuclear-nonproliferation-treaty-us-2dee996cbaec872604baabc4cbd3f4df
+
+## 11. Talks stumble as Iran’s top diplomat leaves Pakistan and Trump says he told envoys not to go
+- ソース: AP Middle East
+- URL: https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-25-2026-7e52d208e7b517c615fc178280ca57d0
 
 ## 12. Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister
 - ソース: AP Middle East
@@ -68,14 +68,14 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05
 
-## 18. Who holds the cards in Iran-US talks?
+## 18. How the US-Israeli war is collapsing the sanctions regime on Iran
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran
+
+## 19. Iran’s army says ‘it is still a war situation’ despite ceasefire
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen
+
+## 20. Who holds the cards in Iran-US talks?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks
-
-## 19. Iran FM in Russia says US has offered new round of talks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks
-
-## 20. NPT summit: Can nuclear pact survive US-Israel war on Iran?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/4/27/npt-summit-can-nuclear-pact-survive-us-israel-war-on-iran
