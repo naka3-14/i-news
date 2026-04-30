@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
+    "source": "AP Middle East",
+    "title": "Iran’s supreme leader vows to protect nuclear and missile capabilities",
+    "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
+    "category": "核問題",
+    "importance": 5,
+    "summary": "Iran’s supreme leader vows to protect nuclear and missile capabilities"
+  },
+  {
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
     "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
@@ -9,7 +18,7 @@
     "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "Analysis: The US protected ships from Iran in the Strait of Hormuz in the ‘80s. Could it again?",
     "url": "https://apnews.com/article/iran-strait-hormuz-closed-us-military-analysis-5df204d8321e76cfad30c4329eb8d1ac",
@@ -18,7 +27,7 @@
     "summary": "Analysis: The US protected ships from Iran in the Strait of Hormuz in the ‘80s. Could it again?"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8",
@@ -27,7 +36,7 @@
     "summary": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "Iran fully closes Strait of Hormuz over US blockade and fires on ships",
     "url": "https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37",
@@ -36,25 +45,34 @@
     "summary": "Iran fully closes Strait of Hormuz over US blockade and fires on ships"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "Al Jazeera Iran",
-    "title": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?",
-    "url": "https://www.aljazeera.com/news/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade",
+    "title": "Tracking the shadow fleet: How Iran evaded the US naval blockade in Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/4/30/tracking-the-shadow-fleet-how-iran-evaded-the-us-naval-blockade-in-hormuz",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?"
+    "summary": "Tracking the shadow fleet: How Iran evaded the US naval blockade in Hormuz"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "Al Jazeera Iran",
-    "title": "Qatar says using Hormuz Strait as political weapon is ‘unacceptable’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/qatar-says-using-hormuz-strait-as-political-weapon-is",
+    "title": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
+    "url": "https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Qatar says using Hormuz Strait as political weapon is ‘unacceptable’"
+    "summary": "Pakistan opens up road trade routes into Iran amid Hormuz blockade"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
+    "source": "AP Middle East",
+    "title": "Líder supremo iraní dice que Teherán protegerá sus \"capacidades nucleares y de misiles\"",
+    "url": "https://apnews.com/article/iran-eeuu-golfo-ormuz-guerra-jamenei-1514bce4f6c98f4004b12a68600774a9",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "Líder supremo iraní dice que Teherán protegerá sus \"capacidades nucleares y de misiles\""
+  },
+  {
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "Despite a new proposal from Iran, ceasefire negotiations with US are in flux",
     "url": "https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa",
@@ -63,7 +81,7 @@
     "summary": "Despite a new proposal from Iran, ceasefire negotiations with US are in flux"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "US and Iran clash over Tehran’s nuclear program as review of atomic treaty begins at UN",
     "url": "https://apnews.com/article/iran-un-nuclear-nonproliferation-treaty-us-2dee996cbaec872604baabc4cbd3f4df",
@@ -72,7 +90,7 @@
     "summary": "US and Iran clash over Tehran’s nuclear program as review of atomic treaty begins at UN"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "Talks stumble as Iran’s top diplomat leaves Pakistan and Trump says he told envoys not to go",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-25-2026-7e52d208e7b517c615fc178280ca57d0",
@@ -81,16 +99,7 @@
     "summary": "Talks stumble as Iran’s top diplomat leaves Pakistan and Trump says he told envoys not to go"
   },
   {
-    "date": "2026-04-29",
-    "source": "AP Middle East",
-    "title": "Iran’s rial currency hits record low as a shaky ceasefire with the US and Israel holds",
-    "url": "https://apnews.com/article/iran-us-war-ceasefire-rial-currency-157e7c6d099c7db8b4366bb341fc655d",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran’s rial currency hits record low as a shaky ceasefire with the US and Israel holds"
-  },
-  {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368",
@@ -99,7 +108,7 @@
     "summary": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "Trump says the US will extend its ceasefire with Iran at Pakistan’s request",
     "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30",
@@ -108,7 +117,7 @@
     "summary": "Trump says the US will extend its ceasefire with Iran at Pakistan’s request"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "How a US blockade on Iran has sanctioned ships turning around",
     "url": "https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc",
@@ -117,7 +126,7 @@
     "summary": "How a US blockade on Iran has sanctioned ships turning around"
   },
   {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "AP Middle East",
     "title": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9",
@@ -126,66 +135,39 @@
     "summary": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan"
   },
   {
-    "date": "2026-04-29",
-    "source": "AP Middle East",
-    "title": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
-    "url": "https://apnews.com/article/gaza-ceasefire-palestinians-israel-six-months-5435d3ebd95d00d6dcbe395c14f2e524",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
-  },
-  {
-    "date": "2026-04-29",
-    "source": "AP Middle East",
-    "title": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire",
-    "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05",
-    "category": "外交",
-    "importance": 3,
-    "summary": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire"
-  },
-  {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "source": "Al Jazeera Iran",
-    "title": "Iran’s currency falls to new low as US blockade, sanctions impact trade",
-    "url": "https://www.aljazeera.com/news/2026/4/29/irans-currency-falls-to-new-low-as-us-blockade-sanctions-impact-trade",
+    "title": "Trump doesn’t rule out resuming Iran attacks as Israel kills 32 in Lebanon",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Trump doesn’t rule out resuming Iran attacks as Israel kills 32 in Lebanon"
+  },
+  {
+    "date": "2026-04-30",
+    "source": "Al Jazeera Iran",
+    "title": "Iran is accustomed to ‘harsher’ sanctions",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?update=4535845",
     "category": "制裁",
     "importance": 3,
-    "summary": "Iran’s currency falls to new low as US blockade, sanctions impact trade"
+    "summary": "Iran is accustomed to ‘harsher’ sanctions"
   },
   {
-    "date": "2026-04-29",
-    "source": "Al Jazeera Iran",
-    "title": "Inside Tehran’s main airport as more flights take off during ceasefire",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/inside-tehrans-main-airport-as-more-flights-take-off-during-ceasefire",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Inside Tehran’s main airport as more flights take off during ceasefire"
-  },
-  {
-    "date": "2026-04-29",
-    "source": "Al Jazeera Iran",
-    "title": "‘No more Mr Nice Guy’: Trump warns Iran to ‘get smart’ over stalled talks",
-    "url": "https://www.aljazeera.com/news/2026/4/29/no-more-mr-nice-guy-trump-threatens-iran-to-get-smart-in-peace-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "‘No more Mr Nice Guy’: Trump warns Iran to ‘get smart’ over stalled talks"
-  },
-  {
-    "date": "2026-04-29",
-    "source": "Al Jazeera Iran",
-    "title": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
-    "url": "https://www.aljazeera.com/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "How US and Iran are playing a crypto cat-and-mouse game over sanctions"
-  },
-  {
-    "date": "2026-04-29",
-    "source": "Al Jazeera Iran",
-    "title": "Is Iran’s oil storage nearly full – and will it have to cut production?",
-    "url": "https://www.aljazeera.com/economy/2026/4/29/is-irans-oil-storage-nearly-full-and-will-it-have-to-cut-production",
+    "date": "2026-04-30",
+    "source": "AP Middle East",
+    "title": "Analysis: Why Iran’s oil industry is increasingly threatened by US blockade",
+    "url": "https://apnews.com/article/iran-israel-us-war-oil-strait-hormuz-blockade-a00baaa69fe8ea01c1109582a13ea075",
     "category": "市場",
     "importance": 2,
-    "summary": "Is Iran’s oil storage nearly full – and will it have to cut production?"
+    "summary": "Analysis: Why Iran’s oil industry is increasingly threatened by US blockade"
+  },
+  {
+    "date": "2026-04-30",
+    "source": "Al Jazeera Iran",
+    "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+    "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Oil prices soar on fears of long supply disruption, US siege of Iran ports"
   }
 ]
