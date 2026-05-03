@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Iran’s supreme leader vows to protect nuclear and missile capabilities",
     "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
@@ -9,7 +9,7 @@
     "summary": "Iran’s supreme leader vows to protect nuclear and missile capabilities"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "Al Jazeera Iran",
     "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo",
@@ -18,16 +18,34 @@
     "summary": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo"
   },
   {
-    "date": "2026-05-02",
-    "source": "Al Jazeera Iran",
-    "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks",
+    "date": "2026-05-03",
+    "source": "Al Jazeera Middle East",
+    "title": "OPEC+ announces symbolic oil output rise during Strait of Hormuz closure",
+    "url": "https://www.aljazeera.com/news/2026/5/3/opec-announces-symbolic-oil-output-rise-during-strait-of-hormuz-closure",
     "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks"
+    "summary": "OPEC+ announces symbolic oil output rise during Strait of Hormuz closure"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
+    "source": "AP Middle East",
+    "title": "Trump says the US will 'guide' stranded ships from the Strait of Hormuz, starting on Monday",
+    "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-454006a0a9bb19a45a2f299c0869cefb",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump says the US will 'guide' stranded ships from the Strait of Hormuz, starting on Monday"
+  },
+  {
+    "date": "2026-05-03",
+    "source": "AP Middle East",
+    "title": "OPEC+ countries agree modest rise in production as Iran retains chokehold on key Strait of Hormuz",
+    "url": "https://apnews.com/article/opec-oil-russia-uae-hormuz-iran-54fc7aa399fca1fd45e9db2a75da17d1",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "OPEC+ countries agree modest rise in production as Iran retains chokehold on key Strait of Hormuz"
+  },
+  {
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
     "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
@@ -36,7 +54,7 @@
     "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8",
@@ -45,7 +63,7 @@
     "summary": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Iran fully closes Strait of Hormuz over US blockade and fires on ships",
     "url": "https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37",
@@ -54,16 +72,52 @@
     "summary": "Iran fully closes Strait of Hormuz over US blockade and fires on ships"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "Al Jazeera Iran",
-    "title": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
-    "url": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations",
+    "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre‑war-state",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’"
+    "summary": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says US will ‘help free up’ ships stuck in Hormuz Strait",
+    "url": "https://www.aljazeera.com/news/2026/5/3/trump-says-us-will-help-free-up-ships-stuck-in-hormuz-strait",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump says US will ‘help free up’ ships stuck in Hormuz Strait"
+  },
+  {
+    "date": "2026-05-03",
+    "source": "Al Jazeera Iran",
+    "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
+    "url": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Strait of Hormuz blockade and other major naval sieges in modern times"
+  },
+  {
+    "date": "2026-05-03",
+    "source": "Al Jazeera Iran",
+    "title": "Trump announces plan to escort ships stuck in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump announces plan to escort ships stuck in Strait of Hormuz"
+  },
+  {
+    "date": "2026-05-03",
+    "source": "Al Jazeera Iran",
+    "title": "Trump’s Hormuz plan could ease fertiliser crisis, says former US general",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?update=4542450",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump’s Hormuz plan could ease fertiliser crisis, says former US general"
+  },
+  {
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Líder supremo iraní dice que Teherán protegerá sus \"capacidades nucleares y de misiles\"",
     "url": "https://apnews.com/article/iran-eeuu-golfo-ormuz-guerra-jamenei-1514bce4f6c98f4004b12a68600774a9",
@@ -72,7 +126,7 @@
     "summary": "Líder supremo iraní dice que Teherán protegerá sus \"capacidades nucleares y de misiles\""
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368",
@@ -81,7 +135,7 @@
     "summary": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Trump says the US will extend its ceasefire with Iran at Pakistan’s request",
     "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30",
@@ -90,7 +144,7 @@
     "summary": "Trump says the US will extend its ceasefire with Iran at Pakistan’s request"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "How a US blockade on Iran has sanctioned ships turning around",
     "url": "https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc",
@@ -99,25 +153,16 @@
     "summary": "How a US blockade on Iran has sanctioned ships turning around"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "Al Jazeera Iran",
-    "title": "US-Iran diplomacy in danger; deadly attacks by Israel surge in Lebanon",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer",
+    "title": "Bulk carrier attacked by multiple small craft off Iran",
+    "url": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says",
     "category": "軍事",
     "importance": 3,
-    "summary": "US-Iran diplomacy in danger; deadly attacks by Israel surge in Lebanon"
+    "summary": "Bulk carrier attacked by multiple small craft off Iran"
   },
   {
-    "date": "2026-05-02",
-    "source": "Al Jazeera Iran",
-    "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-    "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?"
-  },
-  {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Analysis: Why Iran’s oil industry is increasingly threatened by US blockade",
     "url": "https://apnews.com/article/iran-israel-us-war-oil-strait-hormuz-blockade-a00baaa69fe8ea01c1109582a13ea075",
@@ -126,21 +171,12 @@
     "summary": "Analysis: Why Iran’s oil industry is increasingly threatened by US blockade"
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "source": "AP Middle East",
     "title": "Inflation hits 3% in Europe as Iran war spreads oil price shock",
     "url": "https://apnews.com/article/eurozone-inflation-ecb-economy-fbc8e8f116f82cbb4c901d73726dfe60",
     "category": "市場",
     "importance": 2,
     "summary": "Inflation hits 3% in Europe as Iran war spreads oil price shock"
-  },
-  {
-    "date": "2026-05-02",
-    "source": "Al Jazeera Iran",
-    "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Trump says US forces are ‘like pirates’ taking Iranian oil"
   }
 ]
