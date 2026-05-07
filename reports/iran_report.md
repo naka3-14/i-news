@@ -1,28 +1,28 @@
-# Iran Daily Report - 2026-05-06
+# Iran Daily Report - 2026-05-07
 
-## 1. US and Gulf allies threaten Iran with sanctions in UN proposal if it doesn’t release Hormuz chokehold
+## 1. US military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-us-israel-war-may-7-2026-fdc6d2ae9396377919c967746fa9996b
+
+## 2. US and Gulf allies threaten Iran with sanctions in UN proposal if it doesn’t release Hormuz chokehold
 - ソース: AP Middle East
 - URL: https://apnews.com/article/un-us-iran-gulf-resolution-strait-hormuz-fb9532308885dd260bf8f44353d51b0a
 
-## 2. US tries to force open the Strait of Hormuz as the UAE comes under attack in a test of Iran truce
+## 3. US tries to force open the Strait of Hormuz as the UAE comes under attack in a test of Iran truce
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-a4857f28d9b47e0170b65ced19451a25
 
-## 3. What to know as the US tries to open the Strait of Hormuz and a ceasefire wavers
+## 4. What to know as the US tries to open the Strait of Hormuz and a ceasefire wavers
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-war-ceasefire-strait-hormuz-explainer-1e5055b74f935a4b9a73ea2c1b636a44
 
-## 4. Iran’s supreme leader vows to protect nuclear and missile capabilities
+## 5. Iran’s supreme leader vows to protect nuclear and missile capabilities
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b
 
-## 5. Has the US accepted Iran’s demand to settle Hormuz first, nuclear later?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/5/6/has-the-us-accepted-irans-demand-to-settle-hormuz-first-nuclear-later
-
-## 6. Trump halts Hormuz operation, cites ‘great progress’ in Iran talks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz
+## 6. Trump administration sows confusion as it tries to reopen Strait of Hormuz
+- ソース: AP Middle East
+- URL: https://apnews.com/article/trump-iran-war-confusion-messaging-contradiction-20471bb90ad7abd6381a761fffeb8e96
 
 ## 7. Trump advisers step up their calls on China to help open Strait of Hormuz ahead of Beijing summit
 - ソース: AP Middle East
@@ -44,38 +44,38 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37
 
-## 12. Iran says Strait of Hormuz passage to be ensured after US pauses operation
+## 12. Gulf states urge UN action to ensure Strait of Hormuz safety
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/5/6/french-container-ship-struck-in-latest-escalation-at-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety
 
-## 13. China calls for end to Iran war and Hormuz to reopen during Araghchi visit
+## 13. US sanctions Iraqi minister accused of aiding Iran oil sales
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing
+- URL: https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales
 
-## 14. US pauses plan to guide ships through the Strait of Hormuz
+## 14. Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/5/6/us-pauses-plan-to-guide-ships-through-the-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran
 
-## 15. Líder supremo iraní dice que Teherán protegerá sus "capacidades nucleares y de misiles"
+## 15. Iran releases video said to show US drone shot down over Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz
+
+## 16. French warship moves towards Red Sea as Paris eyes Hormuz mission
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission
+
+## 17. Líder supremo iraní dice que Teherán protegerá sus "capacidades nucleares y de misiles"
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-eeuu-golfo-ormuz-guerra-jamenei-1514bce4f6c98f4004b12a68600774a9
 
-## 16. Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister
+## 18. Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368
 
-## 17. Trump says the US will extend its ceasefire with Iran at Pakistan’s request
+## 19. Trump says the US will extend its ceasefire with Iran at Pakistan’s request
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30
 
-## 18. How a US blockade on Iran has sanctioned ships turning around
+## 20. How a US blockade on Iran has sanctioned ships turning around
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc
-
-## 19. Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal
-
-## 20. Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over
