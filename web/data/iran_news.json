@@ -1,42 +1,6 @@
 [
   {
-    "date": "2026-05-07",
-    "source": "AP Middle East",
-    "title": "US military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
-    "url": "https://apnews.com/article/iran-us-israel-war-may-7-2026-fdc6d2ae9396377919c967746fa9996b",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "US military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz"
-  },
-  {
-    "date": "2026-05-07",
-    "source": "AP Middle East",
-    "title": "US and Gulf allies threaten Iran with sanctions in UN proposal if it doesn’t release Hormuz chokehold",
-    "url": "https://apnews.com/article/un-us-iran-gulf-resolution-strait-hormuz-fb9532308885dd260bf8f44353d51b0a",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "US and Gulf allies threaten Iran with sanctions in UN proposal if it doesn’t release Hormuz chokehold"
-  },
-  {
-    "date": "2026-05-07",
-    "source": "AP Middle East",
-    "title": "US tries to force open the Strait of Hormuz as the UAE comes under attack in a test of Iran truce",
-    "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-a4857f28d9b47e0170b65ced19451a25",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "US tries to force open the Strait of Hormuz as the UAE comes under attack in a test of Iran truce"
-  },
-  {
-    "date": "2026-05-07",
-    "source": "AP Middle East",
-    "title": "What to know as the US tries to open the Strait of Hormuz and a ceasefire wavers",
-    "url": "https://apnews.com/article/iran-war-ceasefire-strait-hormuz-explainer-1e5055b74f935a4b9a73ea2c1b636a44",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "What to know as the US tries to open the Strait of Hormuz and a ceasefire wavers"
-  },
-  {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Iran’s supreme leader vows to protect nuclear and missile capabilities",
     "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
@@ -45,7 +9,34 @@
     "summary": "Iran’s supreme leader vows to protect nuclear and missile capabilities"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+    "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions"
+  },
+  {
+    "date": "2026-05-08",
+    "source": "AP Middle East",
+    "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
+    "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
+  },
+  {
+    "date": "2026-05-08",
+    "source": "AP Middle East",
+    "title": "These numbers show the global impact of Iran’s grip on the Strait of Hormuz",
+    "url": "https://apnews.com/article/iran-us-war-strait-hormuz-fuel-price-economy-numbers-408faf6d6fb1c0aa104d059257204f52",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "These numbers show the global impact of Iran’s grip on the Strait of Hormuz"
+  },
+  {
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Trump administration sows confusion as it tries to reopen Strait of Hormuz",
     "url": "https://apnews.com/article/trump-iran-war-confusion-messaging-contradiction-20471bb90ad7abd6381a761fffeb8e96",
@@ -54,7 +45,7 @@
     "summary": "Trump administration sows confusion as it tries to reopen Strait of Hormuz"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Trump advisers step up their calls on China to help open Strait of Hormuz ahead of Beijing summit",
     "url": "https://apnews.com/article/trump-xi-iran-rubio-hormuz-b8fd7a1f890b4bb88b47b52ebad04dde",
@@ -63,16 +54,7 @@
     "summary": "Trump advisers step up their calls on China to help open Strait of Hormuz ahead of Beijing summit"
   },
   {
-    "date": "2026-05-07",
-    "source": "AP Middle East",
-    "title": "France moves aircraft carrier group toward Strait of Hormuz for possible defensive mission",
-    "url": "https://apnews.com/article/french-carrier-charles-de-gaulle-suez-hormuz-2749dc877f0ac34a0ccd4f0530786009",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "France moves aircraft carrier group toward Strait of Hormuz for possible defensive mission"
-  },
-  {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
     "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
@@ -81,7 +63,7 @@
     "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8",
@@ -90,7 +72,7 @@
     "summary": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Iran fully closes Strait of Hormuz over US blockade and fires on ships",
     "url": "https://apnews.com/article/us-iran-war-israel-hormuz-18-april-2026-ab475cb979825b956a10d60103026b37",
@@ -99,7 +81,25 @@
     "summary": "Iran fully closes Strait of Hormuz over US blockade and fires on ships"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
+    "source": "Al Jazeera Iran",
+    "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
+    "url": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "US, Iran clash in Hormuz as war escalates: What happened, why it matters"
+  },
+  {
+    "date": "2026-05-08",
+    "source": "Al Jazeera Iran",
+    "title": "Seafarers trapped in limbo as US and Iran clash in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Seafarers trapped in limbo as US and Iran clash in Strait of Hormuz"
+  },
+  {
+    "date": "2026-05-08",
     "source": "Al Jazeera Iran",
     "title": "Gulf states urge UN action to ensure Strait of Hormuz safety",
     "url": "https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety",
@@ -108,7 +108,7 @@
     "summary": "Gulf states urge UN action to ensure Strait of Hormuz safety"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "Al Jazeera Iran",
     "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
     "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales",
@@ -117,7 +117,7 @@
     "summary": "US sanctions Iraqi minister accused of aiding Iran oil sales"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "Al Jazeera Iran",
     "title": "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?",
     "url": "https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran",
@@ -126,25 +126,7 @@
     "summary": "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?"
   },
   {
-    "date": "2026-05-07",
-    "source": "Al Jazeera Iran",
-    "title": "Iran releases video said to show US drone shot down over Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran releases video said to show US drone shot down over Hormuz"
-  },
-  {
-    "date": "2026-05-07",
-    "source": "Al Jazeera Iran",
-    "title": "French warship moves towards Red Sea as Paris eyes Hormuz mission",
-    "url": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "French warship moves towards Red Sea as Paris eyes Hormuz mission"
-  },
-  {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Líder supremo iraní dice que Teherán protegerá sus \"capacidades nucleares y de misiles\"",
     "url": "https://apnews.com/article/iran-eeuu-golfo-ormuz-guerra-jamenei-1514bce4f6c98f4004b12a68600774a9",
@@ -153,7 +135,7 @@
     "summary": "Líder supremo iraní dice que Teherán protegerá sus \"capacidades nucleares y de misiles\""
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368",
@@ -162,7 +144,7 @@
     "summary": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "Trump says the US will extend its ceasefire with Iran at Pakistan’s request",
     "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30",
@@ -171,7 +153,7 @@
     "summary": "Trump says the US will extend its ceasefire with Iran at Pakistan’s request"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "How a US blockade on Iran has sanctioned ships turning around",
     "url": "https://apnews.com/article/us-iran-war-navy-blockade-strait-of-hormuz-5ede64fed469d3cf99524976183e3bfc",
@@ -180,7 +162,25 @@
     "summary": "How a US blockade on Iran has sanctioned ships turning around"
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
+    "source": "Al Jazeera Iran",
+    "title": "Italy-US ties strained as pope and Iran war dominate talks",
+    "url": "https://www.aljazeera.com/news/2026/5/8/italy-us-ties-strained-as-pope-and-iran-war-dominate-talks",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Italy-US ties strained as pope and Iran war dominate talks"
+  },
+  {
+    "date": "2026-05-08",
+    "source": "Al Jazeera Iran",
+    "title": "What we know about Iran’s response to the latest US ceasefire proposal",
+    "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
+    "category": "外交",
+    "importance": 3,
+    "summary": "What we know about Iran’s response to the latest US ceasefire proposal"
+  },
+  {
+    "date": "2026-05-08",
     "source": "Al Jazeera Iran",
     "title": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
     "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy",
@@ -189,16 +189,7 @@
     "summary": "Iran says it attacked US Navy ships after they targeted Iranian tanker"
   },
   {
-    "date": "2026-05-07",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says US violated ceasefire, targeted ships and civilian areas",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran says US violated ceasefire, targeted ships and civilian areas"
-  },
-  {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "source": "AP Middle East",
     "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
     "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
