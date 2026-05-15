@@ -1,12 +1,12 @@
-# Iran Daily Report - 2026-05-14
+# Iran Daily Report - 2026-05-15
 
-## 1. Trump and Hegseth claim ‘control’ over Iran and the Strait of Hormuz as ceasefire talks are stalled
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-israel-uae-iron-dome-f3d5738853111cfc80985c157edab7c3
-
-## 2. Iran’s supreme leader vows to protect nuclear and missile capabilities
+## 1. Iran’s supreme leader vows to protect nuclear and missile capabilities
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b
+
+## 2. UAE to accelerate oil pipeline project to bypass Strait of Hormuz
+- ソース: Al Jazeera Middle East
+- URL: https://www.aljazeera.com/news/2026/5/15/uae-to-accelerate-oil-pipeline-project-to-bypass-hormuz
 
 ## 3. Tensions flare near Strait of Hormuz as a ship is seized and another is sunk
 - ソース: AP Middle East
@@ -24,33 +24,33 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8
 
-## 7. Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway
+## 7. Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics
+
+## 8. Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/5/14/trump-xi-discuss-strait-of-hormuz-as-chinese-vessels-transit-key-waterway
 
-## 8. Trump arrives in Beijing for talks with China’s Xi on Iran war, trade and US arms sales to Taiwan
+## 9. Trump arrives in Beijing for talks with China’s Xi on Iran war, trade and US arms sales to Taiwan
 - ソース: AP Middle East
 - URL: https://apnews.com/article/trump-xi-china-trip-arrival-353c768987542843e2033aa684266879
 
-## 9. Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister
+## 10. Iran’s top diplomat says a lack of trust is impeding talks to end war with the US
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-us-israel-war-trump-oil-hormuz-5a1d5142470e0de7349c409e2d566fce
+
+## 11. Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister
 - ソース: AP Middle East
 - URL: https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368
 
-## 10. Trump says the US will extend its ceasefire with Iran at Pakistan’s request
-- ソース: AP Middle East
-- URL: https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30
+## 12. BRICS talks end without joint statement as divisions over Iran war deepen
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen
 
-## 11. Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon
+## 13. Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon
-
-## 12. Iran says ‘no military solution’ to war; Lebanon, Israel hold talks in US
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae
-
-## 13. Iran and India discuss ‘regional tensions’ in New Delhi talks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?update=4573395
 
 ## 14. BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity
 - ソース: AP Middle East
