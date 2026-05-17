@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "Iran’s supreme leader vows to protect nuclear and missile capabilities",
     "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
@@ -9,16 +9,7 @@
     "summary": "Iran’s supreme leader vows to protect nuclear and missile capabilities"
   },
   {
-    "date": "2026-05-16",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Lebanon ‘ceasefire’ extended, Israel launches new attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran",
-    "category": "外交",
-    "importance": 5,
-    "summary": "Iran war updates: Lebanon ‘ceasefire’ extended, Israel launches new attacks"
-  },
-  {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "Tensions flare near Strait of Hormuz as a ship is seized and another is sunk",
     "url": "https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279",
@@ -27,7 +18,7 @@
     "summary": "Tensions flare near Strait of Hormuz as a ship is seized and another is sunk"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
@@ -36,7 +27,7 @@
     "summary": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
     "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
@@ -45,7 +36,7 @@
     "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8",
@@ -54,7 +45,16 @@
     "summary": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
+    "source": "Al Jazeera Iran",
+    "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping"
+  },
+  {
+    "date": "2026-05-17",
     "source": "Al Jazeera Iran",
     "title": "Al Jazeera’s exclusive report from the Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz",
@@ -63,34 +63,25 @@
     "summary": "Al Jazeera’s exclusive report from the Strait of Hormuz"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "Al Jazeera Iran",
-    "title": "‘Parking lot for ships’: Iran says it will debut Hormuz toll mechanism soon",
+    "title": "Iran war updates: Tehran says it will unveil Hormuz toll mechanism soon",
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "‘Parking lot for ships’: Iran says it will debut Hormuz toll mechanism soon"
+    "summary": "Iran war updates: Tehran says it will unveil Hormuz toll mechanism soon"
   },
   {
-    "date": "2026-05-16",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
-    "url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS"
+    "date": "2026-05-17",
+    "source": "AP Middle East",
+    "title": "Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war",
+    "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war"
   },
   {
-    "date": "2026-05-16",
-    "source": "Al Jazeera Iran",
-    "title": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway",
-    "url": "https://www.aljazeera.com/news/2026/5/14/trump-xi-discuss-strait-of-hormuz-as-chinese-vessels-transit-key-waterway",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway"
-  },
-  {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "Trump arrives in Beijing for talks with China’s Xi on Iran war, trade and US arms sales to Taiwan",
     "url": "https://apnews.com/article/trump-xi-china-trip-arrival-353c768987542843e2033aa684266879",
@@ -99,16 +90,7 @@
     "summary": "Trump arrives in Beijing for talks with China’s Xi on Iran war, trade and US arms sales to Taiwan"
   },
   {
-    "date": "2026-05-16",
-    "source": "AP Middle East",
-    "title": "Iran’s top diplomat says a lack of trust is impeding talks to end war with the US",
-    "url": "https://apnews.com/article/iran-us-israel-war-trump-oil-hormuz-5a1d5142470e0de7349c409e2d566fce",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran’s top diplomat says a lack of trust is impeding talks to end war with the US"
-  },
-  {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister",
     "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368",
@@ -117,7 +99,25 @@
     "summary": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
+    "source": "Al Jazeera Iran",
+    "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+    "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks",
+    "category": "外交",
+    "importance": 3,
+    "summary": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks"
+  },
+  {
+    "date": "2026-05-17",
+    "source": "Al Jazeera Iran",
+    "title": "World Cup 2026: FIFA holds ‘positive’ talks with Iranian football officials",
+    "url": "https://www.aljazeera.com/sports/2026/5/17/fifa-holds-positive-talks-with-iranian-football-officials-on-world-cup",
+    "category": "外交",
+    "importance": 3,
+    "summary": "World Cup 2026: FIFA holds ‘positive’ talks with Iranian football officials"
+  },
+  {
+    "date": "2026-05-17",
     "source": "Al Jazeera Iran",
     "title": "Iran warns of readiness for war and economic costs as US talks falter",
     "url": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter",
@@ -126,7 +126,7 @@
     "summary": "Iran warns of readiness for war and economic costs as US talks falter"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "Al Jazeera Iran",
     "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
     "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended",
@@ -135,7 +135,7 @@
     "summary": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "Al Jazeera Iran",
     "title": "BRICS talks end without joint statement as divisions over Iran war deepen",
     "url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen",
@@ -144,7 +144,7 @@
     "summary": "BRICS talks end without joint statement as divisions over Iran war deepen"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity",
     "url": "https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c",
@@ -153,7 +153,7 @@
     "summary": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity"
   },
   {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "source": "AP Middle East",
     "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
     "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
