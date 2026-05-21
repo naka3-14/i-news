@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "AP Middle East",
     "title": "Iran’s supreme leader vows to protect nuclear and missile capabilities",
     "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
@@ -9,7 +9,7 @@
     "summary": "Iran’s supreme leader vows to protect nuclear and missile capabilities"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "AP Middle East",
     "title": "Trump’s tough-talk foreign policy is hitting a wall with Iran as it grips Strait of Hormuz",
     "url": "https://apnews.com/article/trump-iran-pressure-campaign-strait-hormuz-de-8166b4d513523ee8b73ff058210dc581",
@@ -18,7 +18,7 @@
     "summary": "Trump’s tough-talk foreign policy is hitting a wall with Iran as it grips Strait of Hormuz"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "AP Middle East",
     "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
@@ -27,7 +27,7 @@
     "summary": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "AP Middle East",
     "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
     "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
@@ -36,7 +36,16 @@
     "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
+    "source": "Al Jazeera Iran",
+    "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+    "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?"
+  },
+  {
+    "date": "2026-05-21",
     "source": "Al Jazeera Iran",
     "title": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
     "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz",
@@ -45,7 +54,7 @@
     "summary": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "Al Jazeera Iran",
     "title": "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal",
     "url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal",
@@ -54,79 +63,34 @@
     "summary": "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal"
   },
   {
-    "date": "2026-05-20",
-    "source": "Al Jazeera Iran",
-    "title": "Video shows oil spill on Iranian island after refinery attack last month",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month",
-    "category": "軍事",
-    "importance": 4,
-    "summary": "Video shows oil spill on Iranian island after refinery attack last month"
-  },
-  {
-    "date": "2026-05-20",
-    "source": "Al Jazeera Iran",
-    "title": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail",
+    "date": "2026-05-21",
+    "source": "AP Middle East",
+    "title": "This hard-line Iranian general is a major player in talks with US over war",
+    "url": "https://apnews.com/article/iran-war-us-negotiations-ahmad-vahidi-0905fc9612407e75fffbfd0280776692",
     "category": "外交",
     "importance": 3,
-    "summary": "Vance: US ‘locked and loaded’ for military action if Iran talks fail"
+    "summary": "This hard-line Iranian general is a major player in talks with US over war"
   },
   {
-    "date": "2026-05-20",
-    "source": "Al Jazeera Iran",
-    "title": "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
-    "url": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Trump says Iran attack on ‘hold’: What we know about latest negotiations"
-  },
-  {
-    "date": "2026-05-20",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
-    "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’"
-  },
-  {
-    "date": "2026-05-20",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Trump warns of attacks in ‘two or three days’ if no deal",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war updates: Trump warns of attacks in ‘two or three days’ if no deal"
-  },
-  {
-    "date": "2026-05-20",
-    "source": "Al Jazeera Iran",
-    "title": "‘Appalling lie’: Iran rejects US claim over missile strike on school",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?update=4587520",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "‘Appalling lie’: Iran rejects US claim over missile strike on school"
-  },
-  {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "AP Middle East",
-    "title": "Video and satellite photos show Iran war oil spill on Persian Gulf island",
-    "url": "https://apnews.com/article/iran-us-war-oil-spill-persian-gulf-shidvar-island-61c08e24f926ab5a7bba5ef7101161a9",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Video and satellite photos show Iran war oil spill on Persian Gulf island"
+    "title": "Germany charges alleged Iranian agent for scouting out Jewish figures with a view to attacks",
+    "url": "https://apnews.com/article/germany-iran-charges-espionage-jews-attacks-plot-b852d935380b6347248f9b22e434d49d",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Germany charges alleged Iranian agent for scouting out Jewish figures with a view to attacks"
   },
   {
-    "date": "2026-05-20",
-    "source": "AP Middle East",
-    "title": "Bessent grants a 30-day extension for Russian oil in tankers as Iran war squeezes supply",
-    "url": "https://apnews.com/article/bessent-russia-oil-iran-db037c60caac65a213223f07a9d781ad",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Bessent grants a 30-day extension for Russian oil in tankers as Iran war squeezes supply"
+    "date": "2026-05-21",
+    "source": "Al Jazeera Iran",
+    "title": "US reportedly lost 20 percent of Reaper drone arsenal in Iran attacks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?update=4592660",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US reportedly lost 20 percent of Reaper drone arsenal in Iran attacks"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
@@ -135,7 +99,16 @@
     "summary": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
+    "source": "AP Middle East",
+    "title": "Video and satellite photos show Iran war oil spill on Persian Gulf island",
+    "url": "https://apnews.com/article/iran-us-war-oil-spill-persian-gulf-shidvar-island-61c08e24f926ab5a7bba5ef7101161a9",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Video and satellite photos show Iran war oil spill on Persian Gulf island"
+  },
+  {
+    "date": "2026-05-21",
     "source": "AP Middle East",
     "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity",
     "url": "https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c",
@@ -144,7 +117,7 @@
     "summary": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "AP Middle East",
     "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
     "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
@@ -153,21 +126,12 @@
     "summary": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war"
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "source": "Al Jazeera Iran",
     "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
     "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown",
     "category": "市場",
     "importance": 2,
     "summary": "Controlled reopening ends Iran’s lengthy stock market shutdown"
-  },
-  {
-    "date": "2026-05-20",
-    "source": "Al Jazeera Iran",
-    "title": "High prices in Iran’s stunted housing market leave tenants with few options",
-    "url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options",
-    "category": "市場",
-    "importance": 2,
-    "summary": "High prices in Iran’s stunted housing market leave tenants with few options"
   }
 ]
