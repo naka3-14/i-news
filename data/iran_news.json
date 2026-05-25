@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
     "title": "Iran’s supreme leader vows to protect nuclear and missile capabilities",
     "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
@@ -9,7 +9,7 @@
     "summary": "Iran’s supreme leader vows to protect nuclear and missile capabilities"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
     "title": "Trump’s tough-talk foreign policy is hitting a wall with Iran as it grips Strait of Hormuz",
     "url": "https://apnews.com/article/trump-iran-pressure-campaign-strait-hormuz-de-8166b4d513523ee8b73ff058210dc581",
@@ -18,16 +18,16 @@
     "summary": "Trump’s tough-talk foreign policy is hitting a wall with Iran as it grips Strait of Hormuz"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
-    "title": "British sailors prepare to deploy on a mine clearing mission to Hormuz which may never come",
-    "url": "https://apnews.com/article/iran-us-britain-navy-hormuz-mines-9e79d2fef14886d36881883f64b45bca",
+    "title": "Strait of Hormuz closure chokes trade and aid for Afghanistan",
+    "url": "https://apnews.com/article/afghanistan-iran-war-hormuz-supplies-fa22df522fef9a4db873d4e8d9df0013",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "British sailors prepare to deploy on a mine clearing mission to Hormuz which may never come"
+    "summary": "Strait of Hormuz closure chokes trade and aid for Afghanistan"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
     "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
@@ -36,7 +36,7 @@
     "summary": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
     "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
     "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
@@ -45,16 +45,25 @@
     "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say"
   },
   {
-    "date": "2026-05-24",
-    "source": "Al Jazeera Middle East",
-    "title": "The GCC should insure itself against the next Strait of Hormuz crisis",
-    "url": "https://www.aljazeera.com/opinions/2026/5/24/the-gcc-should-insure-itself-against-the-next-strait-of-hormuz-crisis",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "The GCC should insure itself against the next Strait of Hormuz crisis"
+    "date": "2026-05-25",
+    "source": "Al Jazeera Iran",
+    "title": "Iranian delegation in Qatar as talks on US ceasefire extend",
+    "url": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iranian delegation in Qatar as talks on US ceasefire extend"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
+    "source": "Al Jazeera Iran",
+    "title": "Iran’s Baghaei says US attack at start of war killed, 2-year-old, teen volleyball players",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?update=4601002",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran’s Baghaei says US attack at start of war killed, 2-year-old, teen volleyball players"
+  },
+  {
+    "date": "2026-05-25",
     "source": "Al Jazeera Iran",
     "title": "‘We won’t know who won until final outcome of US-Iran ceasefire’",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/we-wont-know-who-won-until-final-outcome-of-us-iran",
@@ -63,7 +72,7 @@
     "summary": "‘We won’t know who won until final outcome of US-Iran ceasefire’"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
@@ -72,7 +81,7 @@
     "summary": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
     "title": "Video and satellite photos show Iran war oil spill on Persian Gulf island",
     "url": "https://apnews.com/article/iran-us-war-oil-spill-persian-gulf-shidvar-island-61c08e24f926ab5a7bba5ef7101161a9",
@@ -81,7 +90,7 @@
     "summary": "Video and satellite photos show Iran war oil spill on Persian Gulf island"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
     "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity",
     "url": "https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c",
@@ -90,12 +99,21 @@
     "summary": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "source": "AP Middle East",
     "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
     "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
     "category": "市場",
     "importance": 2,
     "summary": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war"
+  },
+  {
+    "date": "2026-05-25",
+    "source": "Al Jazeera Middle East",
+    "title": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
+    "url": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Could Brazilian oil emerge as one of the big winners of the Iran war?"
   }
 ]
