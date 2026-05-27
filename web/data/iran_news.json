@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "AP Middle East",
     "title": "Iran’s supreme leader vows to protect nuclear and missile capabilities",
     "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
@@ -9,7 +9,25 @@
     "summary": "Iran’s supreme leader vows to protect nuclear and missile capabilities"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
+    "source": "Al Jazeera Iran",
+    "title": "US, Iran have launched multiple attacks during ceasefire: A timeline",
+    "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline",
+    "category": "外交",
+    "importance": 5,
+    "summary": "US, Iran have launched multiple attacks during ceasefire: A timeline"
+  },
+  {
+    "date": "2026-05-27",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says no one will control Hormuz, no sanctions relief for Iran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Trump says no one will control Hormuz, no sanctions relief for Iran"
+  },
+  {
+    "date": "2026-05-27",
     "source": "Al Jazeera Iran",
     "title": "Anticipation in Iran as talks with US continue amid attacks, war of words",
     "url": "https://www.aljazeera.com/news/2026/5/26/anticipation-in-iran-as-talks-with-us-continue-amid-attacks-war-of-words",
@@ -18,7 +36,7 @@
     "summary": "Anticipation in Iran as talks with US continue amid attacks, war of words"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "Al Jazeera Iran",
     "title": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
     "url": "https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar",
@@ -27,16 +45,7 @@
     "summary": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar"
   },
   {
-    "date": "2026-05-26",
-    "source": "AP Middle East",
-    "title": "Trump’s tough-talk foreign policy is hitting a wall with Iran as it grips Strait of Hormuz",
-    "url": "https://apnews.com/article/trump-iran-pressure-campaign-strait-hormuz-de-8166b4d513523ee8b73ff058210dc581",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Trump’s tough-talk foreign policy is hitting a wall with Iran as it grips Strait of Hormuz"
-  },
-  {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "AP Middle East",
     "title": "Strait of Hormuz closure chokes trade and aid for Afghanistan",
     "url": "https://apnews.com/article/afghanistan-iran-war-hormuz-supplies-fa22df522fef9a4db873d4e8d9df0013",
@@ -45,7 +54,7 @@
     "summary": "Strait of Hormuz closure chokes trade and aid for Afghanistan"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "AP Middle East",
     "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
@@ -54,16 +63,43 @@
     "summary": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
   },
   {
-    "date": "2026-05-26",
-    "source": "AP Middle East",
-    "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
-    "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
+    "date": "2026-05-27",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says no one will control Strait of Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say"
+    "summary": "Trump says no one will control Strait of Hormuz"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
+    "source": "Al Jazeera Middle East",
+    "title": "Trump appears to threaten Oman over Strait of Hormuz impasse",
+    "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump appears to threaten Oman over Strait of Hormuz impasse"
+  },
+  {
+    "date": "2026-05-27",
+    "source": "Al Jazeera Iran",
+    "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
+    "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "US, Iran issue conflicting reports on deal as Trump says no sanction relief"
+  },
+  {
+    "date": "2026-05-27",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+    "url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise"
+  },
+  {
+    "date": "2026-05-27",
     "source": "Al Jazeera Iran",
     "title": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
     "url": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond",
@@ -72,7 +108,7 @@
     "summary": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "Al Jazeera Iran",
     "title": "US strikes Iran again: What we know, and is the ceasefire over?",
     "url": "https://www.aljazeera.com/news/2026/5/26/us-strikes-iran-again-what-we-know-and-is-the-ceasefire-over",
@@ -81,7 +117,7 @@
     "summary": "US strikes Iran again: What we know, and is the ceasefire over?"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "Al Jazeera Iran",
     "title": "US military launches strikes on southern Iran amid talks in Qatar",
     "url": "https://www.aljazeera.com/news/2026/5/26/us-military-launches-strikes-on-southern-iran-amid-talks-in-qatar",
@@ -90,7 +126,7 @@
     "summary": "US military launches strikes on southern Iran amid talks in Qatar"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
@@ -99,16 +135,7 @@
     "summary": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade"
   },
   {
-    "date": "2026-05-26",
-    "source": "AP Middle East",
-    "title": "Video and satellite photos show Iran war oil spill on Persian Gulf island",
-    "url": "https://apnews.com/article/iran-us-war-oil-spill-persian-gulf-shidvar-island-61c08e24f926ab5a7bba5ef7101161a9",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Video and satellite photos show Iran war oil spill on Persian Gulf island"
-  },
-  {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "AP Middle East",
     "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity",
     "url": "https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c",
@@ -117,12 +144,30 @@
     "summary": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity"
   },
   {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "source": "AP Middle East",
     "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
     "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
     "category": "市場",
     "importance": 2,
     "summary": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war"
+  },
+  {
+    "date": "2026-05-27",
+    "source": "Al Jazeera Iran",
+    "title": "Markets rally amid hopes of US-Iran deal",
+    "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Markets rally amid hopes of US-Iran deal"
+  },
+  {
+    "date": "2026-05-27",
+    "source": "Al Jazeera Iran",
+    "title": "Oil prices continue to slide as investors monitor US-Iran negotiations",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?update=4606290",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Oil prices continue to slide as investors monitor US-Iran negotiations"
   }
 ]
