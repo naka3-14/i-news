@@ -1,33 +1,6 @@
 [
   {
-    "date": "2026-05-28",
-    "source": "AP Middle East",
-    "title": "US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks",
-    "url": "https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29",
-    "category": "核問題",
-    "importance": 5,
-    "summary": "US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks"
-  },
-  {
-    "date": "2026-05-28",
-    "source": "AP Middle East",
-    "title": "LIVE Iran negotiators agree to extend ceasefire and start nuclear talks, pending Trump signoff, US official says",
-    "url": "https://apnews.com/live/trump-administration-updates-05-28-2026",
-    "category": "核問題",
-    "importance": 5,
-    "summary": "LIVE Iran negotiators agree to extend ceasefire and start nuclear talks, pending Trump signoff, US official says"
-  },
-  {
-    "date": "2026-05-28",
-    "source": "AP Middle East",
-    "title": "US imposes sanctions on Iranian agency trying to control shipping in the Strait of Hormuz",
-    "url": "https://apnews.com/article/iran-war-trump-sanctions-strait-hormuz-13052dd9323747cbdd661d48759f27d6",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "US imposes sanctions on Iranian agency trying to control shipping in the Strait of Hormuz"
-  },
-  {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "source": "AP Middle East",
     "title": "Iran’s supreme leader vows to protect nuclear and missile capabilities",
     "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
@@ -36,7 +9,7 @@
     "summary": "Iran’s supreme leader vows to protect nuclear and missile capabilities"
   },
   {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "source": "Al Jazeera Iran",
     "title": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
     "url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement",
@@ -45,25 +18,7 @@
     "summary": "Iran and US trade attacks after Trump rejects report of Hormuz agreement"
   },
   {
-    "date": "2026-05-28",
-    "source": "Al Jazeera Iran",
-    "title": "US, Iran have launched multiple attacks during ceasefire: A timeline",
-    "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline",
-    "category": "外交",
-    "importance": 5,
-    "summary": "US, Iran have launched multiple attacks during ceasefire: A timeline"
-  },
-  {
-    "date": "2026-05-28",
-    "source": "Al Jazeera Middle East",
-    "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
-    "url": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "US Treasury threatens Oman with sanctions over Hormuz Strait"
-  },
-  {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "source": "AP Middle East",
     "title": "EU envoy seeks more vessels to secure Hormuz navigation once the war in Iran ends",
     "url": "https://apnews.com/article/freedom-navigation-strait-hormuz-kallas-iran-eu-c6c0f0e72181e629a1b1f2b037d555d8",
@@ -72,7 +27,16 @@
     "summary": "EU envoy seeks more vessels to secure Hormuz navigation once the war in Iran ends"
   },
   {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
+    "source": "AP Middle East",
+    "title": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals",
+    "url": "https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals"
+  },
+  {
+    "date": "2026-05-29",
     "source": "AP Middle East",
     "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
@@ -81,7 +45,16 @@
     "summary": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
   },
   {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
+    "source": "Al Jazeera Iran",
+    "title": "UKMTO reduces threat level in Gulf of Oman; Hormuz Strait remains ‘critical’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?update=4609076",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "UKMTO reduces threat level in Gulf of Oman; Hormuz Strait remains ‘critical’"
+  },
+  {
+    "date": "2026-05-29",
     "source": "Al Jazeera Iran",
     "title": "Trump says no one will control Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz",
@@ -90,7 +63,25 @@
     "summary": "Trump says no one will control Strait of Hormuz"
   },
   {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
+    "source": "Al Jazeera Iran",
+    "title": "Iran denies ceasefire deal with US is “finalised”",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran denies ceasefire deal with US is “finalised”"
+  },
+  {
+    "date": "2026-05-29",
+    "source": "Al Jazeera Iran",
+    "title": "How the end of the nuclear file could reshape Iran, and the region",
+    "url": "https://www.aljazeera.com/opinions/2026/5/29/how-the-end-of-the-nuclear-file-could-reshape-iran-and-the-region",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "How the end of the nuclear file could reshape Iran, and the region"
+  },
+  {
+    "date": "2026-05-29",
     "source": "Al Jazeera Iran",
     "title": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
     "url": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran",
@@ -99,43 +90,7 @@
     "summary": "US attacks Bandar Abbas again: Why is the port so important for Iran?"
   },
   {
-    "date": "2026-05-28",
-    "source": "Al Jazeera Iran",
-    "title": "US, Iran reach MoU on 60-day truce for talks, Trump’s approval pending",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon",
-    "category": "外交",
-    "importance": 3,
-    "summary": "US, Iran reach MoU on 60-day truce for talks, Trump’s approval pending"
-  },
-  {
-    "date": "2026-05-28",
-    "source": "Al Jazeera Iran",
-    "title": "Palestine condemns ‘sinful Iranian attacks’ on Kuwait",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?update=4609044",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Palestine condemns ‘sinful Iranian attacks’ on Kuwait"
-  },
-  {
-    "date": "2026-05-28",
-    "source": "Al Jazeera Iran",
-    "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
-    "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "US, Iran issue conflicting reports on deal as Trump says no sanction relief"
-  },
-  {
-    "date": "2026-05-28",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
-    "url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise"
-  },
-  {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
@@ -144,7 +99,7 @@
     "summary": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade"
   },
   {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "source": "AP Middle East",
     "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity",
     "url": "https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c",
@@ -153,7 +108,7 @@
     "summary": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity"
   },
   {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "source": "AP Middle East",
     "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
     "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
@@ -162,7 +117,7 @@
     "summary": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war"
   },
   {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "source": "Al Jazeera Iran",
     "title": "Markets rally amid hopes of US-Iran deal",
     "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal",
