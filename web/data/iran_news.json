@@ -1,51 +1,15 @@
 [
   {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "source": "AP Middle East",
-    "title": "Rubio is optimistic on eventual Iran nuclear talks despite congressional skepticism",
-    "url": "https://apnews.com/article/rubio-congress-iran-war-testimony-4dd4bee7ae15b7d855b491ee29045917",
-    "category": "核問題",
-    "importance": 5,
-    "summary": "Rubio is optimistic on eventual Iran nuclear talks despite congressional skepticism"
-  },
-  {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "Rubio says US ‘will not’ remove sanctions on Iran even if Hormuz reopened",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Rubio says US ‘will not’ remove sanctions on Iran even if Hormuz reopened"
-  },
-  {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-    "url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks",
+    "title": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks",
+    "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
     "category": "外交",
     "importance": 5,
-    "summary": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks"
+    "summary": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks"
   },
   {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "US, Iran trade new attacks amid talks: Here’s what we know",
-    "url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know",
-    "category": "外交",
-    "importance": 5,
-    "summary": "US, Iran trade new attacks amid talks: Here’s what we know"
-  },
-  {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "Iran’s Ghalibaf links US-Iran ceasefire to halting Lebanon attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?update=4618718",
-    "category": "外交",
-    "importance": 5,
-    "summary": "Iran’s Ghalibaf links US-Iran ceasefire to halting Lebanon attacks"
-  },
-  {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "source": "AP Middle East",
     "title": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals",
     "url": "https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a",
@@ -54,7 +18,7 @@
     "summary": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals"
   },
   {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "source": "AP Middle East",
     "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
@@ -63,16 +27,34 @@
     "summary": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
   },
   {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "source": "AP Middle East",
-    "title": "Iran stops talking to mediators, Iranian reports say, but Trump says talks continue",
-    "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
+    "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
+    "url": "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
     "category": "外交",
     "importance": 3,
-    "summary": "Iran stops talking to mediators, Iranian reports say, but Trump says talks continue"
+    "summary": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again"
   },
   {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
+    "source": "AP Middle East",
+    "title": "Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran",
+    "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran"
+  },
+  {
+    "date": "2026-06-03",
+    "source": "AP Middle East",
+    "title": "LIVE Trump confirms he called Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran",
+    "url": "https://apnews.com/live/trump-administration-updates-06-03-2026",
+    "category": "外交",
+    "importance": 3,
+    "summary": "LIVE Trump confirms he called Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran"
+  },
+  {
+    "date": "2026-06-03",
     "source": "AP Middle East",
     "title": "US sanctions Iran’s largest digital asset exchange Nobitex and 3 others",
     "url": "https://apnews.com/article/treasury-sanctions-iran-war-trump-bessent-3d0d9612a72f9ec9ab867894878aaaba",
@@ -81,7 +63,79 @@
     "summary": "US sanctions Iran’s largest digital asset exchange Nobitex and 3 others"
   },
   {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
+    "source": "AP Middle East",
+    "title": "Ceasefires have been announced, often to great fanfare, in Gaza, Lebanon and Iran. But the fighting continues.",
+    "url": "https://apnews.com/article/iran-us-israel-gaza-lebanon-hamas-hezbollah-fighting-ceasefire-3338e5a13a57333ca2a56b89041360ae",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Ceasefires have been announced, often to great fanfare, in Gaza, Lebanon and Iran. But the fighting continues."
+  },
+  {
+    "date": "2026-06-03",
+    "source": "Al Jazeera Iran",
+    "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump seeks to split Lebanon talks from war on Iran negotiations"
+  },
+  {
+    "date": "2026-06-03",
+    "source": "Al Jazeera Iran",
+    "title": "Kuwait labels Iran attack ‘heinous aggression’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Kuwait labels Iran attack ‘heinous aggression’"
+  },
+  {
+    "date": "2026-06-03",
+    "source": "Al Jazeera Iran",
+    "title": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage"
+  },
+  {
+    "date": "2026-06-03",
+    "source": "Al Jazeera Iran",
+    "title": "Iranian drone attack kills Indian citizen in Kuwait after US strikes Qeshm",
+    "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iranian drone attack kills Indian citizen in Kuwait after US strikes Qeshm"
+  },
+  {
+    "date": "2026-06-03",
+    "source": "Al Jazeera Iran",
+    "title": "Accident on Kuwait motorway as Iranian missiles fly overhead",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Accident on Kuwait motorway as Iranian missiles fly overhead"
+  },
+  {
+    "date": "2026-06-03",
+    "source": "Al Jazeera Iran",
+    "title": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain"
+  },
+  {
+    "date": "2026-06-03",
+    "source": "Al Jazeera Iran",
+    "title": "WATCH: Kuwait labels Iran attack ‘heinous aggression’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?update=4624755",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "WATCH: Kuwait labels Iran attack ‘heinous aggression’"
+  },
+  {
+    "date": "2026-06-03",
     "source": "Al Jazeera Iran",
     "title": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
     "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio",
@@ -90,52 +144,7 @@
     "summary": "Iran’s supreme leader appears more active as talks continue: US’s Rubio"
   },
   {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks",
-    "url": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks"
-  },
-  {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "Rafael Grossi: the next Iran nuclear deal will look very different",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "Rafael Grossi: the next Iran nuclear deal will look very different"
-  },
-  {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Kuwait condemns Iranian attack as Iran-US trade new strikes"
-  },
-  {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "Iran’s IRGC launches retaliatory strike after US attacks",
-    "url": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran’s IRGC launches retaliatory strike after US attacks"
-  },
-  {
-    "date": "2026-06-02",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
-    "url": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles"
-  },
-  {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
@@ -144,21 +153,12 @@
     "summary": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade"
   },
   {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "source": "AP Middle East",
     "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity",
     "url": "https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c",
     "category": "市場",
     "importance": 2,
     "summary": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity"
-  },
-  {
-    "date": "2026-06-02",
-    "source": "AP Middle East",
-    "title": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
-    "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
-    "category": "市場",
-    "importance": 2,
-    "summary": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war"
   }
 ]

@@ -1,73 +1,73 @@
-# Iran Daily Report - 2026-06-02
+# Iran Daily Report - 2026-06-03
 
-## 1. Rubio is optimistic on eventual Iran nuclear talks despite congressional skepticism
-- ソース: AP Middle East
-- URL: https://apnews.com/article/rubio-congress-iran-war-testimony-4dd4bee7ae15b7d855b491ee29045917
-
-## 2. Rubio says US ‘will not’ remove sanctions on Iran even if Hormuz reopened
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges
-
-## 3. Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks
-
-## 4. US, Iran trade new attacks amid talks: Here’s what we know
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know
-
-## 5. Iran’s Ghalibaf links US-Iran ceasefire to halting Lebanon attacks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?update=4618718
-
-## 6. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
-- ソース: AP Middle East
-- URL: https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a
-
-## 7. US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b
-
-## 8. Iran stops talking to mediators, Iranian reports say, but Trump says talks continue
+## 1. Iran fires missiles and US strikes Iran facility after reports of faltering peace talks
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982
 
-## 9. US sanctions Iran’s largest digital asset exchange Nobitex and 3 others
+## 2. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
+- ソース: AP Middle East
+- URL: https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a
+
+## 3. US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b
+
+## 4. Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b
+
+## 5. Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran
+- ソース: AP Middle East
+- URL: https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97
+
+## 6. LIVE Trump confirms he called Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran
+- ソース: AP Middle East
+- URL: https://apnews.com/live/trump-administration-updates-06-03-2026
+
+## 7. US sanctions Iran’s largest digital asset exchange Nobitex and 3 others
 - ソース: AP Middle East
 - URL: https://apnews.com/article/treasury-sanctions-iran-war-trump-bessent-3d0d9612a72f9ec9ab867894878aaaba
 
-## 10. Iran’s supreme leader appears more active as talks continue: US’s Rubio
+## 8. Ceasefires have been announced, often to great fanfare, in Gaza, Lebanon and Iran. But the fighting continues.
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-us-israel-gaza-lebanon-hamas-hezbollah-fighting-ceasefire-3338e5a13a57333ca2a56b89041360ae
+
+## 9. Trump seeks to split Lebanon talks from war on Iran negotiations
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations
+
+## 10. Kuwait labels Iran attack ‘heinous aggression’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous
+
+## 11. Kuwait and Bahrain attacked as Iran launches missile and drone barrage
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage
+
+## 12. Iranian drone attack kills Indian citizen in Kuwait after US strikes Qeshm
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island
+
+## 13. Accident on Kuwait motorway as Iranian missiles fly overhead
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead
+
+## 14. US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain
+
+## 15. WATCH: Kuwait labels Iran attack ‘heinous aggression’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?update=4624755
+
+## 16. Iran’s supreme leader appears more active as talks continue: US’s Rubio
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio
 
-## 11. Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks
-
-## 12. Rafael Grossi: the next Iran nuclear deal will look very different
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626
-
-## 13. Kuwait condemns Iranian attack as Iran-US trade new strikes
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes
-
-## 14. Iran’s IRGC launches retaliatory strike after US attacks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks
-
-## 15. Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles
-
-## 16. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
+## 17. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680
 
-## 17. BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity
+## 18. BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity
 - ソース: AP Middle East
 - URL: https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c
-
-## 18. US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3
