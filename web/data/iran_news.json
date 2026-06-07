@@ -1,15 +1,15 @@
 [
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "AP Middle East",
-    "title": "US military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
-    "url": "https://apnews.com/article/iran-war-hormuz-drones-a9495a8e67035b8596a3739c8cde0978",
-    "category": "ホルムズ海峡",
+    "title": "Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire",
+    "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906",
+    "category": "外交",
     "importance": 5,
-    "summary": "US military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz"
+    "summary": "Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "AP Middle East",
     "title": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks",
     "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
@@ -18,7 +18,7 @@
     "summary": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "AP Middle East",
     "title": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals",
     "url": "https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a",
@@ -27,7 +27,7 @@
     "summary": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "AP Middle East",
     "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
@@ -36,7 +36,7 @@
     "summary": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "AP Middle East",
     "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire",
     "url": "https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4",
@@ -45,16 +45,7 @@
     "summary": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire"
   },
   {
-    "date": "2026-06-06",
-    "source": "AP Middle East",
-    "title": "UN nuclear watchdog says it’s been unable to inspect Iranian facilities",
-    "url": "https://apnews.com/article/iran-nuclear-material-enrichment-bushehr-power-plant-28da35ab9a372494337a471fb0fa6048",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "UN nuclear watchdog says it’s been unable to inspect Iranian facilities"
-  },
-  {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "AP Middle East",
     "title": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran",
     "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
@@ -63,61 +54,79 @@
     "summary": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "Al Jazeera Iran",
-    "title": "Iran fires missiles at Gulf after US targets Iranian radar sites",
-    "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon",
+    "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+    "url": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war",
     "category": "軍事",
     "importance": 3,
-    "summary": "Iran fires missiles at Gulf after US targets Iranian radar sites"
+    "summary": "Iran’s attack on Israel aims to restore deterrence but avoid return to war"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "Al Jazeera Iran",
-    "title": "Trump hails jobs surge, says Iran talks ‘going well’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going",
+    "title": "Videos show missiles launched from Iran into Israel",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Videos show missiles launched from Iran into Israel"
+  },
+  {
+    "date": "2026-06-07",
+    "source": "Al Jazeera Iran",
+    "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Celebrations seen in Tehran as missiles fly overhead towards Israel"
+  },
+  {
+    "date": "2026-06-07",
+    "source": "Al Jazeera Iran",
+    "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+    "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’"
+  },
+  {
+    "date": "2026-06-07",
+    "source": "Al Jazeera Iran",
+    "title": "Iran fires missiles at Israel after it attacked Beirut",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran fires missiles at Israel after it attacked Beirut"
+  },
+  {
+    "date": "2026-06-07",
+    "source": "Al Jazeera Iran",
+    "title": "Iran losing patience with Israel and US over ceasefire violations",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations",
     "category": "外交",
     "importance": 3,
-    "summary": "Trump hails jobs surge, says Iran talks ‘going well’"
+    "summary": "Iran losing patience with Israel and US over ceasefire violations"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "Al Jazeera Iran",
-    "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
-    "url": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue",
+    "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+    "url": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached",
     "category": "外交",
     "importance": 3,
-    "summary": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?"
+    "summary": "Trump says will not unfreeze Iranian assets before ceasefire deal reached"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Lebanon’s president criticises Iran amid Israeli attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes",
+    "title": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
+    "url": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel",
     "category": "軍事",
     "importance": 3,
-    "summary": "Iran war updates: Lebanon’s president criticises Iran amid Israeli attacks"
+    "summary": "Missiles and negotiations: Iran 100 days into the war with US and Israel"
   },
   {
-    "date": "2026-06-06",
-    "source": "Al Jazeera Middle East",
-    "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Videos show Kuwait intercepting ballistic missiles from Iran"
-  },
-  {
-    "date": "2026-06-06",
-    "source": "AP Middle East",
-    "title": "U.S. employers added a surprising 172,000 jobs in May as the labor market continued to show resilience in the face of rising costs from the Iran war.",
-    "url": "https://apnews.com/article/inflation-economy-iran-trump-mortgage-unemployment-fc64949d24de1b557179db3a91d8abf9",
-    "category": "市場",
-    "importance": 2,
-    "summary": "U.S. employers added a surprising 172,000 jobs in May as the labor market continued to show resilience in the face of rising costs from the Iran war."
-  },
-  {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
@@ -126,21 +135,12 @@
     "summary": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade"
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "source": "AP Middle East",
     "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity",
     "url": "https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c",
     "category": "市場",
     "importance": 2,
     "summary": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity"
-  },
-  {
-    "date": "2026-06-06",
-    "source": "Al Jazeera Iran",
-    "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
-    "url": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues",
-    "category": "市場",
-    "importance": 2,
-    "summary": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues"
   }
 ]

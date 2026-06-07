@@ -1,8 +1,8 @@
-# Iran Daily Report - 2026-06-06
+# Iran Daily Report - 2026-06-07
 
-## 1. US military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz
+## 1. Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire
 - ソース: AP Middle East
-- URL: https://apnews.com/article/iran-war-hormuz-drones-a9495a8e67035b8596a3739c8cde0978
+- URL: https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906
 
 ## 2. Iran fires missiles and US strikes Iran facility after reports of faltering peace talks
 - ソース: AP Middle East
@@ -20,46 +20,46 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4
 
-## 6. UN nuclear watchdog says it’s been unable to inspect Iranian facilities
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-nuclear-material-enrichment-bushehr-power-plant-28da35ab9a372494337a471fb0fa6048
-
-## 7. Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran
+## 6. Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran
 - ソース: AP Middle East
 - URL: https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97
 
-## 8. Iran fires missiles at Gulf after US targets Iranian radar sites
+## 7. Iran’s attack on Israel aims to restore deterrence but avoid return to war
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon
+- URL: https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war
 
-## 9. Trump hails jobs surge, says Iran talks ‘going well’
+## 8. Videos show missiles launched from Iran into Israel
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel
 
-## 10. Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?
+## 9. Celebrations seen in Tehran as missiles fly overhead towards Israel
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel
 
-## 11. Iran war updates: Lebanon’s president criticises Iran amid Israeli attacks
+## 10. Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes
+- URL: https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines
 
-## 12. Videos show Kuwait intercepting ballistic missiles from Iran
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran
+## 11. Iran fires missiles at Israel after it attacked Beirut
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut
 
-## 13. U.S. employers added a surprising 172,000 jobs in May as the labor market continued to show resilience in the face of rising costs from the Iran war.
-- ソース: AP Middle East
-- URL: https://apnews.com/article/inflation-economy-iran-trump-mortgage-unemployment-fc64949d24de1b557179db3a91d8abf9
+## 12. Iran losing patience with Israel and US over ceasefire violations
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations
 
-## 14. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
+## 13. Trump says will not unfreeze Iranian assets before ceasefire deal reached
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached
+
+## 14. Missiles and negotiations: Iran 100 days into the war with US and Israel
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel
+
+## 15. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680
 
-## 15. BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity
+## 16. BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity
 - ソース: AP Middle East
 - URL: https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c
-
-## 16. How the US naval blockade has bled Iran of nearly $6bn in oil revenues
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues
