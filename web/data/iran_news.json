@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "AP Middle East",
     "title": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks",
     "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
@@ -9,16 +9,25 @@
     "summary": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "Al Jazeera Iran",
-    "title": "IAEA chief says Iran-US nuclear talks in ‘complicated phase’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iaea-chief-says-iran-us-nuclear-talks-in-complicated-phase",
-    "category": "核問題",
+    "title": "Iran’s army says Strait of Hormuz closed as US launches new attacks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter",
+    "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "IAEA chief says Iran-US nuclear talks in ‘complicated phase’"
+    "summary": "Iran’s army says Strait of Hormuz closed as US launches new attacks"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
+    "source": "Al Jazeera Iran",
+    "title": "US attacks Iran after Apache helicopter downed in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "US attacks Iran after Apache helicopter downed in Strait of Hormuz"
+  },
+  {
+    "date": "2026-06-10",
     "source": "AP Middle East",
     "title": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals",
     "url": "https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a",
@@ -27,16 +36,34 @@
     "summary": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals"
   },
   {
-    "date": "2026-06-09",
-    "source": "AP Middle East",
-    "title": "Israel and Iran exchange strikes after Beirut attack, in photos",
-    "url": "https://apnews.com/photo-gallery/israel-iran-exchange-strikes-after-beirut-attack-photos-a5c3433b0763455698c733c96fb74ec0",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Israel and Iran exchange strikes after Beirut attack, in photos"
+    "date": "2026-06-10",
+    "source": "Al Jazeera Iran",
+    "title": "Iran’s top joint military command says Strait of Hormuz closed",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?update=4645346",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran’s top joint military command says Strait of Hormuz closed"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
+    "source": "Al Jazeera Iran",
+    "title": "Clashes reported in Strait of Hormuz as US forces target coastal points",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?update=4645347",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Clashes reported in Strait of Hormuz as US forces target coastal points"
+  },
+  {
+    "date": "2026-06-10",
+    "source": "AP Middle East",
+    "title": "UN nuclear watchdog board demands urgent Iran cooperation and access to nuclear sites",
+    "url": "https://apnews.com/article/iran-nuclear-material-access-resolution-vote-iaea-b8050494bc01a2e596a3a59952bfc8eb",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "UN nuclear watchdog board demands urgent Iran cooperation and access to nuclear sites"
+  },
+  {
+    "date": "2026-06-10",
     "source": "AP Middle East",
     "title": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire",
     "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
@@ -45,7 +72,7 @@
     "summary": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "AP Middle East",
     "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire",
     "url": "https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4",
@@ -54,7 +81,7 @@
     "summary": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "AP Middle East",
     "title": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran",
     "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
@@ -63,70 +90,61 @@
     "summary": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "Al Jazeera Iran",
-    "title": "US attacks Iran after Trump calls for response to Apache helicopter downing",
-    "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond",
+    "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
+    "url": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean",
     "category": "軍事",
     "importance": 3,
-    "summary": "US attacks Iran after Trump calls for response to Apache helicopter downing"
+    "summary": "Apache down, fighting up: What the latest US-Iran attacks mean"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "Al Jazeera Iran",
-    "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
-    "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds",
+    "title": "Iran fires missiles at US bases carrying images of killed commanders",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran fires missiles at US bases carrying images of killed commanders"
+  },
+  {
+    "date": "2026-06-10",
+    "source": "Al Jazeera Iran",
+    "title": "Explosion in Bahrain as Iran attacks US bases",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Explosion in Bahrain as Iran attacks US bases"
+  },
+  {
+    "date": "2026-06-10",
+    "source": "Al Jazeera Iran",
+    "title": "Jordan intercepts Iranian missiles over its airspace",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Jordan intercepts Iranian missiles over its airspace"
+  },
+  {
+    "date": "2026-06-10",
+    "source": "Al Jazeera Iran",
+    "title": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
+    "url": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes"
+  },
+  {
+    "date": "2026-06-10",
+    "source": "Al Jazeera Middle East",
+    "title": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
+    "url": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire",
     "category": "外交",
     "importance": 3,
-    "summary": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds"
+    "summary": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire"
   },
   {
-    "date": "2026-06-09",
-    "source": "Al Jazeera Iran",
-    "title": "Israel continues strikes on Lebanon despite halting attacks on Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_israel-continues-strikes-on-lebanon-halts-on-iran-080626",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Israel continues strikes on Lebanon despite halting attacks on Iran"
-  },
-  {
-    "date": "2026-06-09",
-    "source": "Al Jazeera Iran",
-    "title": "Situation in south Iran ‘calm’ following US air attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?update=4641437",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Situation in south Iran ‘calm’ following US air attacks"
-  },
-  {
-    "date": "2026-06-09",
-    "source": "Al Jazeera Iran",
-    "title": "UN watchdog, Western nations call on Iran to restart nuclear cooperation",
-    "url": "https://www.aljazeera.com/news/2026/6/8/un-watchdog-western-nations-call-on-iran-to-restart-nuclear-cooperation",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "UN watchdog, Western nations call on Iran to restart nuclear cooperation"
-  },
-  {
-    "date": "2026-06-09",
-    "source": "Al Jazeera Iran",
-    "title": "How Lebanon became the breaking point for the Iran war ceasefire",
-    "url": "https://www.aljazeera.com/news/2026/6/8/how-lebanon-became-the-breaking-point-for-the-iran-war-ceasefire",
-    "category": "外交",
-    "importance": 3,
-    "summary": "How Lebanon became the breaking point for the Iran war ceasefire"
-  },
-  {
-    "date": "2026-06-09",
-    "source": "Al Jazeera Iran",
-    "title": "Smoke rises in illegal Israeli settlement after Iranian missile attack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/smoke-rises-in-illegal-israeli-settlement-after-iranian-missile-attack",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Smoke rises in illegal Israeli settlement after Iranian missile attack"
-  },
-  {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
@@ -135,7 +153,7 @@
     "summary": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "AP Middle East",
     "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity",
     "url": "https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c",
@@ -144,7 +162,7 @@
     "summary": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "source": "Al Jazeera Iran",
     "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
     "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel",
