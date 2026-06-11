@@ -1,77 +1,77 @@
-# Iran Daily Report - 2026-06-10
+# Iran Daily Report - 2026-06-11
 
 ## 1. Iran fires missiles and US strikes Iran facility after reports of faltering peace talks
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982
 
-## 2. Iran’s army says Strait of Hormuz closed as US launches new attacks
+## 2. Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter
+- URL: https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims
 
-## 3. US attacks Iran after Apache helicopter downed in Strait of Hormuz
+## 3. Trump’s claim of escorting oil through Hormuz won’t ease crisis
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond
+- URL: https://www.aljazeera.com/video/quotable/2026/6/10/trumps-claim-of-escorting-oil-through-hormuz-wont-ease-crisis
 
 ## 4. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
 - ソース: AP Middle East
 - URL: https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a
 
-## 5. Iran’s top joint military command says Strait of Hormuz closed
+## 5. Iran shuts Hormuz strait: But wasn’t it already closed?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?update=4645346
+- URL: https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed
 
-## 6. Clashes reported in Strait of Hormuz as US forces target coastal points
+## 6. Iran says 18 targets hit across US bases, Strait of Hormuz closed
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?update=4645347
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-says-18-targets-hit-across-us-bases-strait-of-hormuz-closed
 
-## 7. UN nuclear watchdog board demands urgent Iran cooperation and access to nuclear sites
+## 7. Iran announces closure of Strait of Hormuz following US strikes
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes
+
+## 8. Sound of explosions reported as Iran’s navy confronts vessel in Hormuz Strait
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?update=4649349
+
+## 9. Trump calls off latest threats to strike Iran, cites breakthrough in talks to end the war
 - ソース: AP Middle East
-- URL: https://apnews.com/article/iran-nuclear-material-access-resolution-vote-iaea-b8050494bc01a2e596a3a59952bfc8eb
+- URL: https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d
 
-## 8. Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire
+## 10. Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b
 
-## 9. A new exchange of fire with Iran in the Gulf tests the fragile ceasefire
+## 11. A new exchange of fire with Iran in the Gulf tests the fragile ceasefire
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4
 
-## 10. Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran
+## 12. Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran
 - ソース: AP Middle East
 - URL: https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97
 
-## 11. Apache down, fighting up: What the latest US-Iran attacks mean
+## 13. Video shows aftermath of Iranian attack in Bahrain
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-aftermath-of-iranian-attack-in-bahrain
 
-## 12. Iran fires missiles at US bases carrying images of killed commanders
+## 14. US releases video of warship firing missiles in strikes on Iran
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran
 
-## 13. Explosion in Bahrain as Iran attacks US bases
+## 15. Iran war day 104: Iran attacks US bases, closes strait after Trump strikes
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases
+- URL: https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes
 
-## 14. Jordan intercepts Iranian missiles over its airspace
+## 16. Iran’s FM spokesman condemns ‘brutal’ US attacks on Indian vessels
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace
+- URL: https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?update=4649200
 
-## 15. Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes
+## 17. Iran attacks Bahrain, Kuwait and Jordan again after new waves of US strikes
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz
+- URL: https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships
 
-## 16. Netanyahu caught between the US, Lebanon war, and Iran ceasefire
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire
+## 18. Iran’s Kharg Island is key to its oil exports. Targeting it carries major risks
+- ソース: AP Middle East
+- URL: https://apnews.com/article/us-iran-war-kharg-island-oil-industry-a4332ecc6500070c1e1929b9a734218f
 
-## 17. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
+## 19. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680
-
-## 18. BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc’s unity
-- ソース: AP Middle East
-- URL: https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c
-
-## 19. Iran conflict: Why has oil stayed near $100 a barrel?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel
