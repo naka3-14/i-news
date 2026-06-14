@@ -1,37 +1,41 @@
 {
-  "date": "2026-06-14",
-  "updated_at": "2026-06-14 08:17",
-  "headline_summary": "ホルムズ海峡の状況が変化し始めた。アメリカとイランの間で停戦交渉が進められているが、停戦は不安定な状況にある。",
+  "date": "2026-06-15",
+  "updated_at": "2026-06-15 08:22",
+  "headline_summary": "Groq要約に失敗したため、簡易要約を表示しています。(Expecting ',' delimiter: line 1 column 347 (char 346))",
   "top_topics": [
     {
-      "title": "ホルムズ海峡の停戦",
-      "summary": "アメリカとイランの間で停戦交渉が進められているが、停戦は不安定な状況にある。"
+      "title": "Analysis: Iran’s stranglehold on",
+      "summary": "Analysis: Iran’s stranglehold on Strait of Hormuz loosens as Gulf Arab oil reaches market"
     },
     {
-      "title": "イランの石油輸出",
-      "summary": "イランの石油輸出はホルムズ海峡を通じて行われているが、停戦の影響を受けている。"
+      "title": "Iran fires missiles and US strik",
+      "summary": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks"
     },
     {
-      "title": "アメリカとイランの関係",
-      "summary": "アメリカとイランの関係は緊張の状況にあるが、停戦交渉が進められている。"
+      "title": "US-Iran ceasefire deal announced",
+      "summary": "US-Iran ceasefire deal announced, Trump says Strait of Hormuz reopening"
     }
   ],
   "impact_on_japan": [
-    "日本の石油輸入はホルムズ海峡を通じて行われているため、停戦の影響を受ける可能性がある。"
+    "ホルムズ海峡の緊張が強まると、日本向け原油輸送が遅れ、燃料調達コストが上がりやすくなります。",
+    "原油価格が上がると、ガソリン代や電気料金に反映され、家計負担が重くなります。",
+    "中東の軍事的緊張が強まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られます。"
   ],
   "ai_forecast": [
-    "停戦は不安定な状況にあるため、ホルムズ海峡の状況がさらに変化する可能性がある。",
-    "アメリカとイランの関係は緊張の状況にあるため、停戦交渉が失敗する可能性がある。",
-    "日本の石油輸入はホルムズ海峡を通じて行われているため、停戦の影響を受ける可能性がある。"
+    "停戦協議が続いても、周辺地域で攻撃が続けば交渉は不安定になりやすいです。",
+    "ホルムズ海峡の通航条件が厳しくなると、原油と物流コストへの反応がさらに強まりそうです。",
+    "市場は停戦期待と軍事リスクの両方を織り込みながら、値動きが荒くなりやすいです。"
   ],
   "diff": {
     "new_topics": [
-      "アメリカとイランの関係",
-      "イランの石油輸出"
+      "Analysis: Iran’s stranglehold on",
+      "Iran fires missiles and US strik",
+      "US-Iran ceasefire deal announced"
     ],
     "removed_topics": [
-      "ホルムズ海峡の重要性",
-      "米伊の休戦交渉"
+      "アメリカとイランの関係",
+      "イランの石油輸出",
+      "ホルムズ海峡の停戦"
     ]
   }
 }
