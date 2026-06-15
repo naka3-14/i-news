@@ -1,20 +1,20 @@
-# Iran Daily Report - 2026-06-14
+# Iran Daily Report - 2026-06-15
 
-## 1. Analysis: Iran’s stranglehold on Strait of Hormuz loosens as Gulf Arab oil reaches market
+## 1. Even with a deal to reopen the Strait of Hormuz, it could take weeks or months for oil to fully flow
 - ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-war-hormuz-blockade-analysis-4cd10138dcd340d0e710d85cc586e45f
+- URL: https://apnews.com/article/strait-of-hormuz-oil-prices-iran-war-8304cc39c6ebe6f863f6f39ee6ce9768
 
 ## 2. Iran fires missiles and US strikes Iran facility after reports of faltering peace talks
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982
 
-## 3. US-Iran ceasefire deal announced, Trump says Strait of Hormuz reopening
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening
-
-## 4. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
+## 3. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
 - ソース: AP Middle East
 - URL: https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a
+
+## 4. A history of Iran’s nuclear program and tensions with the US as an interim deal is reached
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-nuclear-program-us-war-timeline-c9cf4cae2651d343a9f2eda4132de215
 
 ## 5. Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire
 - ソース: AP Middle East
@@ -28,30 +28,22 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97
 
-## 8. BREAKING: US, Iran announce ceasefire agreement
+## 8. Lebanese remain sceptical despite US-Iran ceasefire announcement
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/15/lebanese-remain-sceptical-despite-us-iran-ceasefire-announcement
+
+## 9. BREAKING: US, Iran announce ceasefire agreement
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement
 
-## 9. Trump condemns Israel’s attack on Beirut as Iran says US responsible
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close
-
-## 10. Israel attacks Lebanon as US says Iran deal to be signed on Sunday
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday
-
-## 11. Analyst says what attacks on Lebanon could mean for potential US-Iran deal
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal
-
-## 12. Israel attacks Beirut on same day Trump says Iran deal to be signed
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed
-
-## 13. Iran’s Kharg Island is key to its oil exports. Targeting it carries major risks
+## 10. Stocks leap worldwide, and oil prices drop after the US and Iran reach a tentative deal on their war
 - ソース: AP Middle East
-- URL: https://apnews.com/article/us-iran-war-kharg-island-oil-industry-a4332ecc6500070c1e1929b9a734218f
+- URL: https://apnews.com/article/stocks-markets-iran-trump-oil-musk-f2ee51f1b0686688b3e50068b4b71d70
 
-## 14. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
+## 11. Oil and gas supplies could take months to return to normal after Iran deal, energy experts say
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-war-trump-deal-oil-supply-strait-of-hormuz-42bdd71d5afa6fb5ac5d0c3e7857de6c
+
+## 12. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680
