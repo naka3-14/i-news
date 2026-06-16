@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-06-15
+# Iran Daily Report - 2026-06-16
 
 ## 1. Even with a deal to reopen the Strait of Hormuz, it could take weeks or months for oil to fully flow
 - ソース: AP Middle East
@@ -8,13 +8,13 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982
 
-## 3. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
+## 3. What to know about the demining and escort mission that US allies want for the Strait of Hormuz
+- ソース: AP Middle East
+- URL: https://apnews.com/article/hormuz-france-iran-trump-macron-energy-shipping-80c149a4367dd31c6e85e9b25daa4129
+
+## 4. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
 - ソース: AP Middle East
 - URL: https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a
-
-## 4. A history of Iran’s nuclear program and tensions with the US as an interim deal is reached
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-nuclear-program-us-war-timeline-c9cf4cae2651d343a9f2eda4132de215
 
 ## 5. Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire
 - ソース: AP Middle East
@@ -28,22 +28,10 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97
 
-## 8. Lebanese remain sceptical despite US-Iran ceasefire announcement
+## 8. Trump says ‘hell will rain down’ if Iran gets nuclear weapons
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/15/lebanese-remain-sceptical-despite-us-iran-ceasefire-announcement
+- URL: https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-says-hell-will-rain-down-if-iran-gets-nuclear-weapons
 
-## 9. BREAKING: US, Iran announce ceasefire agreement
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement
-
-## 10. Stocks leap worldwide, and oil prices drop after the US and Iran reach a tentative deal on their war
-- ソース: AP Middle East
-- URL: https://apnews.com/article/stocks-markets-iran-trump-oil-musk-f2ee51f1b0686688b3e50068b4b71d70
-
-## 11. Oil and gas supplies could take months to return to normal after Iran deal, energy experts say
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-war-trump-deal-oil-supply-strait-of-hormuz-42bdd71d5afa6fb5ac5d0c3e7857de6c
-
-## 12. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
+## 9. US military boards Iranian-flagged oil tanker suspected of trying to breach blockade
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680
