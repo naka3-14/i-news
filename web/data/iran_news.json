@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
+    "source": "AP Middle East",
+    "title": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue",
+    "url": "https://apnews.com/article/iran-us-israel-war-oil-deal-june-17-2026-19652f4611b704c0a991bf1f5bc9a4b9",
+    "category": "制裁",
+    "importance": 5,
+    "summary": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue"
+  },
+  {
+    "date": "2026-06-18",
     "source": "AP Middle East",
     "title": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks",
     "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
@@ -9,16 +18,34 @@
     "summary": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks"
   },
   {
-    "date": "2026-06-17",
-    "source": "AP Middle East",
-    "title": "What to know about the demining and escort mission that US allies want for the Strait of Hormuz",
-    "url": "https://apnews.com/article/hormuz-france-iran-trump-macron-energy-shipping-80c149a4367dd31c6e85e9b25daa4129",
+    "date": "2026-06-18",
+    "source": "Al Jazeera Iran",
+    "title": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations",
     "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "What to know about the demining and escort mission that US allies want for the Strait of Hormuz"
+    "importance": 5,
+    "summary": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
+    "source": "Al Jazeera Iran",
+    "title": "Iran, US presidents sign deal to extend ceasefire, reopen Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Iran, US presidents sign deal to extend ceasefire, reopen Strait of Hormuz"
+  },
+  {
+    "date": "2026-06-18",
+    "source": "AP Middle East",
+    "title": "Stranded ships have begun transiting the Strait of Hormuz, maritime data company says",
+    "url": "https://apnews.com/article/strait-of-hormuz-iran-us-shipping-war-01c1335e69e40f2ee921e25e59a18a71",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Stranded ships have begun transiting the Strait of Hormuz, maritime data company says"
+  },
+  {
+    "date": "2026-06-18",
     "source": "AP Middle East",
     "title": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals",
     "url": "https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a",
@@ -27,34 +54,43 @@
     "summary": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "source": "Al Jazeera Iran",
-    "title": "Strait of Hormuz reopens: But can ships’ safety be assured?",
-    "url": "https://www.aljazeera.com/features/2026/6/17/strait-of-hormuz-reopens-how-will-safe-passage-for-ships-be-ensured",
+    "title": "Iran says it will charge a ‘payment for services’ in the Strait of Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Strait of Hormuz reopens: But can ships’ safety be assured?"
+    "summary": "Iran says it will charge a ‘payment for services’ in the Strait of Hormuz"
   },
   {
-    "date": "2026-06-17",
-    "source": "AP Middle East",
-    "title": "US officials say Iran deal calls for diluting uranium at minimum, waiving sanctions, opening strait",
-    "url": "https://apnews.com/article/iran-us-israel-war-oil-deal-june-17-2026-19652f4611b704c0a991bf1f5bc9a4b9",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "US officials say Iran deal calls for diluting uranium at minimum, waiving sanctions, opening strait"
+    "date": "2026-06-18",
+    "source": "Al Jazeera Iran",
+    "title": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium",
+    "url": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "source": "AP Middle East",
-    "title": "A primer on uranium enrichment as Iran’s nuclear program faces scrutiny",
-    "url": "https://apnews.com/article/uranium-enrichment-explainer-iran-war-nuclear-program-73d7f21151864e339fbfbb2d4a7c91cf",
+    "title": "LIVE Iran will invite U.N. watchdog inspection of nuclear sites, Trump envoy tells US lawmakers",
+    "url": "https://apnews.com/live/trump-administration-updates-06-18-2026",
     "category": "核問題",
     "importance": 3,
-    "summary": "A primer on uranium enrichment as Iran’s nuclear program faces scrutiny"
+    "summary": "LIVE Iran will invite U.N. watchdog inspection of nuclear sites, Trump envoy tells US lawmakers"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
+    "source": "AP Middle East",
+    "title": "A history of Iran’s nuclear program and tensions with the US as an interim deal is signed",
+    "url": "https://apnews.com/article/iran-nuclear-program-us-war-timeline-c9cf4cae2651d343a9f2eda4132de215",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "A history of Iran’s nuclear program and tensions with the US as an interim deal is signed"
+  },
+  {
+    "date": "2026-06-18",
     "source": "AP Middle East",
     "title": "The interim US-Iran deal leaves the fate of Tehran’s nuclear program still to be negotiated",
     "url": "https://apnews.com/article/trump-iran-war-nuclear-talks-d8e5c8ada80c35446d4194201d9a7502",
@@ -63,7 +99,7 @@
     "summary": "The interim US-Iran deal leaves the fate of Tehran’s nuclear program still to be negotiated"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "source": "AP Middle East",
     "title": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire",
     "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
@@ -72,7 +108,7 @@
     "summary": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "source": "AP Middle East",
     "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire",
     "url": "https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4",
@@ -81,7 +117,7 @@
     "summary": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "source": "AP Middle East",
     "title": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran",
     "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
@@ -90,7 +126,25 @@
     "summary": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran"
   },
   {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
+    "source": "Al Jazeera Iran",
+    "title": "How does Trump’s MOU with Iran compare with Obama’s nuclear pact?",
+    "url": "https://www.aljazeera.com/news/2026/6/18/how-does-trumps-mou-with-iran-compare-with-obamas-nuclear-pact",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "How does Trump’s MOU with Iran compare with Obama’s nuclear pact?"
+  },
+  {
+    "date": "2026-06-18",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles"
+  },
+  {
+    "date": "2026-06-18",
     "source": "Al Jazeera Iran",
     "title": "Read the US account of unreleased 14-point Iran ceasefire memorandum",
     "url": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum",
@@ -99,34 +153,7 @@
     "summary": "Read the US account of unreleased 14-point Iran ceasefire memorandum"
   },
   {
-    "date": "2026-06-17",
-    "source": "Al Jazeera Iran",
-    "title": "Trump: ‘Very strong’ Iran deal is a ‘wall to a nuclear weapon’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-very-strong-iran-deal-is-a-wall-to-a-nuclear",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "Trump: ‘Very strong’ Iran deal is a ‘wall to a nuclear weapon’"
-  },
-  {
-    "date": "2026-06-17",
-    "source": "Al Jazeera Iran",
-    "title": "Iranian tankers exit US blockade zone before talks to end war",
-    "url": "https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iranian tankers exit US blockade zone before talks to end war"
-  },
-  {
-    "date": "2026-06-17",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-    "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal"
-  },
-  {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
