@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks",
     "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
@@ -9,7 +9,16 @@
     "summary": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says opening-day US talks focused on frozen assets, oil sanctions",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon",
+    "category": "制裁",
+    "importance": 5,
+    "summary": "Iran says opening-day US talks focused on frozen assets, oil sanctions"
+  },
+  {
+    "date": "2026-06-21",
     "source": "Al Jazeera Iran",
     "title": "Iran closes Strait of Hormuz as Pakistan says new talks with US due Sunday",
     "url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says",
@@ -18,16 +27,7 @@
     "summary": "Iran closes Strait of Hormuz as Pakistan says new talks with US due Sunday"
   },
   {
-    "date": "2026-06-20",
-    "source": "Al Jazeera Iran",
-    "title": "IRGC says Strait of Hormuz closed; Vance leaves for technical Iran-US talks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "IRGC says Strait of Hormuz closed; Vance leaves for technical Iran-US talks"
-  },
-  {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again",
     "url": "https://apnews.com/article/iran-us-israel-lebanon-hezbollah-june-20-2026-6e23fb5f37e23427dbfc2bc80c59bda8",
@@ -36,7 +36,7 @@
     "summary": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals",
     "url": "https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a",
@@ -45,7 +45,25 @@
     "summary": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
+    "source": "Al Jazeera Iran",
+    "title": "What’s next in the Strait of Hormuz crisis?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "What’s next in the Strait of Hormuz crisis?"
+  },
+  {
+    "date": "2026-06-21",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war day 114: Tehran warns of halting oil flow ahead of talks",
+    "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks",
+    "category": "外交",
+    "importance": 4,
+    "summary": "Iran war day 114: Tehran warns of halting oil flow ahead of talks"
+  },
+  {
+    "date": "2026-06-21",
     "source": "Al Jazeera Iran",
     "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
     "url": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might",
@@ -54,7 +72,7 @@
     "summary": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "Al Jazeera Iran",
     "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state",
@@ -63,7 +81,7 @@
     "summary": "Overplaying Strait of Hormuz card will turn Iran into a pariah state"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "Al Jazeera Iran",
     "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes",
@@ -72,16 +90,16 @@
     "summary": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes"
   },
   {
-    "date": "2026-06-20",
-    "source": "Al Jazeera Iran",
-    "title": "Trump says Iran won’t charge Hormuz tolls, but US might",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?update=4683205",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Trump says Iran won’t charge Hormuz tolls, but US might"
+    "date": "2026-06-21",
+    "source": "AP Middle East",
+    "title": "The Latest: Trump threats shake up US-Iran talks in Switzerland on deal’s details",
+    "url": "https://apnews.com/article/us-iran-talks-vance-trump-latest-21-june-2026-39f9632b4df3a61a07a2c271da1d5637",
+    "category": "外交",
+    "importance": 3,
+    "summary": "The Latest: Trump threats shake up US-Iran talks in Switzerland on deal’s details"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "Israel and Hezbollah agree to halt fighting, officials say, as US-Iran talks hang in the balance",
     "url": "https://apnews.com/article/iran-us-israel-lebanon-oil-june-19-2026-635ad6f41610df8355d24cc301a75fc4",
@@ -90,7 +108,7 @@
     "summary": "Israel and Hezbollah agree to halt fighting, officials say, as US-Iran talks hang in the balance"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "Vance’s push to get Iran talks started hits an early bump",
     "url": "https://apnews.com/article/vance-trump-iran-switzerland-aee3839175b47b0b469879cfb835dce7",
@@ -99,7 +117,7 @@
     "summary": "Vance’s push to get Iran talks started hits an early bump"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire",
     "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
@@ -108,7 +126,7 @@
     "summary": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire",
     "url": "https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4",
@@ -117,7 +135,7 @@
     "summary": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran",
     "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
@@ -126,25 +144,34 @@
     "summary": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "Al Jazeera Iran",
-    "title": "Israeli strikes kill 32 in Lebanon, putting US-Iran talks in peril",
-    "url": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks",
+    "title": "US-Iran talks: What’s on top of the agenda; who is attending?",
+    "url": "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending",
     "category": "外交",
     "importance": 3,
-    "summary": "Israeli strikes kill 32 in Lebanon, putting US-Iran talks in peril"
+    "summary": "US-Iran talks: What’s on top of the agenda; who is attending?"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "source": "Al Jazeera Iran",
-    "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
-    "url": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire",
+    "title": "US and Iran face make-or-break talks in Switzerland",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-and-iran-face-make-or-break-talks-in-switzerland",
     "category": "外交",
     "importance": 3,
-    "summary": "Iran war day 113: Tehran presses US over Lebanon ceasefire"
+    "summary": "US and Iran face make-or-break talks in Switzerland"
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
+    "source": "Al Jazeera Iran",
+    "title": "‘High drama’ over Trump threats and Lebanon at US-Iran talks in Switzerland",
+    "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks",
+    "category": "外交",
+    "importance": 3,
+    "summary": "‘High drama’ over Trump threats and Lebanon at US-Iran talks in Switzerland"
+  },
+  {
+    "date": "2026-06-21",
     "source": "AP Middle East",
     "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
     "url": "https://apnews.com/article/iran-blockade-oil-tanker-military-boards-8a1bafe95f2d76665d65db4effd91680",
