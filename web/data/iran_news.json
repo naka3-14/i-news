@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
+    "source": "AP Middle East",
+    "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
+    "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel"
+  },
+  {
+    "date": "2026-06-25",
     "source": "AP Middle East",
     "title": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks",
     "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
@@ -9,7 +18,34 @@
     "summary": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
+    "source": "Al Jazeera Iran",
+    "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+    "url": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked"
+  },
+  {
+    "date": "2026-06-25",
+    "source": "Al Jazeera Iran",
+    "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war"
+  },
+  {
+    "date": "2026-06-25",
+    "source": "Al Jazeera Iran",
+    "title": "UN’s IMO halts ship evacuation from Strait of Hormuz after attack on vessel",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "UN’s IMO halts ship evacuation from Strait of Hormuz after attack on vessel"
+  },
+  {
+    "date": "2026-06-25",
     "source": "AP Middle East",
     "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again",
     "url": "https://apnews.com/article/iran-us-israel-lebanon-hezbollah-june-20-2026-6e23fb5f37e23427dbfc2bc80c59bda8",
@@ -18,7 +54,7 @@
     "summary": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "AP Middle East",
     "title": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals",
     "url": "https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a",
@@ -27,61 +63,61 @@
     "summary": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "Al Jazeera Iran",
-    "title": "Has the worst of the Hormuz crisis passed?",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed",
+    "title": "IRGC warns against new Hormuz route for ships: What we know",
+    "url": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Has the worst of the Hormuz crisis passed?"
+    "summary": "IRGC warns against new Hormuz route for ships: What we know"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "Al Jazeera Iran",
-    "title": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
-    "url": "https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know",
+    "title": "How minesweeping in the Strait of Hormuz works: A visual guide",
+    "url": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Rubio says Iran cannot charge tolls in Hormuz: What we know"
+    "summary": "How minesweeping in the Strait of Hormuz works: A visual guide"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "Al Jazeera Iran",
-    "title": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-begins-evacuation-of-11000-sailors-stranded-in-strait-of-hormuz",
+    "title": "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
+    "url": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz"
+    "summary": "Rubio issues Hormuz toll warning as he wraps up Gulf visit"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "Al Jazeera Iran",
-    "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz",
+    "title": "Iran warns against Hormuz crossings without authorisation",
+    "url": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz"
+    "summary": "Iran warns against Hormuz crossings without authorisation"
   },
   {
-    "date": "2026-06-24",
-    "source": "AP Middle East",
-    "title": "Dispute over nuclear inspections shows how US and Iran are negotiating in public",
-    "url": "https://apnews.com/article/iran-us-israel-lebanon-june-24-2026-nuclear-grossi-ceasefire-875ee115cacd1f5923052b70f2be4124",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "Dispute over nuclear inspections shows how US and Iran are negotiating in public"
+    "date": "2026-06-25",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
+    "url": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders"
   },
   {
-    "date": "2026-06-24",
-    "source": "AP Middle East",
-    "title": "Iranian agents lived in Australia before directing attacks on Sydney and Melbourne, spy chief says",
-    "url": "https://apnews.com/article/australia-iran-attacks-sydney-melbourne-d757a2bc2aa540ddff9f6164343e7705",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iranian agents lived in Australia before directing attacks on Sydney and Melbourne, spy chief says"
+    "date": "2026-06-25",
+    "source": "Al Jazeera Middle East",
+    "title": "Rubio: Gulf countries don’t support Strait of Hormuz tolls",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rubio-gulf-countries-dont-support-strait-of-hormuz-tolls",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Rubio: Gulf countries don’t support Strait of Hormuz tolls"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "AP Middle East",
     "title": "FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence",
     "url": "https://apnews.com/article/iran-nuclear-program-israel-fact-focus-ad9678f602ffcfcdd174cf3d8d653ca5",
@@ -90,16 +126,7 @@
     "summary": "FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence"
   },
   {
-    "date": "2026-06-24",
-    "source": "AP Middle East",
-    "title": "Vance says talks with Iranian officials set ‘good foundation’ for a deal to end the war",
-    "url": "https://apnews.com/article/united-states-iran-war-nuclear-negotiations-4bbde727c7095c4ad9da0285ca79f1e1",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Vance says talks with Iranian officials set ‘good foundation’ for a deal to end the war"
-  },
-  {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "AP Middle East",
     "title": "US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats",
     "url": "https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963",
@@ -108,7 +135,7 @@
     "summary": "US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "AP Middle East",
     "title": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire",
     "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
@@ -117,7 +144,7 @@
     "summary": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "AP Middle East",
     "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire",
     "url": "https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4",
@@ -126,48 +153,12 @@
     "summary": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "source": "AP Middle East",
     "title": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran",
     "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
     "category": "外交",
     "importance": 3,
     "summary": "Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran"
-  },
-  {
-    "date": "2026-06-24",
-    "source": "Al Jazeera Iran",
-    "title": "UN nuclear chief says Iran inspections will happen, Tehran says after deal",
-    "url": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "UN nuclear chief says Iran inspections will happen, Tehran says after deal"
-  },
-  {
-    "date": "2026-06-24",
-    "source": "Al Jazeera Iran",
-    "title": "US’s Rubio says ‘frank’ discussions in Gulf, more talks with Iran next week",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz",
-    "category": "外交",
-    "importance": 3,
-    "summary": "US’s Rubio says ‘frank’ discussions in Gulf, more talks with Iran next week"
-  },
-  {
-    "date": "2026-06-24",
-    "source": "Al Jazeera Iran",
-    "title": "Trump disputes Iran’s rejection of nuclear inspectors",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "Trump disputes Iran’s rejection of nuclear inspectors"
-  },
-  {
-    "date": "2026-06-24",
-    "source": "Al Jazeera Iran",
-    "title": "Iran’s president arrives in Pakistan for peace talks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran’s president arrives in Pakistan for peace talks"
   }
 ]
