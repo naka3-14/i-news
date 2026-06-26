@@ -1,56 +1,56 @@
-# Iran Daily Report - 2026-06-25
+# Iran Daily Report - 2026-06-26
 
-## 1. UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel
+## 1. US strikes Iran in response to a drone attack on a ship that Trump says violated ceasefire
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-26-2026-8c1a77eb82d25f00de814958114c7296
+
+## 2. UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f
 
-## 2. Iran fires missiles and US strikes Iran facility after reports of faltering peace talks
+## 3. Iran fires missiles and US strikes Iran facility after reports of faltering peace talks
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982
 
-## 3. UN agency pauses Hormuz ship evacuation initiative after vessel attacked
+## 4. Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan
+
+## 5. US hits Iran after Trump’s threat to respond to Hormuz vessel attack
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay
+
+## 6. Iranian official condemns US attack as ‘reckless violation of ceasefire’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?update=4706136
+
+## 7. UN agency pauses Hormuz ship evacuation initiative after vessel attacked
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked
 
-## 4. Krieg: For Iran control of the Strait of Hormuz is about the spoils of war
+## 8. Krieg: For Iran control of the Strait of Hormuz is about the spoils of war
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w
 
-## 5. UN’s IMO halts ship evacuation from Strait of Hormuz after attack on vessel
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon
-
-## 6. US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again
+## 9. US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-lebanon-hezbollah-june-20-2026-6e23fb5f37e23427dbfc2bc80c59bda8
 
-## 7. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
+## 10. Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals
 - ソース: AP Middle East
 - URL: https://apnews.com/article/china-trump-shangrila-singapore-hegseth-vietnam-22a71b2d8b20f69c397bd87a63c6ed0a
 
-## 8. IRGC warns against new Hormuz route for ships: What we know
+## 11. Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz
+
+## 12. Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz
+
+## 13. IRGC warns against new Hormuz route for ships: What we know
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know
-
-## 9. How minesweeping in the Strait of Hormuz works: A visual guide
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide
-
-## 10. Rubio issues Hormuz toll warning as he wraps up Gulf visit
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security
-
-## 11. Iran warns against Hormuz crossings without authorisation
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation
-
-## 12. Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders
-
-## 13. Rubio: Gulf countries don’t support Strait of Hormuz tolls
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/video/newsfeed/2026/6/25/rubio-gulf-countries-dont-support-strait-of-hormuz-tolls
 
 ## 14. FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence
 - ソース: AP Middle East
@@ -71,3 +71,7 @@
 ## 18. Trump acknowledges calling Netanyahu ‘crazy’ and says Israel is complicating peace talks with Iran
 - ソース: AP Middle East
 - URL: https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97
+
+## 19. IAEA demands verification of Iran nuclear ambitions amid ‘statement war’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme
