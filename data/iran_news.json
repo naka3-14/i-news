@@ -1,24 +1,6 @@
 [
   {
-    "date": "2026-06-30",
-    "source": "Al Jazeera Middle East",
-    "title": "Vance says oil traffic at the Strait of Hormuz ‘reached pre-war height’",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?update=4720158",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Vance says oil traffic at the Strait of Hormuz ‘reached pre-war height’"
-  },
-  {
-    "date": "2026-06-30",
-    "source": "AP Middle East",
-    "title": "US envoys arrive in Qatar for meetings on Iran, with tensions high over Hormuz",
-    "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-30-2026-d6e6bc2e03564b6d0daffecd75baaef3",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "US envoys arrive in Qatar for meetings on Iran, with tensions high over Hormuz"
-  },
-  {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "AP Middle East",
     "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again",
     "url": "https://apnews.com/article/iran-us-israel-lebanon-hezbollah-june-20-2026-6e23fb5f37e23427dbfc2bc80c59bda8",
@@ -27,43 +9,25 @@
     "summary": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "Al Jazeera Iran",
-    "title": "Iran rejects third-party intervention for Strait of Hormuz mine clearance",
+    "title": "Iran war updates: Tehran rejects third-party intervention for Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran rejects third-party intervention for Strait of Hormuz mine clearance"
+    "summary": "Iran war updates: Tehran rejects third-party intervention for Hormuz"
   },
   {
-    "date": "2026-06-30",
-    "source": "Al Jazeera Iran",
-    "title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days"
+    "date": "2026-07-01",
+    "source": "AP Middle East",
+    "title": "Ceasefires in the Middle East are not bringing the peace many people expect. Despite agreements, fighting continues in Iran, Lebanon, and Gaza.",
+    "url": "https://apnews.com/article/iran-trump-israel-lebanon-ceasefire-gaza-9ee38ae4d11a103066ae5410ea9fdd42",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Ceasefires in the Middle East are not bringing the peace many people expect. Despite agreements, fighting continues in Iran, Lebanon, and Gaza."
   },
   {
-    "date": "2026-06-30",
-    "source": "Al Jazeera Iran",
-    "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-    "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes"
-  },
-  {
-    "date": "2026-06-30",
-    "source": "Al Jazeera Middle East",
-    "title": "Charging toll on Strait of Hormuz ‘not internationally lawful’",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?update=4720055",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Charging toll on Strait of Hormuz ‘not internationally lawful’"
-  },
-  {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "AP Middle East",
     "title": "US and Iran pause strikes but disagree over next steps on talks",
     "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab",
@@ -72,7 +36,7 @@
     "summary": "US and Iran pause strikes but disagree over next steps on talks"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "AP Middle East",
     "title": "US strikes Iran in response to a drone attack on a ship",
     "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-26-2026-8c1a77eb82d25f00de814958114c7296",
@@ -81,7 +45,7 @@
     "summary": "US strikes Iran in response to a drone attack on a ship"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "AP Middle East",
     "title": "FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence",
     "url": "https://apnews.com/article/iran-nuclear-program-israel-fact-focus-ad9678f602ffcfcdd174cf3d8d653ca5",
@@ -90,7 +54,7 @@
     "summary": "FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "AP Middle East",
     "title": "US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats",
     "url": "https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963",
@@ -99,7 +63,7 @@
     "summary": "US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "AP Middle East",
     "title": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire",
     "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
@@ -108,7 +72,7 @@
     "summary": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "AP Middle East",
     "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire",
     "url": "https://apnews.com/article/iran-us-bahrain-kuwait-missiles-drones-df859624fb659cb28cec798200cc85d4",
@@ -117,7 +81,34 @@
     "summary": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
+    "source": "Al Jazeera Iran",
+    "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+    "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar"
+  },
+  {
+    "date": "2026-07-01",
+    "source": "Al Jazeera Iran",
+    "title": "The Iran talks expose the collapse of US diplomacy",
+    "url": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy",
+    "category": "外交",
+    "importance": 3,
+    "summary": "The Iran talks expose the collapse of US diplomacy"
+  },
+  {
+    "date": "2026-07-01",
+    "source": "Al Jazeera Iran",
+    "title": "Qatar says ‘positive progress’ made in indirect US-Iran talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Qatar says ‘positive progress’ made in indirect US-Iran talks"
+  },
+  {
+    "date": "2026-07-01",
     "source": "Al Jazeera Iran",
     "title": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets",
@@ -126,7 +117,7 @@
     "summary": "Iran to hold talks with Qatar on MoU deal with US, frozen assets"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "Al Jazeera Iran",
     "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
     "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation",
@@ -135,7 +126,7 @@
     "summary": "US envoys in Doha for indirect talks with Iranian technical delegation"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "Al Jazeera Iran",
     "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
     "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks",
@@ -144,30 +135,12 @@
     "summary": "Are US and Iranian negotiators meeting in Doha? What we know about talks"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "Al Jazeera Iran",
     "title": "What is Iran looking for in any upcoming talks with the US?",
     "url": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us",
     "category": "外交",
     "importance": 3,
     "summary": "What is Iran looking for in any upcoming talks with the US?"
-  },
-  {
-    "date": "2026-06-30",
-    "source": "Al Jazeera Iran",
-    "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "‘Tit-for-tat US-Iran attacks appear to be over’"
-  },
-  {
-    "date": "2026-06-30",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Trump announces Qatar talks; Tehran says nothing planned",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran war updates: Trump announces Qatar talks; Tehran says nothing planned"
   }
 ]
