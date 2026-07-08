@@ -1,24 +1,24 @@
 [
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "Al Jazeera Iran",
-    "title": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks",
-    "url": "https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks",
-    "category": "ホルムズ海峡",
+    "title": "Trump says ceasefire ‘over’, re-ups threats after US and Iran trade attacks",
+    "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks",
+    "category": "外交",
     "importance": 5,
-    "summary": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks"
+    "summary": "Trump says ceasefire ‘over’, re-ups threats after US and Iran trade attacks"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "AP Middle East",
-    "title": "US launches new strikes against Iran after three ships were hit in Strait of Hormuz",
-    "url": "https://apnews.com/article/iran-us-israel-war-oil-4732228810c9839a1258309ad43b8289",
-    "category": "ホルムズ海峡",
+    "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is 'over'",
+    "url": "https://apnews.com/article/stocks-rates-oil-iran-ai-671d9c94b302f7db533f46baa18387d3",
+    "category": "外交",
     "importance": 4,
-    "summary": "US launches new strikes against Iran after three ships were hit in Strait of Hormuz"
+    "summary": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is 'over'"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "AP Middle East",
     "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again",
     "url": "https://apnews.com/article/iran-us-israel-lebanon-hezbollah-june-20-2026-6e23fb5f37e23427dbfc2bc80c59bda8",
@@ -27,34 +27,70 @@
     "summary": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "Al Jazeera Iran",
-    "title": "Saudi, Qatari tankers hit as Strait of Hormuz risks worsen",
-    "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile",
+    "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
+    "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Saudi, Qatari tankers hit as Strait of Hormuz risks worsen"
+    "summary": "The Strait of Hormuz is now at the centre of Iranian and US calculus"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "Al Jazeera Iran",
-    "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-    "url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries",
+    "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries"
+    "summary": "Germany urges US-Iran negotiations, offers to minesweep Hormuz"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
+    "source": "Al Jazeera Iran",
+    "title": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
+    "url": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes"
+  },
+  {
+    "date": "2026-07-08",
     "source": "AP Middle East",
-    "title": "US prosecutors credit gold trader in Iran sanctions case with key help ahead of sentencing",
-    "url": "https://apnews.com/article/iran-sanctions-reza-zarrab-24d598beef98080ccd1b63b676a2555b",
-    "category": "制裁",
+    "title": "US carries out another round of strikes on Iran after Trump says ceasefire is over",
+    "url": "https://apnews.com/article/iran-us-israel-war-oil-july-8-2026-fee04dcea661c08de12c04914ff2751b",
+    "category": "外交",
     "importance": 3,
-    "summary": "US prosecutors credit gold trader in Iran sanctions case with key help ahead of sentencing"
+    "summary": "US carries out another round of strikes on Iran after Trump says ceasefire is over"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
+    "source": "AP Middle East",
+    "title": "New attacks raise questions about what comes next in the Iran war",
+    "url": "https://apnews.com/article/trump-iran-war-ceasefire-strikes-c45111ed270afa7dac285016ce07362f",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "New attacks raise questions about what comes next in the Iran war"
+  },
+  {
+    "date": "2026-07-08",
+    "source": "AP Middle East",
+    "title": "The tenuous state of a US-Iran ceasefire renews anxiety over high fuel prices",
+    "url": "https://apnews.com/article/oil-gasoline-prices-iran-trump-strait-72181b48494a6367c40cf6e9a817e6b4",
+    "category": "外交",
+    "importance": 3,
+    "summary": "The tenuous state of a US-Iran ceasefire renews anxiety over high fuel prices"
+  },
+  {
+    "date": "2026-07-08",
+    "source": "AP Middle East",
+    "title": "Is an Iran deal ‘over’ and war back on? A timeline of the conflict and talks",
+    "url": "https://apnews.com/article/iran-us-timeline-trump-hormuz-war-ceasefire-04da58cbae991183f8b52ef5bf615963",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Is an Iran deal ‘over’ and war back on? A timeline of the conflict and talks"
+  },
+  {
+    "date": "2026-07-08",
     "source": "AP Middle East",
     "title": "US and Iran pause strikes but disagree over next steps on talks",
     "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab",
@@ -63,7 +99,7 @@
     "summary": "US and Iran pause strikes but disagree over next steps on talks"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "AP Middle East",
     "title": "US strikes Iran in response to a drone attack on a ship",
     "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-26-2026-8c1a77eb82d25f00de814958114c7296",
@@ -72,7 +108,7 @@
     "summary": "US strikes Iran in response to a drone attack on a ship"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "AP Middle East",
     "title": "FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence",
     "url": "https://apnews.com/article/iran-nuclear-program-israel-fact-focus-ad9678f602ffcfcdd174cf3d8d653ca5",
@@ -81,7 +117,7 @@
     "summary": "FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "AP Middle East",
     "title": "US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats",
     "url": "https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963",
@@ -90,21 +126,30 @@
     "summary": "US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "Al Jazeera Iran",
-    "title": "US says launched new strikes on Iran following attacks on vessels",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance",
-    "category": "軍事",
+    "title": "US says conducting new wave of strikes on Iran as ceasefire falters",
+    "url": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2",
+    "category": "外交",
     "importance": 3,
-    "summary": "US says launched new strikes on Iran following attacks on vessels"
+    "summary": "US says conducting new wave of strikes on Iran as ceasefire falters"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "source": "Al Jazeera Iran",
-    "title": "Iranians mourn Khamenei while reflecting on unity amid decades of sanctions",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?update=4737916",
-    "category": "制裁",
+    "title": "Trump says MoU ‘over’ after latest US and Iranian attacks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-mou-over-after-latest-us-and-iranian-attacks",
+    "category": "軍事",
     "importance": 3,
-    "summary": "Iranians mourn Khamenei while reflecting on unity amid decades of sanctions"
+    "summary": "Trump says MoU ‘over’ after latest US and Iranian attacks"
+  },
+  {
+    "date": "2026-07-08",
+    "source": "Al Jazeera Iran",
+    "title": "Oil surges as US strikes Iran, reversing return to pre-war prices",
+    "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Oil surges as US strikes Iran, reversing return to pre-war prices"
   }
 ]
