@@ -1,6 +1,33 @@
 [
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
+    "source": "AP Middle East",
+    "title": "US demands Iran publicly state that Strait of Hormuz is open and Tehran won't attack ships anymore",
+    "url": "https://apnews.com/article/iran-us-israel-war-hormuz-july-10-2026-4bf4fdd1f4d782ff08f60d152909faee",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "US demands Iran publicly state that Strait of Hormuz is open and Tehran won't attack ships anymore"
+  },
+  {
+    "date": "2026-07-10",
+    "source": "AP Middle East",
+    "title": "LIVE US demands Iran guarantee Strait of Hormuz is open and stop attacks, officials say",
+    "url": "https://apnews.com/live/trump-administration-iran-updates-07-10-2026",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "LIVE US demands Iran guarantee Strait of Hormuz is open and stop attacks, officials say"
+  },
+  {
+    "date": "2026-07-10",
+    "source": "AP Middle East",
+    "title": "Seafarers attacked in the Strait of Hormuz sue shipping company in Thailand",
+    "url": "https://apnews.com/article/thailand-mayuree-naree-hormuz-attack-sue-precious-shipping-87cb8a617eb1c7726d4ac42e5e3ebf01",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Seafarers attacked in the Strait of Hormuz sue shipping company in Thailand"
+  },
+  {
+    "date": "2026-07-10",
     "source": "AP Middle East",
     "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again",
     "url": "https://apnews.com/article/iran-us-israel-lebanon-hezbollah-june-20-2026-6e23fb5f37e23427dbfc2bc80c59bda8",
@@ -9,7 +36,16 @@
     "summary": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
+    "source": "Al Jazeera Iran",
+    "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump hints at further Iran negotiations after exchange of fire over Hormuz"
+  },
+  {
+    "date": "2026-07-10",
     "source": "Al Jazeera Iran",
     "title": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
     "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting",
@@ -18,7 +54,7 @@
     "summary": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "source": "Al Jazeera Iran",
     "title": "Will NATO get involved in securing Strait of Hormuz?",
     "url": "https://www.aljazeera.com/video/inside-story/2026/7/9/will-nato-get-involved-in-securing-strait-of-hormuz",
@@ -27,7 +63,7 @@
     "summary": "Will NATO get involved in securing Strait of Hormuz?"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "source": "Al Jazeera Iran",
     "title": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
     "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17",
@@ -36,7 +72,16 @@
     "summary": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
+    "source": "AP Middle East",
+    "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+    "url": "https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf",
+    "category": "外交",
+    "importance": 3,
+    "summary": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal"
+  },
+  {
+    "date": "2026-07-10",
     "source": "AP Middle East",
     "title": "New attacks raise questions about what comes next in the Iran war",
     "url": "https://apnews.com/article/trump-iran-war-ceasefire-strikes-c45111ed270afa7dac285016ce07362f",
@@ -45,16 +90,7 @@
     "summary": "New attacks raise questions about what comes next in the Iran war"
   },
   {
-    "date": "2026-07-09",
-    "source": "AP Middle East",
-    "title": "The tenuous state of a US-Iran ceasefire renews anxiety over high fuel prices",
-    "url": "https://apnews.com/article/oil-gasoline-prices-iran-trump-strait-72181b48494a6367c40cf6e9a817e6b4",
-    "category": "外交",
-    "importance": 3,
-    "summary": "The tenuous state of a US-Iran ceasefire renews anxiety over high fuel prices"
-  },
-  {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "source": "AP Middle East",
     "title": "US and Iran pause strikes but disagree over next steps on talks",
     "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab",
@@ -63,7 +99,7 @@
     "summary": "US and Iran pause strikes but disagree over next steps on talks"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "source": "AP Middle East",
     "title": "US strikes Iran in response to a drone attack on a ship",
     "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-26-2026-8c1a77eb82d25f00de814958114c7296",
@@ -72,7 +108,7 @@
     "summary": "US strikes Iran in response to a drone attack on a ship"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "source": "AP Middle East",
     "title": "FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence",
     "url": "https://apnews.com/article/iran-nuclear-program-israel-fact-focus-ad9678f602ffcfcdd174cf3d8d653ca5",
@@ -81,7 +117,7 @@
     "summary": "FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "source": "AP Middle East",
     "title": "US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats",
     "url": "https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963",
@@ -90,7 +126,34 @@
     "summary": "US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
+    "source": "Al Jazeera Iran",
+    "title": "US-Iran war: Will peace talks resume, and when?",
+    "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when",
+    "category": "外交",
+    "importance": 3,
+    "summary": "US-Iran war: Will peace talks resume, and when?"
+  },
+  {
+    "date": "2026-07-10",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says strikes hit southern areas, but US denies it carried attacks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/iran-says-strikes-hit-southern-areas-but-us-denies-it-carried-attacks",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran says strikes hit southern areas, but US denies it carried attacks"
+  },
+  {
+    "date": "2026-07-10",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says US agrees to talks with Iran, but ceasefire ‘over’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump says US agrees to talks with Iran, but ceasefire ‘over’"
+  },
+  {
+    "date": "2026-07-10",
     "source": "Al Jazeera Iran",
     "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states",
@@ -99,7 +162,7 @@
     "summary": "Deadly US strikes trigger Iranian attacks on Gulf states"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "source": "Al Jazeera Iran",
     "title": "US, Iran launch more attacks as mediators urge both sides to uphold MoU",
     "url": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou",
@@ -108,21 +171,12 @@
     "summary": "US, Iran launch more attacks as mediators urge both sides to uphold MoU"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "source": "Al Jazeera Iran",
-    "title": "US conducts new wave of strikes on Iran as ceasefire falters",
-    "url": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2",
-    "category": "外交",
-    "importance": 3,
-    "summary": "US conducts new wave of strikes on Iran as ceasefire falters"
-  },
-  {
-    "date": "2026-07-09",
-    "source": "Al Jazeera Middle East",
-    "title": "Videos show interception of Iranian missiles in skies over Jordan",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/videos-show-interception-of-iranian-missiles-in-skies-over-jordan",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Videos show interception of Iranian missiles in skies over Jordan"
+    "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
+    "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea",
+    "category": "市場",
+    "importance": 2,
+    "summary": "US-Iran escalation threatens oil supply recovery, warns IEA"
   }
 ]
