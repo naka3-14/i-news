@@ -1,48 +1,48 @@
-# Iran Daily Report - 2026-07-13
+# Iran Daily Report - 2026-07-14
 
-## 1. US, Iran exchange attacks around Strait of Hormuz
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz
-
-## 2. US begins new Iran strikes after Trump says ships will be charged to use the Strait of Hormuz
+## 1. US restores blockade on Iran after its attacks on ships in the Strait of Hormuz
 - ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-hormuz-strait-war-july-13-2026-6c2c44cfdd089d6393d18fa5930ed620
+- URL: https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be
 
-## 3. Sen. McConnell breaks weeks of silence about health, US and Iran vie for Strait of Hormuz control, ‘The Odyssey’
+## 2. LIVE US reimposes blockade on Iran’s ports after Iranian attacks in the Strait of Hormuz
 - ソース: AP Middle East
-- URL: https://apnews.com/newsletter/morning-wire/july-13-2026
+- URL: https://apnews.com/live/iran-war-trump-hormuz-updates-07-14-2026
+
+## 3. Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira
 
 ## 4. FACT FOCUS: A look at US and Iranian claims of control over the Strait of Hormuz
 - ソース: AP Middle East
 - URL: https://apnews.com/article/trump-iran-strait-of-hormuz-8df557699c900b29fb33172e6da7f3e9
 
-## 5. Iran military warns US against Strait of Hormuz ‘interference’
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz
-
-## 6. US keeping the Strait of Hormuz open is ‘a massive force problem’
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force
-
-## 7. Trump: US will ‘take over’ Strait of Hormuz
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz
-
-## 8. Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls
-
-## 9. US launches more strikes on Iran as Strait of Hormuz standoff deepens
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726
-
-## 10. US citizen is found guilty of helping export tech to Iran in violation of sanctions
+## 5. Why it’s so difficult for the US to fully reopen the Strait of Hormuz
 - ソース: AP Middle East
-- URL: https://apnews.com/article/iran-sanctions-tech-export-sadeghi-trial-3792a6fbceea0d8856d728080bea6d23
+- URL: https://apnews.com/article/iran-war-trump-strait-hormuz-f8d20baa977b2162ba235a1bbfd4246f
 
-## 11. UK says an Iran-backed group was behind attacks on Jewish community and bans Revolutionary Guard
+## 6. Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation
+
+## 7. US President Trump drops 20% Strait of Hormuz fee plan
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan
+
+## 8. ‘Piracy’: Will Trump’s 20 percent Hormuz toll find takers?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/economy/2026/7/14/piracy-will-trumps-20-percent-hormuz-toll-find-takers
+
+## 9. Iran lawmakers present Hormuz management bill as US war heats up
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/7/14/iran-lawmakers-present-hormuz-management-bill-as-us-war-heats-up
+
+## 10. Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP
+- ソース: Al Jazeera Middle East
+- URL: https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption
+
+## 11. Gold trader gets time served in Iran sanctions case that strained US-Turkey relations
 - ソース: AP Middle East
-- URL: https://apnews.com/article/britain-iran-jewish-attacks-69fbaab1deeb1dd5b8fd20145b25821c
+- URL: https://apnews.com/article/iran-sanctions-oil-gold-reza-zarrab-trial-cd24a67e60d6747bcf13f4a1d0d332c5
 
 ## 12. US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal
 - ソース: AP Middle East
@@ -60,22 +60,22 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-26-2026-8c1a77eb82d25f00de814958114c7296
 
-## 16. FACT FOCUS: Netanyahu’s claims about Iran’s nuclear program run counter to public evidence
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-nuclear-program-israel-fact-focus-ad9678f602ffcfcdd174cf3d8d653ca5
-
-## 17. New Iran strikes on Gulf as US attacks escalate: What we know
+## 16. Sirens blare in Bahrain as Iran launches barrage of missiles, drones
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know
+- URL: https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones
 
-## 18. US and Iran trade strikes as ceasefire comes under growing strain
+## 17. India summons Iranian diplomat over missile killing of seafarer
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain
+- URL: https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer
 
-## 19. Iran attacks US military bases in Bahrain, Kuwait, and Jordan
+## 18. Can Gulf countries defend themselves against renewed Iranian attacks?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan
+- URL: https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks
 
-## 20. US military says carrying out new attacks on Iran after Trump’s threats
+## 19. What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies
+- URL: https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack
+
+## 20. Trump demands payment to protect Gulf nations from Iranian attacks
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks
