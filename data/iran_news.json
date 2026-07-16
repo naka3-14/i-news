@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
+    "source": "AP Middle East",
+    "title": "US expands attacks on Iran, which calls Strait of Hormuz a 'red line' as it retaliates",
+    "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "US expands attacks on Iran, which calls Strait of Hormuz a 'red line' as it retaliates"
+  },
+  {
+    "date": "2026-07-16",
     "source": "AP Middle East",
     "title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be",
@@ -9,7 +18,25 @@
     "summary": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
+    "source": "AP Middle East",
+    "title": "Hopes for US-Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz",
+    "url": "https://apnews.com/article/iran-war-trump-strait-hormuz-negotiations-476de0b0c341ead38126e617234d0939",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Hopes for US-Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz"
+  },
+  {
+    "date": "2026-07-16",
+    "source": "AP Middle East",
+    "title": "3 islands help control access to the Strait of Hormuz. They’re in the crosshairs of the Iran war",
+    "url": "https://apnews.com/article/iran-us-war-abu-musa-tunb-kharg-islands-e98279652479c24a99c9907177ecb990",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "3 islands help control access to the Strait of Hormuz. They’re in the crosshairs of the Iran war"
+  },
+  {
+    "date": "2026-07-16",
     "source": "AP Middle East",
     "title": "Why it’s so difficult for the US to fully reopen the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-war-trump-strait-hormuz-f8d20baa977b2162ba235a1bbfd4246f",
@@ -18,16 +45,16 @@
     "summary": "Why it’s so difficult for the US to fully reopen the Strait of Hormuz"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "source": "Al Jazeera Iran",
-    "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-    "url": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation",
+    "title": "‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU",
+    "url": "https://www.aljazeera.com/opinions/2026/7/16/safe-passage-the-fatal-ambiguity-at-the-heart-of-the-hormuz-mou",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation"
+    "summary": "‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "source": "AP Middle East",
     "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
     "url": "https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf",
@@ -36,7 +63,7 @@
     "summary": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "source": "AP Middle East",
     "title": "A timeline of the Iran conflict and talks aimed at ending it",
     "url": "https://apnews.com/article/iran-us-timeline-trump-hormuz-war-ceasefire-04da58cbae991183f8b52ef5bf615963",
@@ -45,7 +72,7 @@
     "summary": "A timeline of the Iran conflict and talks aimed at ending it"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "source": "AP Middle East",
     "title": "US and Iran pause strikes but disagree over next steps on talks",
     "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab",
@@ -54,84 +81,66 @@
     "summary": "US and Iran pause strikes but disagree over next steps on talks"
   },
   {
-    "date": "2026-07-15",
-    "source": "AP Middle East",
-    "title": "US strikes Iran in response to a drone attack on a ship",
-    "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-26-2026-8c1a77eb82d25f00de814958114c7296",
+    "date": "2026-07-16",
+    "source": "Al Jazeera Iran",
+    "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
+    "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war",
     "category": "軍事",
     "importance": 3,
-    "summary": "US strikes Iran in response to a drone attack on a ship"
+    "summary": "US mounts sixth straight night of attacks as Iran warns of wider war"
   },
   {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
+    "source": "Al Jazeera Iran",
+    "title": "The hardest party to manage in the Iran talks isn’t Iran",
+    "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran",
+    "category": "外交",
+    "importance": 3,
+    "summary": "The hardest party to manage in the Iran talks isn’t Iran"
+  },
+  {
+    "date": "2026-07-16",
+    "source": "Al Jazeera Iran",
+    "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
+    "url": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital"
+  },
+  {
+    "date": "2026-07-16",
+    "source": "Al Jazeera Iran",
+    "title": "Iran claims strikes on US bases, warns of wider attacks on region",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran claims strikes on US bases, warns of wider attacks on region"
+  },
+  {
+    "date": "2026-07-16",
+    "source": "Al Jazeera Iran",
+    "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
+    "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US launches new attacks on Iran as Tehran targets Gulf sites"
+  },
+  {
+    "date": "2026-07-16",
+    "source": "Al Jazeera Iran",
+    "title": "Read more: US mounts sixth straight night of attacks as Iran warns of wider war",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?update=4778278",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Read more: US mounts sixth straight night of attacks as Iran warns of wider war"
+  },
+  {
+    "date": "2026-07-16",
     "source": "Al Jazeera Iran",
     "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
     "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks",
     "category": "軍事",
     "importance": 3,
     "summary": "Iran says peace deal voided, fighting ‘existential war’ after US attacks"
-  },
-  {
-    "date": "2026-07-15",
-    "source": "Al Jazeera Iran",
-    "title": "Iran launches attacks across region as US strikes continue",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran launches attacks across region as US strikes continue"
-  },
-  {
-    "date": "2026-07-15",
-    "source": "Al Jazeera Iran",
-    "title": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
-    "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?"
-  },
-  {
-    "date": "2026-07-15",
-    "source": "Al Jazeera Iran",
-    "title": "US and Iran trade attacks as Trump threatens to hit civilian infrastructure",
-    "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US and Iran trade attacks as Trump threatens to hit civilian infrastructure"
-  },
-  {
-    "date": "2026-07-15",
-    "source": "Al Jazeera Iran",
-    "title": "How Iran’s southern coast is bearing the brunt of US attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "How Iran’s southern coast is bearing the brunt of US attacks"
-  },
-  {
-    "date": "2026-07-15",
-    "source": "Al Jazeera Iran",
-    "title": "Iran focusing attacks on US military infrastructure in region: IRGC",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?update=4775293",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran focusing attacks on US military infrastructure in region: IRGC"
-  },
-  {
-    "date": "2026-07-15",
-    "source": "Al Jazeera Iran",
-    "title": "Missile attack hits area around Ahvaz cancer hospital: Iranian official",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?update=4775237",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Missile attack hits area around Ahvaz cancer hospital: Iranian official"
-  },
-  {
-    "date": "2026-07-15",
-    "source": "Al Jazeera Iran",
-    "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones"
   }
 ]
