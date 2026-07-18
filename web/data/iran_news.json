@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "AP Middle East",
     "title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be",
@@ -9,16 +9,7 @@
     "summary": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz"
   },
   {
-    "date": "2026-07-17",
-    "source": "AP Middle East",
-    "title": "Hopes for US-Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz",
-    "url": "https://apnews.com/article/iran-war-trump-strait-hormuz-negotiations-476de0b0c341ead38126e617234d0939",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Hopes for US-Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz"
-  },
-  {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "AP Middle East",
     "title": "3 islands help control access to the Strait of Hormuz. They’re in the crosshairs of the Iran war",
     "url": "https://apnews.com/article/iran-us-war-abu-musa-tunb-kharg-islands-e98279652479c24a99c9907177ecb990",
@@ -27,7 +18,7 @@
     "summary": "3 islands help control access to the Strait of Hormuz. They’re in the crosshairs of the Iran war"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "AP Middle East",
     "title": "Why it’s so difficult for the US to fully reopen the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-war-trump-strait-hormuz-f8d20baa977b2162ba235a1bbfd4246f",
@@ -36,16 +27,16 @@
     "summary": "Why it’s so difficult for the US to fully reopen the Strait of Hormuz"
   },
   {
-    "date": "2026-07-17",
-    "source": "Al Jazeera Iran",
-    "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
-    "url": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "IEA chief warns Strait of Hormuz crisis threatens global energy security"
+    "date": "2026-07-18",
+    "source": "AP Middle East",
+    "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+    "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "AP Middle East",
     "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
     "url": "https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf",
@@ -54,7 +45,7 @@
     "summary": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "AP Middle East",
     "title": "A timeline of the Iran conflict and talks aimed at ending it",
     "url": "https://apnews.com/article/iran-us-timeline-trump-hormuz-war-ceasefire-04da58cbae991183f8b52ef5bf615963",
@@ -63,7 +54,16 @@
     "summary": "A timeline of the Iran conflict and talks aimed at ending it"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
+    "source": "Al Jazeera Iran",
+    "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Plumes of smoke rise over Kuwait after repeated Iranian attacks"
+  },
+  {
+    "date": "2026-07-18",
     "source": "Al Jazeera Iran",
     "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states",
@@ -72,7 +72,7 @@
     "summary": "Iranian forces: missiles and drones fired at US targets in Gulf States"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "Al Jazeera Iran",
     "title": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
     "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant",
@@ -81,7 +81,7 @@
     "summary": "Satellite images show damage inside Iran’s Bushehr nuclear power plant"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "Al Jazeera Iran",
     "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
     "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure",
@@ -90,7 +90,7 @@
     "summary": "Why is the US attacking southern Iran’s civilian infrastructure?"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "Al Jazeera Iran",
     "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
     "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest",
@@ -99,7 +99,7 @@
     "summary": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?"
   },
   {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "source": "Al Jazeera Iran",
     "title": "US bombards Iran in sixth-straight night of attacks",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks",
@@ -108,30 +108,12 @@
     "summary": "US bombards Iran in sixth-straight night of attacks"
   },
   {
-    "date": "2026-07-17",
-    "source": "Al Jazeera Iran",
-    "title": "Seventh consecutive night of attacks on Iran: CENTCOM",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?update=4781316",
+    "date": "2026-07-18",
+    "source": "Al Jazeera Middle East",
+    "title": "Saudi, Kuwaiti FMs condemn ‘heinous Iranian attacks’ in the region",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?update=4783672",
     "category": "軍事",
     "importance": 3,
-    "summary": "Seventh consecutive night of attacks on Iran: CENTCOM"
-  },
-  {
-    "date": "2026-07-17",
-    "source": "Al Jazeera Iran",
-    "title": "Qatar condemns Iran’s attacks on Iraq’s semi-autonomous Kurdish region",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?update=4781263",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Qatar condemns Iran’s attacks on Iraq’s semi-autonomous Kurdish region"
-  },
-  {
-    "date": "2026-07-17",
-    "source": "Al Jazeera Iran",
-    "title": "The hardest party to manage in the Iran talks isn’t Iran",
-    "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran",
-    "category": "外交",
-    "importance": 3,
-    "summary": "The hardest party to manage in the Iran talks isn’t Iran"
+    "summary": "Saudi, Kuwaiti FMs condemn ‘heinous Iranian attacks’ in the region"
   }
 ]
