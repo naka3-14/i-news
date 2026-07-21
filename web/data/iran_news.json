@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "source": "AP Middle East",
     "title": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks",
     "url": "https://apnews.com/article/philippines-asean-meetings-southeast-asia-myanmar-south-china-sea-iran-war-2b968e79424b31ad4899331de0f214e4",
@@ -9,7 +9,7 @@
     "summary": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "source": "AP Middle East",
     "title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be",
@@ -18,16 +18,25 @@
     "summary": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "source": "Al Jazeera Iran",
-    "title": "Iran attacks Bahrain, Kuwait and Jordan after US hits Iranian nuclear site",
-    "url": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies",
-    "category": "核問題",
+    "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+    "url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest",
+    "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "Iran attacks Bahrain, Kuwait and Jordan after US hits Iranian nuclear site"
+    "summary": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
+    "source": "AP Middle East",
+    "title": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes",
+    "url": "https://apnews.com/article/iran-war-trump-airstrikes-strait-hormuz-8c42c6ddc0c32d53ce452ace92a62b9a",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes"
+  },
+  {
+    "date": "2026-07-21",
     "source": "AP Middle East",
     "title": "Why it’s so difficult for the US to fully reopen the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-war-trump-strait-hormuz-f8d20baa977b2162ba235a1bbfd4246f",
@@ -36,25 +45,25 @@
     "summary": "Why it’s so difficult for the US to fully reopen the Strait of Hormuz"
   },
   {
-    "date": "2026-07-20",
-    "source": "Al Jazeera Iran",
-    "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-    "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate"
+    "date": "2026-07-21",
+    "source": "AP Middle East",
+    "title": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages",
+    "url": "https://apnews.com/article/asean-philippines-south-china-sea-iran-war-788ceac7b1a80b74881bd5c69e334558",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "source": "AP Middle East",
-    "title": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks",
-    "url": "https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e",
+    "title": "Attacks between US and Iran across Mideast overshadow efforts to keep diplomacy alive",
+    "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585",
     "category": "軍事",
     "importance": 3,
-    "summary": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks"
+    "summary": "Attacks between US and Iran across Mideast overshadow efforts to keep diplomacy alive"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "source": "AP Middle East",
     "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
     "url": "https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf",
@@ -63,7 +72,7 @@
     "summary": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "source": "AP Middle East",
     "title": "A timeline of the Iran conflict and talks aimed at ending it",
     "url": "https://apnews.com/article/iran-us-timeline-trump-hormuz-war-ceasefire-04da58cbae991183f8b52ef5bf615963",
@@ -72,7 +81,25 @@
     "summary": "A timeline of the Iran conflict and talks aimed at ending it"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
+    "source": "Al Jazeera Iran",
+    "title": "US attacks Iran for 10th consecutive night",
+    "url": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US attacks Iran for 10th consecutive night"
+  },
+  {
+    "date": "2026-07-21",
+    "source": "Al Jazeera Iran",
+    "title": "Trump claims Iran ‘desperate’ to talk, threatens heavy attacks ‘very soon’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Trump claims Iran ‘desperate’ to talk, threatens heavy attacks ‘very soon’"
+  },
+  {
+    "date": "2026-07-21",
     "source": "Al Jazeera Iran",
     "title": "Iran condemns US attacks on civilian infrastructure",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure",
@@ -81,25 +108,7 @@
     "summary": "Iran condemns US attacks on civilian infrastructure"
   },
   {
-    "date": "2026-07-20",
-    "source": "Al Jazeera Iran",
-    "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
-    "url": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US renews attacks on Iran after US soldier killed: What’s the latest?"
-  },
-  {
-    "date": "2026-07-20",
-    "source": "Al Jazeera Iran",
-    "title": "Kuwait says air defences confronting Iranian missile and drone attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?update=4791568",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Kuwait says air defences confronting Iranian missile and drone attacks"
-  },
-  {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "source": "Al Jazeera Iran",
     "title": "Petrol prices climb as US–Iran tensions disrupt markets",
     "url": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt",
