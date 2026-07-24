@@ -1,15 +1,15 @@
 [
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "source": "AP Middle East",
-    "title": "Mideast oil producers step up plans to bypass the Strait of Hormuz",
+    "title": "Middle East oil producers step up plans to bypass the Strait of Hormuz",
     "url": "https://apnews.com/article/oil-strait-of-hormuz-iran-896c02f0c978986fff0ae7fc389ea51f",
     "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "Mideast oil producers step up plans to bypass the Strait of Hormuz"
+    "summary": "Middle East oil producers step up plans to bypass the Strait of Hormuz"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "source": "AP Middle East",
     "title": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks",
     "url": "https://apnews.com/article/philippines-asean-meetings-southeast-asia-myanmar-south-china-sea-iran-war-2b968e79424b31ad4899331de0f214e4",
@@ -18,7 +18,7 @@
     "summary": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "source": "AP Middle East",
     "title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be",
@@ -27,7 +27,7 @@
     "summary": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "source": "AP Middle East",
     "title": "Why it’s so difficult for the US to fully reopen the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-war-trump-strait-hormuz-f8d20baa977b2162ba235a1bbfd4246f",
@@ -36,7 +36,16 @@
     "summary": "Why it’s so difficult for the US to fully reopen the Strait of Hormuz"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
+    "source": "Al Jazeera Iran",
+    "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
+    "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Oman talking with Tehran on Hormuz as US and Iran continue strikes"
+  },
+  {
+    "date": "2026-07-24",
     "source": "Al Jazeera Iran",
     "title": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
     "url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down",
@@ -45,16 +54,16 @@
     "summary": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "source": "AP Middle East",
-    "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
-    "url": "https://apnews.com/article/iran-us-hormuz-strait-war-60d46bf8c83c43a8f2268b7b87627c55",
+    "title": "US gradually expands the scope of its attacks on Iran",
+    "url": "https://apnews.com/article/us-iran-war-strait-of-hormuz-d7744d3063116944d49a616c007d669c",
     "category": "軍事",
     "importance": 3,
-    "summary": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war"
+    "summary": "US gradually expands the scope of its attacks on Iran"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "source": "AP Middle East",
     "title": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump",
     "url": "https://apnews.com/article/iran-us-war-pickaxe-mountain-nuclear-underground-what-to-know-2df2cbdbab7e21ba26e41cacdfa84e7c",
@@ -63,7 +72,7 @@
     "summary": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "source": "AP Middle East",
     "title": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages",
     "url": "https://apnews.com/article/asean-philippines-south-china-sea-iran-war-788ceac7b1a80b74881bd5c69e334558",
@@ -72,7 +81,7 @@
     "summary": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "source": "AP Middle East",
     "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585",
@@ -81,66 +90,48 @@
     "summary": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
+    "source": "Al Jazeera Iran",
+    "title": "US attacks Iran for 13th consecutive night",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US attacks Iran for 13th consecutive night"
+  },
+  {
+    "date": "2026-07-24",
+    "source": "Al Jazeera Iran",
+    "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
+    "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?"
+  },
+  {
+    "date": "2026-07-24",
+    "source": "Al Jazeera Iran",
+    "title": "Trump insists Tehran wants deal; Israeli army, settler attacks in West Bank",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Trump insists Tehran wants deal; Israeli army, settler attacks in West Bank"
+  },
+  {
+    "date": "2026-07-24",
+    "source": "Al Jazeera Iran",
+    "title": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes",
+    "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes"
+  },
+  {
+    "date": "2026-07-24",
     "source": "Al Jazeera Iran",
     "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
     "url": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown",
     "category": "外交",
     "importance": 3,
     "summary": "US House votes to limit Iran war for first time since ceasefire breakdown"
-  },
-  {
-    "date": "2026-07-23",
-    "source": "Al Jazeera Iran",
-    "title": "Travellers panic as US attacks Iran-Iraq border crossing",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Travellers panic as US attacks Iran-Iraq border crossing"
-  },
-  {
-    "date": "2026-07-23",
-    "source": "Al Jazeera Iran",
-    "title": "US attacks Iran for 12th night as the House approves defence spending",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US attacks Iran for 12th night as the House approves defence spending"
-  },
-  {
-    "date": "2026-07-23",
-    "source": "Al Jazeera Iran",
-    "title": "Trump warns of unprecedented ‘massive attack’ on Iran, Tehran hits Gulf",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Trump warns of unprecedented ‘massive attack’ on Iran, Tehran hits Gulf"
-  },
-  {
-    "date": "2026-07-23",
-    "source": "Al Jazeera Iran",
-    "title": "Why is Iran still able to conduct deadly attacks on US military sites?",
-    "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Why is Iran still able to conduct deadly attacks on US military sites?"
-  },
-  {
-    "date": "2026-07-23",
-    "source": "AP Middle East",
-    "title": "Consumers already feeling pinched since the Iran war started may feel more pain after oil prices pushed past $100 a barrel.",
-    "url": "https://apnews.com/article/oil-prices-consumers-shopping-gas-groceries-5cdf2386055896c1dfc4d9499196b085",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Consumers already feeling pinched since the Iran war started may feel more pain after oil prices pushed past $100 a barrel."
-  },
-  {
-    "date": "2026-07-23",
-    "source": "Al Jazeera Iran",
-    "title": "US launches new strikes as Iran warns of regional turmoil",
-    "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not",
-    "category": "市場",
-    "importance": 2,
-    "summary": "US launches new strikes as Iran warns of regional turmoil"
   }
 ]
