@@ -1,15 +1,6 @@
 [
   {
-    "date": "2026-07-25",
-    "source": "AP Middle East",
-    "title": "Middle East oil producers step up plans to bypass the Strait of Hormuz",
-    "url": "https://apnews.com/article/oil-strait-of-hormuz-iran-896c02f0c978986fff0ae7fc389ea51f",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Middle East oil producers step up plans to bypass the Strait of Hormuz"
-  },
-  {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "source": "AP Middle East",
     "title": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks",
     "url": "https://apnews.com/article/philippines-asean-meetings-southeast-asia-myanmar-south-china-sea-iran-war-2b968e79424b31ad4899331de0f214e4",
@@ -18,7 +9,7 @@
     "summary": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "source": "AP Middle East",
     "title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be",
@@ -27,7 +18,7 @@
     "summary": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "source": "Al Jazeera Iran",
     "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
     "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks",
@@ -36,7 +27,25 @@
     "summary": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "source": "Al Jazeera Iran",
+    "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+    "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?"
+  },
+  {
+    "date": "2026-07-26",
+    "source": "Al Jazeera Iran",
+    "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+    "url": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?"
+  },
+  {
+    "date": "2026-07-26",
     "source": "Al Jazeera Iran",
     "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
     "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes",
@@ -45,16 +54,25 @@
     "summary": "Oman talking with Tehran on Hormuz as US and Iran continue strikes"
   },
   {
-    "date": "2026-07-25",
-    "source": "Al Jazeera Middle East",
-    "title": "US faces limited choices in Iran standoff as Strait of Hormuz remains under Tehran’s control",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?update=4804325",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "US faces limited choices in Iran standoff as Strait of Hormuz remains under Tehran’s control"
+    "date": "2026-07-26",
+    "source": "AP Middle East",
+    "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+    "url": "https://apnews.com/article/iran-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "source": "AP Middle East",
+    "title": "US and Iran pause their attacks after days of escalation",
+    "url": "https://apnews.com/article/iran-war-united-states-ceasefire-ad9fa27d5b1b5fd51e30d923ee738238",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US and Iran pause their attacks after days of escalation"
+  },
+  {
+    "date": "2026-07-26",
     "source": "AP Middle East",
     "title": "Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-25-july-2026-df3790320c595f3e599fb1dd69423e77",
@@ -63,7 +81,7 @@
     "summary": "Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "source": "AP Middle East",
     "title": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump",
     "url": "https://apnews.com/article/iran-us-war-pickaxe-mountain-nuclear-underground-what-to-know-2df2cbdbab7e21ba26e41cacdfa84e7c",
@@ -72,7 +90,7 @@
     "summary": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "source": "AP Middle East",
     "title": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages",
     "url": "https://apnews.com/article/asean-philippines-south-china-sea-iran-war-788ceac7b1a80b74881bd5c69e334558",
@@ -81,7 +99,7 @@
     "summary": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "source": "AP Middle East",
     "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585",
@@ -90,7 +108,34 @@
     "summary": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "source": "Al Jazeera Iran",
+    "title": "Iran’s FM says Ukraine’s attack on Iranian vessel ‘cannot go unanswered’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran’s FM says Ukraine’s attack on Iranian vessel ‘cannot go unanswered’"
+  },
+  {
+    "date": "2026-07-26",
+    "source": "Al Jazeera Iran",
+    "title": "Iran’s Baghaei says messages being exchanged with US but Washington has previously ‘betrayed’ talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?update=4806892",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran’s Baghaei says messages being exchanged with US but Washington has previously ‘betrayed’ talks"
+  },
+  {
+    "date": "2026-07-26",
+    "source": "Al Jazeera Iran",
+    "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+    "url": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel"
+  },
+  {
+    "date": "2026-07-26",
     "source": "Al Jazeera Iran",
     "title": "Iran’s government spars with state TV as mediators push talks with US",
     "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us",
@@ -99,39 +144,21 @@
     "summary": "Iran’s government spars with state TV as mediators push talks with US"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "source": "Al Jazeera Iran",
-    "title": "US attacks Iran for 13th consecutive night",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night",
+    "title": "Iran war updates: Saudi Arabia, Houthis trade attacks as conflict spreads",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks",
     "category": "軍事",
     "importance": 3,
-    "summary": "US attacks Iran for 13th consecutive night"
+    "summary": "Iran war updates: Saudi Arabia, Houthis trade attacks as conflict spreads"
   },
   {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "source": "Al Jazeera Iran",
-    "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
-    "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?"
-  },
-  {
-    "date": "2026-07-25",
-    "source": "Al Jazeera Iran",
-    "title": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes",
-    "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes"
-  },
-  {
-    "date": "2026-07-25",
-    "source": "Al Jazeera Middle East",
-    "title": "Araghchi condemns Ukraine’s attack on Iranian vessel in call with EU Chief Kaja Kallas",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?update=4804360",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Araghchi condemns Ukraine’s attack on Iranian vessel in call with EU Chief Kaja Kallas"
+    "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+    "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities",
+    "category": "市場",
+    "importance": 2,
+    "summary": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities"
   }
 ]
