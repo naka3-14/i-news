@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "source": "AP Middle East",
     "title": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks",
     "url": "https://apnews.com/article/philippines-asean-meetings-southeast-asia-myanmar-south-china-sea-iran-war-2b968e79424b31ad4899331de0f214e4",
@@ -9,34 +9,43 @@
     "summary": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks"
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
+    "source": "Al Jazeera Iran",
+    "title": "Iran vows to keep Hormuz control; US says Trump-Netanyahu talks ‘positive’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Iran vows to keep Hormuz control; US says Trump-Netanyahu talks ‘positive’"
+  },
+  {
+    "date": "2026-07-28",
+    "source": "Al Jazeera Iran",
+    "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran and Oman exchange proposals to manage Strait of Hormuz"
+  },
+  {
+    "date": "2026-07-28",
+    "source": "Al Jazeera Iran",
+    "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban"
+  },
+  {
+    "date": "2026-07-28",
     "source": "AP Middle East",
-    "title": "Oil prices ease after US and Iran pause their attacks",
-    "url": "https://apnews.com/article/oil-prices-crude-iran-shipping-2fdef9c0b59d90367206d103f0939d30",
+    "title": "The US military says it’s thwarted an Iranian missile attack on American troops",
+    "url": "https://apnews.com/article/iran-war-us-trump-saudi-houthis-iraq-8d2ae29300a8dc5495a4ce56c5312bf1",
     "category": "軍事",
-    "importance": 4,
-    "summary": "Oil prices ease after US and Iran pause their attacks"
+    "importance": 3,
+    "summary": "The US military says it’s thwarted an Iranian missile attack on American troops"
   },
   {
-    "date": "2026-07-27",
-    "source": "Al Jazeera Iran",
-    "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-    "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?"
-  },
-  {
-    "date": "2026-07-27",
-    "source": "Al Jazeera Iran",
-    "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
-    "url": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?"
-  },
-  {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "source": "AP Middle East",
     "title": "Mediators see progress in efforts to halt Iran war as drone attacks rattle region",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-qatar-pakistan-d57e675a7be6dbdd34561909ced240d0",
@@ -45,25 +54,7 @@
     "summary": "Mediators see progress in efforts to halt Iran war as drone attacks rattle region"
   },
   {
-    "date": "2026-07-27",
-    "source": "AP Middle East",
-    "title": "US and Iran pause their attacks after days of escalation",
-    "url": "https://apnews.com/article/iran-war-united-states-ceasefire-ad9fa27d5b1b5fd51e30d923ee738238",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US and Iran pause their attacks after days of escalation"
-  },
-  {
-    "date": "2026-07-27",
-    "source": "AP Middle East",
-    "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
-    "url": "https://apnews.com/article/iran-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?"
-  },
-  {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "source": "AP Middle East",
     "title": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump",
     "url": "https://apnews.com/article/iran-us-war-pickaxe-mountain-nuclear-underground-what-to-know-2df2cbdbab7e21ba26e41cacdfa84e7c",
@@ -72,7 +63,7 @@
     "summary": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump"
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "source": "AP Middle East",
     "title": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages",
     "url": "https://apnews.com/article/asean-philippines-south-china-sea-iran-war-788ceac7b1a80b74881bd5c69e334558",
@@ -81,7 +72,7 @@
     "summary": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages"
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "source": "AP Middle East",
     "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585",
@@ -90,21 +81,30 @@
     "summary": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy"
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "source": "Al Jazeera Iran",
-    "title": "‘Good things can happen’: Trump says US in talks with Iran",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "‘Good things can happen’: Trump says US in talks with Iran"
-  },
-  {
-    "date": "2026-07-27",
-    "source": "Al Jazeera Iran",
-    "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
-    "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei",
+    "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+    "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack",
     "category": "軍事",
     "importance": 3,
-    "summary": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon"
+    "summary": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack"
+  },
+  {
+    "date": "2026-07-28",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says ‘good chance’ of progress in Iran talks. What we know",
+    "url": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump says ‘good chance’ of progress in Iran talks. What we know"
+  },
+  {
+    "date": "2026-07-28",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says Iran talks taking place during pause in US military strikes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump says Iran talks taking place during pause in US military strikes"
   }
 ]
