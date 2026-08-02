@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-08-01
+# Iran Daily Report - 2026-08-02
 
 ## 1. Iraq and Turkey strike a 1-year oil pipeline deal to boost exports during ongoing Hormuz closures
 - ソース: AP Middle East
@@ -8,46 +8,46 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/philippines-asean-meetings-southeast-asia-myanmar-south-china-sea-iran-war-2b968e79424b31ad4899331de0f214e4
 
-## 3. Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings
-- ソース: AP Middle East
-- URL: https://apnews.com/article/trump-iran-strait-hormuz-israel-gaza-mideast-e61e88c14d8aca48c1c56368650baea5
+## 3. No breakthrough on Strait of Hormuz as Trump halts attack on Iran
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran
 
-## 4. US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict
-- ソース: AP Middle East
-- URL: https://apnews.com/article/iran-war-us-hormuz-strait-july-30-2026-8dc77ed6a65f389ea4af84635d2473bd
+## 4. Iran says negotiations with Oman over Strait of Hormuz in final stages
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages
 
-## 5. What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump
+## 5. How to end the ‘Hormuz war’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz
+
+## 6. Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint
+
+## 7. Iran says Oman negotiations over Strait of Hormuz control in ‘final stages’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression
+
+## 8. What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-war-pickaxe-mountain-nuclear-underground-what-to-know-2df2cbdbab7e21ba26e41cacdfa84e7c
 
-## 6. Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages
+## 9. Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages
 - ソース: AP Middle East
 - URL: https://apnews.com/article/asean-philippines-south-china-sea-iran-war-788ceac7b1a80b74881bd5c69e334558
 
-## 7. US military completes 11th night of strikes on Iran as attacks overshadow diplomacy
+## 10. US military completes 11th night of strikes on Iran as attacks overshadow diplomacy
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585
 
-## 8. Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
+## 11. Why has Trump halted Iran attacks, and what is the deal he is hinting at?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at
+
+## 12. Trump ‘cancels attack on Iran’ saying deal is near
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near
+
+## 13. Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks
-
-## 9. Smoke rises over southern Iran after renewed US attacks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks
-
-## 10. US launches ‘powerful’ strikes on Iran after Jordan attack
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack
-
-## 11. US launches ‘heavy wave’ of new attacks on Iran
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran
-
-## 12. Major oil companies reap massive profits as US and Iran fighting drives energy prices higher
-- ソース: AP Middle East
-- URL: https://apnews.com/article/oil-companies-profits-exxon-chevron-9375fbf8f6f40426f7428e07d54000c7
-
-## 13. In the waters off Malaysia, Iranian oil sales continue despite blockade
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade

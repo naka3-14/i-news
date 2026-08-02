@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "source": "AP Middle East",
     "title": "Iraq and Turkey strike a 1-year oil pipeline deal to boost exports during ongoing Hormuz closures",
     "url": "https://apnews.com/article/iraq-turkey-oil-pipeline-agreement-f930588c201d6cb36c1cedb26a1f9331",
@@ -9,7 +9,7 @@
     "summary": "Iraq and Turkey strike a 1-year oil pipeline deal to boost exports during ongoing Hormuz closures"
   },
   {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "source": "AP Middle East",
     "title": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks",
     "url": "https://apnews.com/article/philippines-asean-meetings-southeast-asia-myanmar-south-china-sea-iran-war-2b968e79424b31ad4899331de0f214e4",
@@ -18,25 +18,52 @@
     "summary": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks"
   },
   {
-    "date": "2026-08-01",
-    "source": "AP Middle East",
-    "title": "Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings",
-    "url": "https://apnews.com/article/trump-iran-strait-hormuz-israel-gaza-mideast-e61e88c14d8aca48c1c56368650baea5",
+    "date": "2026-08-02",
+    "source": "Al Jazeera Iran",
+    "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
+    "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran"
+  },
+  {
+    "date": "2026-08-02",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+    "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings"
+    "summary": "Iran says negotiations with Oman over Strait of Hormuz in final stages"
   },
   {
-    "date": "2026-08-01",
-    "source": "AP Middle East",
-    "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict",
-    "url": "https://apnews.com/article/iran-war-us-hormuz-strait-july-30-2026-8dc77ed6a65f389ea4af84635d2473bd",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict"
+    "date": "2026-08-02",
+    "source": "Al Jazeera Iran",
+    "title": "How to end the ‘Hormuz war’",
+    "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "How to end the ‘Hormuz war’"
   },
   {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
+    "source": "Al Jazeera Iran",
+    "title": "Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?",
+    "url": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?"
+  },
+  {
+    "date": "2026-08-02",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says Oman negotiations over Strait of Hormuz control in ‘final stages’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran says Oman negotiations over Strait of Hormuz control in ‘final stages’"
+  },
+  {
+    "date": "2026-08-02",
     "source": "AP Middle East",
     "title": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump",
     "url": "https://apnews.com/article/iran-us-war-pickaxe-mountain-nuclear-underground-what-to-know-2df2cbdbab7e21ba26e41cacdfa84e7c",
@@ -45,7 +72,7 @@
     "summary": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump"
   },
   {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "source": "AP Middle East",
     "title": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages",
     "url": "https://apnews.com/article/asean-philippines-south-china-sea-iran-war-788ceac7b1a80b74881bd5c69e334558",
@@ -54,7 +81,7 @@
     "summary": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages"
   },
   {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "source": "AP Middle East",
     "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585",
@@ -63,57 +90,30 @@
     "summary": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy"
   },
   {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
+    "source": "Al Jazeera Iran",
+    "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+    "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?"
+  },
+  {
+    "date": "2026-08-02",
+    "source": "Al Jazeera Iran",
+    "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Trump ‘cancels attack on Iran’ saying deal is near"
+  },
+  {
+    "date": "2026-08-02",
     "source": "Al Jazeera Iran",
     "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
     "url": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks",
     "category": "軍事",
     "importance": 3,
     "summary": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks"
-  },
-  {
-    "date": "2026-08-01",
-    "source": "Al Jazeera Iran",
-    "title": "Smoke rises over southern Iran after renewed US attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Smoke rises over southern Iran after renewed US attacks"
-  },
-  {
-    "date": "2026-08-01",
-    "source": "Al Jazeera Iran",
-    "title": "US launches ‘powerful’ strikes on Iran after Jordan attack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US launches ‘powerful’ strikes on Iran after Jordan attack"
-  },
-  {
-    "date": "2026-08-01",
-    "source": "Al Jazeera Iran",
-    "title": "US launches ‘heavy wave’ of new attacks on Iran",
-    "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "US launches ‘heavy wave’ of new attacks on Iran"
-  },
-  {
-    "date": "2026-08-01",
-    "source": "AP Middle East",
-    "title": "Major oil companies reap massive profits as US and Iran fighting drives energy prices higher",
-    "url": "https://apnews.com/article/oil-companies-profits-exxon-chevron-9375fbf8f6f40426f7428e07d54000c7",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Major oil companies reap massive profits as US and Iran fighting drives energy prices higher"
-  },
-  {
-    "date": "2026-08-01",
-    "source": "Al Jazeera Iran",
-    "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
-    "url": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade",
-    "category": "市場",
-    "importance": 2,
-    "summary": "In the waters off Malaysia, Iranian oil sales continue despite blockade"
   }
 ]
