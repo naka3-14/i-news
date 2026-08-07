@@ -1,15 +1,15 @@
 [
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "AP Middle East",
-    "title": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks",
-    "url": "https://apnews.com/article/philippines-asean-meetings-southeast-asia-myanmar-south-china-sea-iran-war-2b968e79424b31ad4899331de0f214e4",
+    "title": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news",
+    "url": "https://apnews.com/article/mideast-news-roundup-iran-lebanon-israel-aug-6-2026-07074f3374339a34bc539f56d7d6287a",
     "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks"
+    "summary": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "Al Jazeera Iran",
     "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
     "url": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved",
@@ -18,7 +18,7 @@
     "summary": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "Al Jazeera Iran",
     "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
     "url": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks",
@@ -27,16 +27,7 @@
     "summary": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks"
   },
   {
-    "date": "2026-08-05",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’"
-  },
-  {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "AP Middle East",
     "title": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down",
     "url": "https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55",
@@ -45,7 +36,7 @@
     "summary": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "AP Middle East",
     "title": "Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say",
     "url": "https://apnews.com/article/iran-us-war-strait-hormuz-oman-diplomacy-6587f90f2ab5beec373ce5fabf637541",
@@ -54,7 +45,7 @@
     "summary": "Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "AP Middle East",
     "title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments",
     "url": "https://apnews.com/article/iran-us-hormuz-mideast-gaza-israel-palestinians-ff5f13230ab92b5ae3022f45b2585444",
@@ -63,7 +54,43 @@
     "summary": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
+    "source": "Al Jazeera Iran",
+    "title": "War on Iran: Iran and Oman agree on Strait of Hormuz deal",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "War on Iran: Iran and Oman agree on Strait of Hormuz deal"
+  },
+  {
+    "date": "2026-08-07",
+    "source": "Al Jazeera Iran",
+    "title": "Will the US-Iran war and Hormuz deadlock last for months?",
+    "url": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Will the US-Iran war and Hormuz deadlock last for months?"
+  },
+  {
+    "date": "2026-08-07",
+    "source": "Al Jazeera Iran",
+    "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
+    "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Hormuz deal ‘close’: What’s the latest on each side’s positions?"
+  },
+  {
+    "date": "2026-08-07",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says war to end ‘pretty soon’, Hormuz deal nears",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump says war to end ‘pretty soon’, Hormuz deal nears"
+  },
+  {
+    "date": "2026-08-07",
     "source": "Al Jazeera Iran",
     "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
     "url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want",
@@ -72,16 +99,16 @@
     "summary": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "Al Jazeera Iran",
-    "title": "Iran says it agreed coordinates of Hormuz route with Oman",
+    "title": "Iran war updates: Tehran, Oman agree on route coordinates in Hormuz Strait",
     "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran says it agreed coordinates of Hormuz route with Oman"
+    "summary": "Iran war updates: Tehran, Oman agree on route coordinates in Hormuz Strait"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "Al Jazeera Iran",
     "title": "Rubio: Progress made to reopen Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz",
@@ -90,16 +117,16 @@
     "summary": "Rubio: Progress made to reopen Strait of Hormuz"
   },
   {
-    "date": "2026-08-05",
-    "source": "AP Middle East",
-    "title": "New talks are ‘last chance’ for Iran to forge a deal and avoid escalation of US strikes, Trump says",
-    "url": "https://apnews.com/article/trump-iran-war-gulf-allies-fb81a68f999f4a7b0498ae71cbffe8e5",
-    "category": "外交",
-    "importance": 3,
-    "summary": "New talks are ‘last chance’ for Iran to forge a deal and avoid escalation of US strikes, Trump says"
+    "date": "2026-08-07",
+    "source": "Al Jazeera Middle East",
+    "title": "Trump says Iran war will end ‘pretty soon’; Hormuz deal looms",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump says Iran war will end ‘pretty soon’; Hormuz deal looms"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "AP Middle East",
     "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East",
     "url": "https://apnews.com/article/mideast-iran-us-israel-palestinians-gaza-3b92568b6f2eec283eb51d0327ee682a",
@@ -108,7 +135,7 @@
     "summary": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "AP Middle East",
     "title": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump",
     "url": "https://apnews.com/article/iran-us-war-pickaxe-mountain-nuclear-underground-what-to-know-2df2cbdbab7e21ba26e41cacdfa84e7c",
@@ -117,7 +144,7 @@
     "summary": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "AP Middle East",
     "title": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages",
     "url": "https://apnews.com/article/asean-philippines-south-china-sea-iran-war-788ceac7b1a80b74881bd5c69e334558",
@@ -126,7 +153,7 @@
     "summary": "Southeast Asia’s top diplomats hold security talks in Manila as US-Iran fighting rages"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "AP Middle East",
     "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy",
     "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585",
@@ -135,48 +162,12 @@
     "summary": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-08-07",
     "source": "Al Jazeera Iran",
     "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
     "url": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us",
     "category": "外交",
     "importance": 3,
     "summary": "‘Maximum use’: Iran boosts military strength during ceasefire with US"
-  },
-  {
-    "date": "2026-08-05",
-    "source": "Al Jazeera Iran",
-    "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Trump says talks with Iran are ‘last chance’ to forge a deal"
-  },
-  {
-    "date": "2026-08-05",
-    "source": "Al Jazeera Iran",
-    "title": "Trump says ongoing talks are Iran’s ‘last chance’",
-    "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Trump says ongoing talks are Iran’s ‘last chance’"
-  },
-  {
-    "date": "2026-08-05",
-    "source": "AP Middle East",
-    "title": "Big oil companies continue to post banner profits as fighting in Iran drives prices higher",
-    "url": "https://apnews.com/article/oil-prices-iran-war-gas-inflation-7f2d2d1b9d8d4ac9fd3566b200fdd577",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Big oil companies continue to post banner profits as fighting in Iran drives prices higher"
-  },
-  {
-    "date": "2026-08-05",
-    "source": "Al Jazeera Iran",
-    "title": "Why are oil companies posting record profits amid Iran war disruption?",
-    "url": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Why are oil companies posting record profits amid Iran war disruption?"
   }
 ]
