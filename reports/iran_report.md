@@ -1,44 +1,44 @@
-# Iran Daily Report - 2026-08-07
+# Iran Daily Report - 2026-08-08
 
 ## 1. Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news
 - ソース: AP Middle East
 - URL: https://apnews.com/article/mideast-news-roundup-iran-lebanon-israel-aug-6-2026-07074f3374339a34bc539f56d7d6287a
 
-## 2. A deal with Iran over the Strait of Hormuz may require a compromise from Trump
+## 2. Iran makes dramatic new demands around Strait of Hormuz
+- ソース: AP Middle East
+- URL: https://apnews.com/article/yemen-houthis-turkey-kurdish-peace-mideast-roundup-aug-8-2026-feb75871fb82c44b3f7fd0ee02bb24b4
+
+## 3. A deal with Iran over the Strait of Hormuz may require a compromise from Trump
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-trump-strait-hormuz-diplomacy-stockpiles-0220ceb7904e16c30869c8fe4cf2a3db
 
-## 3. Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say
+## 4. Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-war-strait-hormuz-oman-diplomacy-6587f90f2ab5beec373ce5fabf637541
 
-## 4. Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments
+## 5. Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-hormuz-mideast-gaza-israel-palestinians-ff5f13230ab92b5ae3022f45b2585444
 
-## 5. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
+## 6. UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2
+
+## 7. Iran deliberates Hormuz arrangement amid uncertain prospects with US
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us
+
+## 8. Iran sets new conditions to reopen Hormuz, wants US to ‘correct behaviour’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms
+
+## 9. Syrian government condemns strike on ADNOC tanker in Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?update=4839054
+
+## 10. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/7/european-caution-slowing-us-push-for-hormuz-naval-coalition
-
-## 6. ‘Mecca Joint Defence Pact’ signed, as Hormuz deal ‘nears’
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close
-
-## 7. War on Iran: Iran and Oman agree on Strait of Hormuz deal
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826
-
-## 8. Will the US-Iran war and Hormuz deadlock last for months?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months
-
-## 9. Hormuz deal ‘close’: What’s the latest on each side’s positions?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions
-
-## 10. Iran war updates: Trump says war to end ‘pretty soon’, Hormuz deal nears
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers
 
 ## 11. How the Iran-backed Houthis’ claims of deadly attacks are stoking fears of a wider regional conflict
 - ソース: AP Middle East

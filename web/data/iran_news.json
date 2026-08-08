@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "source": "AP Middle East",
     "title": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news",
     "url": "https://apnews.com/article/mideast-news-roundup-iran-lebanon-israel-aug-6-2026-07074f3374339a34bc539f56d7d6287a",
@@ -9,7 +9,16 @@
     "summary": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news"
   },
   {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
+    "source": "AP Middle East",
+    "title": "Iran makes dramatic new demands around Strait of Hormuz",
+    "url": "https://apnews.com/article/yemen-houthis-turkey-kurdish-peace-mideast-roundup-aug-8-2026-feb75871fb82c44b3f7fd0ee02bb24b4",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran makes dramatic new demands around Strait of Hormuz"
+  },
+  {
+    "date": "2026-08-08",
     "source": "AP Middle East",
     "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
     "url": "https://apnews.com/article/iran-trump-strait-hormuz-diplomacy-stockpiles-0220ceb7904e16c30869c8fe4cf2a3db",
@@ -18,7 +27,7 @@
     "summary": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump"
   },
   {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "source": "AP Middle East",
     "title": "Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say",
     "url": "https://apnews.com/article/iran-us-war-strait-hormuz-oman-diplomacy-6587f90f2ab5beec373ce5fabf637541",
@@ -27,7 +36,7 @@
     "summary": "Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say"
   },
   {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "source": "AP Middle East",
     "title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments",
     "url": "https://apnews.com/article/iran-us-hormuz-mideast-gaza-israel-palestinians-ff5f13230ab92b5ae3022f45b2585444",
@@ -36,7 +45,43 @@
     "summary": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments"
   },
   {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
+    "source": "Al Jazeera Iran",
+    "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+    "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties"
+  },
+  {
+    "date": "2026-08-08",
+    "source": "Al Jazeera Iran",
+    "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+    "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran deliberates Hormuz arrangement amid uncertain prospects with US"
+  },
+  {
+    "date": "2026-08-08",
+    "source": "Al Jazeera Iran",
+    "title": "Iran sets new conditions to reopen Hormuz, wants US to ‘correct behaviour’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran sets new conditions to reopen Hormuz, wants US to ‘correct behaviour’"
+  },
+  {
+    "date": "2026-08-08",
+    "source": "Al Jazeera Iran",
+    "title": "Syrian government condemns strike on ADNOC tanker in Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?update=4839054",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Syrian government condemns strike on ADNOC tanker in Hormuz"
+  },
+  {
+    "date": "2026-08-08",
     "source": "Al Jazeera Iran",
     "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
     "url": "https://www.aljazeera.com/news/2026/8/7/european-caution-slowing-us-push-for-hormuz-naval-coalition",
@@ -45,52 +90,7 @@
     "summary": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission"
   },
   {
-    "date": "2026-08-07",
-    "source": "Al Jazeera Iran",
-    "title": "‘Mecca Joint Defence Pact’ signed, as Hormuz deal ‘nears’",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "‘Mecca Joint Defence Pact’ signed, as Hormuz deal ‘nears’"
-  },
-  {
-    "date": "2026-08-07",
-    "source": "Al Jazeera Iran",
-    "title": "War on Iran: Iran and Oman agree on Strait of Hormuz deal",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "War on Iran: Iran and Oman agree on Strait of Hormuz deal"
-  },
-  {
-    "date": "2026-08-07",
-    "source": "Al Jazeera Iran",
-    "title": "Will the US-Iran war and Hormuz deadlock last for months?",
-    "url": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Will the US-Iran war and Hormuz deadlock last for months?"
-  },
-  {
-    "date": "2026-08-07",
-    "source": "Al Jazeera Iran",
-    "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
-    "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Hormuz deal ‘close’: What’s the latest on each side’s positions?"
-  },
-  {
-    "date": "2026-08-07",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Trump says war to end ‘pretty soon’, Hormuz deal nears",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war updates: Trump says war to end ‘pretty soon’, Hormuz deal nears"
-  },
-  {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "source": "AP Middle East",
     "title": "How the Iran-backed Houthis’ claims of deadly attacks are stoking fears of a wider regional conflict",
     "url": "https://apnews.com/article/yemen-houthis-attacks-iran-us-explainer-6d79ab62dc697281ba5be0352e95b2c5",
@@ -99,7 +99,7 @@
     "summary": "How the Iran-backed Houthis’ claims of deadly attacks are stoking fears of a wider regional conflict"
   },
   {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "source": "AP Middle East",
     "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East",
     "url": "https://apnews.com/article/mideast-iran-us-israel-palestinians-gaza-3b92568b6f2eec283eb51d0327ee682a",
@@ -108,7 +108,7 @@
     "summary": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East"
   },
   {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "source": "AP Middle East",
     "title": "What to know about Iran’s Pickaxe Mountain, home to an underground nuclear site threatened by Trump",
     "url": "https://apnews.com/article/iran-us-war-pickaxe-mountain-nuclear-underground-what-to-know-2df2cbdbab7e21ba26e41cacdfa84e7c",
