@@ -1,24 +1,24 @@
-# Iran Daily Report - 2026-08-11
+# Iran Daily Report - 2026-08-12
 
 ## 1. Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news
 - ソース: AP Middle East
 - URL: https://apnews.com/article/mideast-news-roundup-iran-lebanon-israel-aug-6-2026-07074f3374339a34bc539f56d7d6287a
 
-## 2. Pakistan interior minister in Tehran amid talks to reopen Hormuz
+## 2. Iran rejects Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks
+
+## 3. Pakistan interior minister in Tehran amid talks to reopen Hormuz
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz
 
-## 3. Iran, US set new conditions during Hormuz talks: What does this mean?
+## 4. Iran, US set new conditions during Hormuz talks: What does this mean?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean
 
-## 4. Trump demands compensation from Iran as talks on Strait of Hormuz continue
+## 5. Trump demands compensation from Iran as talks on Strait of Hormuz continue
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue
-
-## 5. Pakistan’s interior minister in Iran as Hormuz talks advance
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation
 
 ## 6. Iran makes dramatic new demands around Strait of Hormuz
 - ソース: AP Middle East
@@ -32,26 +32,30 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-hormuz-mideast-gaza-israel-palestinians-ff5f13230ab92b5ae3022f45b2585444
 
-## 9. Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
+## 9. As Strait of Hormuz transit drops, Trump again says US has ‘control’
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran
+- URL: https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control
 
-## 10. Iranian, German foreign ministers hold phone call on Hormuz
+## 10. Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?update=4844423
+- URL: https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran
 
-## 11. Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast
+## 11. Iran calls for environmental protections in future Hormuz administration
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?update=4850175
+
+## 12. Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-strait-hormuz-august-11-2026-91e4efdfe1ac035b2065127550377289
 
-## 12. Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
+## 13. Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
 - ソース: AP Middle East
 - URL: https://apnews.com/article/trump-iran-sanctions-d96e3bf53eb4050097e6cab128db82cb
 
-## 13. Trump optimistic Iran talks will reopen strait, and other developments in the Middle East
+## 14. Trump optimistic Iran talks will reopen strait, and other developments in the Middle East
 - ソース: AP Middle East
 - URL: https://apnews.com/article/mideast-iran-us-israel-palestinians-gaza-3b92568b6f2eec283eb51d0327ee682a
 
-## 14. Iran: US sanctions reflect a ‘compulsive addiction,’ not a policy
+## 15. Israel bombs Lebanon, Gaza, as mediators push for US-Iran talks
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?update=4844212
+- URL: https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade
