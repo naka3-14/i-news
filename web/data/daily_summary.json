@@ -1,39 +1,41 @@
 {
-  "date": "2026-08-17",
-  "updated_at": "2026-08-17 07:32",
-  "headline_summary": "ホルムズ海峡で複数のタンカー攻撃が発生し、地域情勢が不安定化している。国際社会は緊張を高めている。",
+  "date": "2026-08-18",
+  "updated_at": "2026-08-18 07:35",
+  "headline_summary": "Groq要約に失敗したため、簡易要約を表示しています。(Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it)",
   "top_topics": [
     {
-      "title": "ホルムズ海峡攻撃",
-      "summary": "UAEの2つのタンカーがホルムズ海峡で攻撃を受け、地域情勢が不安定化している。"
+      "title": "2 UAE tankers attacked while tra",
+      "summary": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East"
     },
     {
-      "title": "ホルムズ海峡の再開",
-      "summary": "イランとオマーンはホルムズ海峡の再開について交渉を進めているが、詳細は明らかになっていない。"
+      "title": "Possible Strait of Hormuz deal, ",
+      "summary": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news"
     },
     {
-      "title": "トランプ大統領の発言",
-      "summary": "トランプ大統領はホルムズ海峡をアメリカの領土と宣言する意向を示しているが、実現性は不明である。"
+      "title": "Erdogan calls for Strait of Horm",
+      "summary": "Erdogan calls for Strait of Hormuz reopening amid oil disruption"
     }
   ],
   "impact_on_japan": [
-    "日本のエネルギー輸入に影響を与える可能性があり、輸送費用の増加や供給量の減少につながる可能性がある。"
+    "ホルムズ海峡の緊張が強まると、日本向け原油輸送が遅れ、燃料調達コストが上がりやすくなります。",
+    "原油価格が上がると、ガソリン代や電気料金に反映され、家計負担が重くなります。",
+    "中東の軍事的緊張が強まると、日本政府はエネルギー確保や邦人保護を意識した対応を迫られます。"
   ],
   "ai_forecast": [
-    "ホルムズ海峡の再開が進む可能性があり、地域情勢の不安定化が続く可能性がある。",
-    "トランプ大統領の発言が実現する可能性があり、ホルムズ海峡の状況がさらに複雑化する可能性がある。",
-    "国際社会の緊張が高まり、ホルムズ海峡の状況がさらに不安定化する可能性がある。"
+    "停戦協議が続いても、周辺地域で攻撃が続けば交渉は不安定になりやすいです。",
+    "ホルムズ海峡の通航条件が厳しくなると、原油と物流コストへの反応がさらに強まりそうです。",
+    "市場は停戦期待と軍事リスクの両方を織り込みながら、値動きが荒くなりやすいです。"
   ],
   "diff": {
     "new_topics": [
+      "2 UAE tankers attacked while tra",
+      "Erdogan calls for Strait of Horm",
+      "Possible Strait of Hormuz deal,"
+    ],
+    "removed_topics": [
       "トランプ大統領の発言",
       "ホルムズ海峡の再開",
       "ホルムズ海峡攻撃"
-    ],
-    "removed_topics": [
-      "イランとアメリカの対立",
-      "ホルムズ海峡の状況",
-      "安全保障の懸念"
     ]
   }
 }
