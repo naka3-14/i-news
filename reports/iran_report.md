@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-08-18
+# Iran Daily Report - 2026-08-19
 
 ## 1. 2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East
 - ソース: AP Middle East
@@ -32,9 +32,9 @@
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says
 
-## 9. Trump calls on Iran to surrender, threatens Oman over Strait of Hormuz
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires
+## 9. United Arab Emirates suspends trade with Iran after coming under renewed missile fire
+- ソース: AP Middle East
+- URL: https://apnews.com/article/iran-united-arab-emirates-trade-august-19-2026-47c95fe382c49289ab0419310b6d8057
 
 ## 10. Trump says US has no talks planned with Iran and other news from the Middle East
 - ソース: AP Middle East
@@ -44,10 +44,18 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/mideast-iran-us-israel-palestinians-gaza-3b92568b6f2eec283eb51d0327ee682a
 
-## 12. Iran prepares to keep economy alive as US threatens further sanctions
+## 12. UAE imposes indefinite trade embargo on Iran over alleged missile attacks
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks
+
+## 13. Trump to reopen Iran talks ‘at some point’; Israel kills 10 in Gaza
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging
+
+## 14. Iran prepares to keep economy alive as US threatens further sanctions
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions
 
-## 13. Tehran denies targeting UAE with missiles; Israel kills 7 people in Gaza
+## 15. Iran war updates: Tehran denies Iran targeted UAE with missiles
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz
