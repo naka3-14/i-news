@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-08-22
+# Iran Daily Report - 2026-08-23
 
 ## 1. 2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East
 - ソース: AP Middle East
@@ -20,17 +20,17 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/yemen-houthis-turkey-kurdish-peace-mideast-roundup-aug-8-2026-feb75871fb82c44b3f7fd0ee02bb24b4
 
-## 6. Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say
+## 6. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us
+
+## 7. Iran’s parliament advances plans for charging Hormuz service fees
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war
+
+## 8. Iran official says support for new sanctions would be an 'act of war,' and other Middle East news
 - ソース: AP Middle East
-- URL: https://apnews.com/article/iran-us-war-strait-hormuz-oman-diplomacy-6587f90f2ab5beec373ce5fabf637541
-
-## 7. Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support
-
-## 8. Trump says he views Strait of Hormuz as ‘American territory’
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?update=4873846
+- URL: https://apnews.com/article/middle-east-iran-israel-west-bank-august-23-2026-a3fff9eba47a5510060e8014b82d794f
 
 ## 9. Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions
 - ソース: AP Middle East
@@ -40,22 +40,26 @@
 - ソース: AP Middle East
 - URL: https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-18-2026-9c48af23b713709e8e170191fbc78c2a
 
-## 11. Iran says new US sanctions violate sovereignty of other states
+## 11. Will Donald Trump’s new sanctions against Iran work?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work
+
+## 12. Iran’s government signals fuel price hike on eve of new US sanctions
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions
+
+## 13. Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm
+
+## 14. Iran says new US sanctions violate sovereignty of other states
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states
 
-## 12. Tehran says US sanctions on Iran ‘declaration of war’ on all nations
+## 15. Iran updates: Tehran says US sanctions ‘declaration of war’ on all nations
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war
 
-## 13. Trump: ‘We’re seeing what happens’ on sanctions for Iran
+## 16. Trump: ‘We’re seeing what happens’ on sanctions for Iran
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital
-
-## 14. US designates Hezbollah an Iranian proxy, sanctions funding network
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network
-
-## 15. Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets
