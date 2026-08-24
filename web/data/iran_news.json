@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "AP Middle East",
     "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East",
     "url": "https://apnews.com/article/iran-uae-us-strait-hormuz-august-14-2026-e8565c608ac5283ec8103c85df924b13",
@@ -9,7 +9,7 @@
     "summary": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "AP Middle East",
     "title": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news",
     "url": "https://apnews.com/article/mideast-news-roundup-iran-lebanon-israel-aug-6-2026-07074f3374339a34bc539f56d7d6287a",
@@ -18,16 +18,7 @@
     "summary": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news"
   },
   {
-    "date": "2026-08-23",
-    "source": "Al Jazeera Iran",
-    "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz"
-  },
-  {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "AP Middle East",
     "title": "Trump threatens Oman as it works with Iran on a Strait of Hormuz deal, and other Middle East news",
     "url": "https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-17-2026-53ae10812e472a4e5bb228b9f318a5fc",
@@ -36,7 +27,7 @@
     "summary": "Trump threatens Oman as it works with Iran on a Strait of Hormuz deal, and other Middle East news"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "AP Middle East",
     "title": "Iran makes dramatic new demands around Strait of Hormuz",
     "url": "https://apnews.com/article/yemen-houthis-turkey-kurdish-peace-mideast-roundup-aug-8-2026-feb75871fb82c44b3f7fd0ee02bb24b4",
@@ -45,7 +36,7 @@
     "summary": "Iran makes dramatic new demands around Strait of Hormuz"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "Al Jazeera Iran",
     "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
     "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us",
@@ -54,34 +45,43 @@
     "summary": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "Al Jazeera Iran",
-    "title": "Iran’s parliament advances plans for charging Hormuz service fees",
+    "title": "Iran updates: Iranian parliament advances plans for Hormuz service fees",
     "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran’s parliament advances plans for charging Hormuz service fees"
+    "summary": "Iran updates: Iranian parliament advances plans for Hormuz service fees"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "AP Middle East",
-    "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
+    "title": "Iran warns of a harsh response as US announces new sanctions and other Middle East news",
+    "url": "https://apnews.com/article/middle-east-iran-israel-syria-august-24-2026-4c37df8a725b49eae2ab1672b4ae4201",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "Iran warns of a harsh response as US announces new sanctions and other Middle East news"
+  },
+  {
+    "date": "2026-08-24",
+    "source": "AP Middle East",
+    "title": "Photos of daily life in Tehran as Iran braces for new US sanctions",
+    "url": "https://apnews.com/photo-gallery/photos-daily-life-tehran-iran-braces-new-sanctions-f4d0853c816e4e14b846e92040020d81",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "Photos of daily life in Tehran as Iran braces for new US sanctions"
+  },
+  {
+    "date": "2026-08-24",
+    "source": "AP Middle East",
+    "title": "Iran official says support for new sanctions would be an ‘act of war,’ and other Middle East news",
     "url": "https://apnews.com/article/middle-east-iran-israel-west-bank-august-23-2026-a3fff9eba47a5510060e8014b82d794f",
     "category": "制裁",
     "importance": 3,
-    "summary": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news"
+    "summary": "Iran official says support for new sanctions would be an ‘act of war,’ and other Middle East news"
   },
   {
-    "date": "2026-08-23",
-    "source": "AP Middle East",
-    "title": "Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions",
-    "url": "https://apnews.com/article/iran-war-trump-sanctions-economic-fury-oil-d28206ea288a3d4a9b82260ab44ce460",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions"
-  },
-  {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "AP Middle East",
     "title": "Trump says US has no talks planned with Iran and other news from the Middle East",
     "url": "https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-18-2026-9c48af23b713709e8e170191fbc78c2a",
@@ -90,7 +90,52 @@
     "summary": "Trump says US has no talks planned with Iran and other news from the Middle East"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
+    "source": "Al Jazeera Iran",
+    "title": "Trump administration announces ‘economic D-day’ sanctions on Iran",
+    "url": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "Trump administration announces ‘economic D-day’ sanctions on Iran"
+  },
+  {
+    "date": "2026-08-24",
+    "source": "Al Jazeera Iran",
+    "title": "US threatens toughest sanctions yet against Iran: What we know",
+    "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "US threatens toughest sanctions yet against Iran: What we know"
+  },
+  {
+    "date": "2026-08-24",
+    "source": "Al Jazeera Iran",
+    "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
+    "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?"
+  },
+  {
+    "date": "2026-08-24",
+    "source": "Al Jazeera Iran",
+    "title": "‘We know this movie’: Iran mocks latest US sanctions",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "‘We know this movie’: Iran mocks latest US sanctions"
+  },
+  {
+    "date": "2026-08-24",
+    "source": "Al Jazeera Iran",
+    "title": "US announces new sanctions against Iran, Trump asks allies to join",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "US announces new sanctions against Iran, Trump asks allies to join"
+  },
+  {
+    "date": "2026-08-24",
     "source": "Al Jazeera Iran",
     "title": "Will Donald Trump’s new sanctions against Iran work?",
     "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work",
@@ -99,7 +144,7 @@
     "summary": "Will Donald Trump’s new sanctions against Iran work?"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "Al Jazeera Iran",
     "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
     "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions",
@@ -108,39 +153,12 @@
     "summary": "Iran’s government signals fuel price hike on eve of new US sanctions"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "source": "Al Jazeera Iran",
     "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm",
     "category": "制裁",
     "importance": 3,
     "summary": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions"
-  },
-  {
-    "date": "2026-08-23",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says new US sanctions violate sovereignty of other states",
-    "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Iran says new US sanctions violate sovereignty of other states"
-  },
-  {
-    "date": "2026-08-23",
-    "source": "Al Jazeera Iran",
-    "title": "Iran updates: Tehran says US sanctions ‘declaration of war’ on all nations",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Iran updates: Tehran says US sanctions ‘declaration of war’ on all nations"
-  },
-  {
-    "date": "2026-08-23",
-    "source": "Al Jazeera Iran",
-    "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Trump: ‘We’re seeing what happens’ on sanctions for Iran"
   }
 ]
