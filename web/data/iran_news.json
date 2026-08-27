@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-08-25",
+    "date": "2026-08-27",
     "source": "Al Jazeera Iran",
     "title": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
     "url": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach",
@@ -9,7 +9,34 @@
     "summary": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-08-27",
+    "source": "Al Jazeera Iran",
+    "title": "Why Hormuz remains high risk for ships despite US claims of mine-clearing",
+    "url": "https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Why Hormuz remains high risk for ships despite US claims of mine-clearing"
+  },
+  {
+    "date": "2026-08-27",
+    "source": "Al Jazeera Iran",
+    "title": "Iran, Oman agree on temporary Hormuz route: What we know",
+    "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran, Oman agree on temporary Hormuz route: What we know"
+  },
+  {
+    "date": "2026-08-27",
+    "source": "Al Jazeera Iran",
+    "title": "Iran, Oman agree on new temporary route in Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran, Oman agree on new temporary route in Hormuz"
+  },
+  {
+    "date": "2026-08-27",
     "source": "Al Jazeera Iran",
     "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz",
@@ -18,25 +45,43 @@
     "summary": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-08-27",
     "source": "Al Jazeera Iran",
-    "title": "Tehran says agreement with Oman on Hormuz route does not mean strait open",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Tehran says agreement with Oman on Hormuz route does not mean strait open"
+    "title": "Qatar PM to visit Tehran as Trump says US ‘not in a hurry’ over Iran talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Qatar PM to visit Tehran as Trump says US ‘not in a hurry’ over Iran talks"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-08-27",
     "source": "Al Jazeera Iran",
-    "title": "How US sanctions on Iran ripple through global markets and consumers",
-    "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers",
+    "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
+    "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks"
+  },
+  {
+    "date": "2026-08-27",
+    "source": "Al Jazeera Iran",
+    "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
+    "url": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work",
     "category": "制裁",
-    "importance": 4,
-    "summary": "How US sanctions on Iran ripple through global markets and consumers"
+    "importance": 3,
+    "summary": "Trump threatens Iran’s partners: How do secondary sanctions work?"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-08-27",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Trump says US ‘not in a hurry’ over talks with Tehran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran war updates: Trump says US ‘not in a hurry’ over talks with Tehran"
+  },
+  {
+    "date": "2026-08-27",
     "source": "Al Jazeera Iran",
     "title": "New US sanctions signal Trump desperation on Iran, experts say",
     "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say",
@@ -45,7 +90,7 @@
     "summary": "New US sanctions signal Trump desperation on Iran, experts say"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-08-27",
     "source": "Al Jazeera Iran",
     "title": "Qatar says US sanctions on Iran are unilateral",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral",
@@ -54,57 +99,12 @@
     "summary": "Qatar says US sanctions on Iran are unilateral"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-08-27",
     "source": "Al Jazeera Iran",
     "title": "China says will safeguard its own interests as US expands Iran sanctions",
     "url": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions",
     "category": "制裁",
     "importance": 3,
     "summary": "China says will safeguard its own interests as US expands Iran sanctions"
-  },
-  {
-    "date": "2026-08-25",
-    "source": "Al Jazeera Iran",
-    "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
-    "url": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?"
-  },
-  {
-    "date": "2026-08-25",
-    "source": "Al Jazeera Iran",
-    "title": "How the US sanctions on Iran impact China",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "How the US sanctions on Iran impact China"
-  },
-  {
-    "date": "2026-08-25",
-    "source": "Al Jazeera Iran",
-    "title": "Can Pakistani army chief make Iran’s military leaders restart US talks?",
-    "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Can Pakistani army chief make Iran’s military leaders restart US talks?"
-  },
-  {
-    "date": "2026-08-25",
-    "source": "Al Jazeera Iran",
-    "title": "Pakistan says significant progress made in talks on Iran-US war",
-    "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Pakistan says significant progress made in talks on Iran-US war"
-  },
-  {
-    "date": "2026-08-25",
-    "source": "Al Jazeera Iran",
-    "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Video: Iran reacts to US ‘economic D-Day’ sanctions"
   }
 ]
