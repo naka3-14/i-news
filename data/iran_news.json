@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "source": "Al Jazeera Iran",
     "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
     "url": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume",
@@ -9,7 +9,16 @@
     "summary": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
+    "source": "Al Jazeera Iran",
+    "title": "IRGC asserts strict Hormuz control as the US maintains its naval blockade",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "IRGC asserts strict Hormuz control as the US maintains its naval blockade"
+  },
+  {
+    "date": "2026-08-29",
     "source": "Al Jazeera Iran",
     "title": "Iran says it will name its terms for reopening Strait of Hormuz",
     "url": "https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz",
@@ -18,16 +27,16 @@
     "summary": "Iran says it will name its terms for reopening Strait of Hormuz"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "source": "Al Jazeera Iran",
-    "title": "Iran to draft conditions to open Hormuz following mediator requests",
+    "title": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran to draft conditions to open Hormuz following mediator requests"
+    "summary": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "source": "Al Jazeera Iran",
     "title": "How a 95 percent drop in Hormuz traffic changed global shipping",
     "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping",
@@ -36,7 +45,7 @@
     "summary": "How a 95 percent drop in Hormuz traffic changed global shipping"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: Tehran says preparing list of conditions to open Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue",
@@ -45,7 +54,7 @@
     "summary": "Iran war updates: Tehran says preparing list of conditions to open Hormuz"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "source": "Al Jazeera Iran",
     "title": "Why Hormuz remains high risk for ships despite US claims of mine-clearing",
     "url": "https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing",
@@ -54,30 +63,12 @@
     "summary": "Why Hormuz remains high risk for ships despite US claims of mine-clearing"
   },
   {
-    "date": "2026-08-28",
-    "source": "Al Jazeera Iran",
-    "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-    "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran, Oman agree on temporary Hormuz route: What we know"
-  },
-  {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "source": "Al Jazeera Iran",
     "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
     "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks",
     "category": "外交",
     "importance": 3,
     "summary": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks"
-  },
-  {
-    "date": "2026-08-28",
-    "source": "Al Jazeera Iran",
-    "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
-    "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks"
   }
 ]
