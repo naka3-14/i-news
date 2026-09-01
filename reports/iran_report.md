@@ -1,29 +1,25 @@
-# Iran Daily Report - 2026-08-31
+# Iran Daily Report - 2026-09-01
 
-## 1. Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume
+## 1. Can Iran use rockets to mine the Strait of Hormuz, as US claims?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume
+- URL: https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims
 
-## 2. Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
+## 2. UAE intercepts drone after US and Iran exchange attacks
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist
+- URL: https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks
 
-## 3. Iran says it will name its terms for reopening Strait of Hormuz
+## 3. Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest
 
-## 4. Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz
+## 4. Iran targets Jordan after first US attack in a month
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz
+- URL: https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month
 
-## 5. US strikes Iran’s Larak Island in first attack in weeks
+## 5. US plans to sanction another bank to keep economic pressure on Iran
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks
+- URL: https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran
 
 ## 6. What’s behind the US move to hit Egyptian bank with Iran sanctions?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know
-
-## 7. Iran war updates: Iran pledges to stand firm against ‘unjust’ US sanctions
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade

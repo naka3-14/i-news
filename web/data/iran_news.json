@@ -1,65 +1,56 @@
 [
   {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "source": "Al Jazeera Iran",
-    "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
-    "url": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume"
-  },
-  {
-    "date": "2026-08-31",
-    "source": "Al Jazeera Iran",
-    "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-    "url": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist",
+    "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
+    "url": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist"
+    "summary": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?"
   },
   {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "source": "Al Jazeera Iran",
-    "title": "Iran says it will name its terms for reopening Strait of Hormuz",
-    "url": "https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran says it will name its terms for reopening Strait of Hormuz"
-  },
-  {
-    "date": "2026-08-31",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz"
-  },
-  {
-    "date": "2026-08-31",
-    "source": "Al Jazeera Iran",
-    "title": "US strikes Iran’s Larak Island in first attack in weeks",
-    "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks",
+    "title": "UAE intercepts drone after US and Iran exchange attacks",
+    "url": "https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks",
     "category": "軍事",
     "importance": 3,
-    "summary": "US strikes Iran’s Larak Island in first attack in weeks"
+    "summary": "UAE intercepts drone after US and Iran exchange attacks"
   },
   {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
+    "source": "Al Jazeera Iran",
+    "title": "Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?",
+    "url": "https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?"
+  },
+  {
+    "date": "2026-09-01",
+    "source": "Al Jazeera Iran",
+    "title": "Iran targets Jordan after first US attack in a month",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran targets Jordan after first US attack in a month"
+  },
+  {
+    "date": "2026-09-01",
+    "source": "Al Jazeera Iran",
+    "title": "US plans to sanction another bank to keep economic pressure on Iran",
+    "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "US plans to sanction another bank to keep economic pressure on Iran"
+  },
+  {
+    "date": "2026-09-01",
     "source": "Al Jazeera Iran",
     "title": "What’s behind the US move to hit Egyptian bank with Iran sanctions?",
     "url": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know",
     "category": "制裁",
     "importance": 3,
     "summary": "What’s behind the US move to hit Egyptian bank with Iran sanctions?"
-  },
-  {
-    "date": "2026-08-31",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Iran pledges to stand firm against ‘unjust’ US sanctions",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Iran war updates: Iran pledges to stand firm against ‘unjust’ US sanctions"
   }
 ]
