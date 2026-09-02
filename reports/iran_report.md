@@ -1,25 +1,49 @@
-# Iran Daily Report - 2026-09-01
+# Iran Daily Report - 2026-09-02
 
-## 1. Can Iran use rockets to mine the Strait of Hormuz, as US claims?
+## 1. SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit
+
+## 2. G20 finance leaders, except China, demand ‘free, safe’ transit through Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908655
+
+## 3. Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes
+
+## 4. Can Iran use rockets to mine the Strait of Hormuz, as US claims?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims
 
-## 2. UAE intercepts drone after US and Iran exchange attacks
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks
+## 5. Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz
+- ソース: Al Jazeera Middle East
+- URL: https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz
 
-## 3. Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?
+## 6. Urgent need for access to Iranian sites, cautions UN nuclear watchdog
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest
+- URL: https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog
 
-## 4. Iran targets Jordan after first US attack in a month
+## 7. Iran says it responded with missiles to US attack despite Trump’s threats
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month
+- URL: https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran
 
-## 5. US plans to sanction another bank to keep economic pressure on Iran
+## 8. Why China will not comply with US sanctions on Iran
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran
+- URL: https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran
 
-## 6. What’s behind the US move to hit Egyptian bank with Iran sanctions?
+## 9. Duolingo D-Day: Iranians question latest US sanctions targeting education
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know
+- URL: https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education
+
+## 10. Iran vows ‘severe punishment’ for US attacks, Trump warns against response
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month
+
+## 11. Iran’s IRGC claims ballistic missile strike on US drone hangars in Jordan
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908825
+
+## 12. Four killed in attack on wedding in Iran’s Sirik region
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908641
