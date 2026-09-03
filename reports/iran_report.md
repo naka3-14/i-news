@@ -1,12 +1,12 @@
 # Iran Daily Report - 2026-09-03
 
-## 1. Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
+## 1. How much oil is going through Hormuz? Why data doesn’t match US claims
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims
+
+## 2. Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz
-
-## 2. SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit
 
 ## 3. Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
 - ソース: Al Jazeera Iran
@@ -23,11 +23,3 @@
 ## 6. Iran, US exchange new attacks: Who was hit in latest strikes?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes
-
-## 7. UN watchdog urges access to Iran nuclear sites over proliferation concerns
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog
-
-## 8. Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran

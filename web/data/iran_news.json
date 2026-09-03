@@ -2,20 +2,20 @@
   {
     "date": "2026-09-03",
     "source": "Al Jazeera Iran",
+    "title": "How much oil is going through Hormuz? Why data doesn’t match US claims",
+    "url": "https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "How much oil is going through Hormuz? Why data doesn’t match US claims"
+  },
+  {
+    "date": "2026-09-03",
+    "source": "Al Jazeera Iran",
     "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz",
     "category": "ホルムズ海峡",
     "importance": 5,
     "summary": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz"
-  },
-  {
-    "date": "2026-09-03",
-    "source": "Al Jazeera Iran",
-    "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
-    "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
-    "category": "制裁",
-    "importance": 5,
-    "summary": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit"
   },
   {
     "date": "2026-09-03",
@@ -52,23 +52,5 @@
     "category": "軍事",
     "importance": 3,
     "summary": "Iran, US exchange new attacks: Who was hit in latest strikes?"
-  },
-  {
-    "date": "2026-09-03",
-    "source": "Al Jazeera Iran",
-    "title": "UN watchdog urges access to Iran nuclear sites over proliferation concerns",
-    "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "UN watchdog urges access to Iran nuclear sites over proliferation concerns"
-  },
-  {
-    "date": "2026-09-03",
-    "source": "Al Jazeera Iran",
-    "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
-    "url": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11"
   }
 ]
