@@ -1,49 +1,33 @@
-# Iran Daily Report - 2026-09-02
+# Iran Daily Report - 2026-09-03
 
-## 1. SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit
+## 1. Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz
+
+## 2. SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit
 
-## 2. G20 finance leaders, except China, demand ‘free, safe’ transit through Strait of Hormuz
+## 3. Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908655
+- URL: https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran
 
-## 3. Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz
+## 4. Trump says US sees ‘everything’ Iran does, threatens further attacks
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes
+- URL: https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip
 
-## 4. Can Iran use rockets to mine the Strait of Hormuz, as US claims?
+## 5. What is Iran’s Castle Breaker missile, used against US bases?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims
+- URL: https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases
 
-## 5. Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz
+## 6. Iran, US exchange new attacks: Who was hit in latest strikes?
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes
 
-## 6. Urgent need for access to Iranian sites, cautions UN nuclear watchdog
+## 7. UN watchdog urges access to Iran nuclear sites over proliferation concerns
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog
 
-## 7. Iran says it responded with missiles to US attack despite Trump’s threats
+## 8. Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran
-
-## 8. Why China will not comply with US sanctions on Iran
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran
-
-## 9. Duolingo D-Day: Iranians question latest US sanctions targeting education
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education
-
-## 10. Iran vows ‘severe punishment’ for US attacks, Trump warns against response
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month
-
-## 11. Iran’s IRGC claims ballistic missile strike on US drone hangars in Jordan
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908825
-
-## 12. Four killed in attack on wedding in Iran’s Sirik region
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908641

@@ -1,41 +1,41 @@
 {
-  "date": "2026-09-02",
-  "updated_at": "2026-09-02 09:02",
-  "headline_summary": "SCOの会合でイランへの攻撃と制裁を非難し、G20の金融首脳はホルムズ海峡を自由かつ安全に通過できるよう求めた。米国はイランに対する攻撃を警告し、船舶護衛を強化した一方、イランはミサイルで報復し、さらに米国の教育関連制裁に異議を唱えている。中国は米国制裁に従わない姿勢を示し、クアラルンプールは戦争終結と海峡再開に向けた努力を表明した。",
+  "date": "2026-09-03",
+  "updated_at": "2026-09-03 09:05",
+  "headline_summary": "Saudi Arabia condemned an Iranian attack on a tanker in the Strait of Hormuz, while the SCO criticized Iran’s actions and sanctions. US President Trump has publicly threatened further attacks and even suggested renaming the strait. The situation has escalated with new missile strikes and calls for access to Iranian nuclear sites.",
   "top_topics": [
     {
-      "title": "ホルムズ海峡の安全",
-      "summary": "G20と米国がイランの行動を懸念し、海峡を自由かつ安全に通過できるよう求め、米国は護衛艦隊を派遣した。"
+      "title": "Iran–Saudi Tensions",
+      "summary": "Saudi Arabia condemned an Iranian attack on a tanker in the Strait of Hormuz, heightening regional security concerns."
     },
     {
-      "title": "イランへの制裁と中国の姿勢",
-      "summary": "米国はイランに対する制裁を強化し、教育関連の制裁も導入したが、中国はこれに従わないと表明した。"
+      "title": "US–Iran Military Escalation",
+      "summary": "Trump has threatened further US attacks and highlighted Iran's missile capabilities, while recent strikes have been exchanged."
     },
     {
-      "title": "国際的な外交努力",
-      "summary": "クアラルンプールは米国とイランの戦争終結と海峡再開に向けた交渉を進めると発表した。"
+      "title": "International Sanctions & Nuclear Oversight",
+      "summary": "The SCO criticized sanctions on Iran, and the UN watchdog urged access to Iranian nuclear sites amid proliferation concerns."
     }
   ],
   "impact_on_japan": [
-    "日本の原油輸入はホルムズ海峡を経由しているため、海峡の混乱が輸入コストを上昇させる可能性がある。",
-    "日本企業がイランで事業を行っている場合、米国制裁の対象となり、取引停止や資金凍結のリスクが高まる。",
-    "米国の教育関連制裁が拡大すると、日本の教育機関や留学生に対するビザ発給や奨学金支援に影響が出る恐れがある。"
+    "Shipping routes: The Strait of Hormuz is a critical chokepoint for Japanese oil imports; heightened tensions could increase transit risks and insurance costs.",
+    "Energy security: Disruptions could lead to higher crude prices, affecting Japan's energy budget and industrial costs.",
+    "Diplomatic relations: Japan may need to navigate between US and regional partners, potentially adjusting its foreign policy stance."
   ],
   "ai_forecast": [
-    "米国とイランの対立が激化すれば、ホルムズ海峡でのミサイル攻撃や海上封鎖のリスクが高まり、国際航路の再編が進む可能性がある。",
-    "中国が米国制裁に従わない姿勢を維持すれば、イランへの経済的圧力は限定的であり、イランは代替市場を拡大する動きを強めるかもしれない。",
-    "クアラルンプールの外交努力が実を結べば、海峡の再開が早期に実現し、輸送コストは緩やかに低下するが、完全な安定には数年の時間が必要となる。"
+    "Shipping insurance premiums for vessels transiting the Strait of Hormuz may rise, increasing costs for Japanese importers.",
+    "Japan may seek to diversify its energy supply routes, potentially accelerating LNG imports from alternative sources.",
+    "Diplomatic pressure could lead Japan to engage more actively in multilateral talks to de-escalate tensions and secure access to Iranian nuclear sites."
   ],
   "diff": {
     "new_topics": [
+      "International Sanctions & Nuclear Oversight",
+      "Iran–Saudi Tensions",
+      "US–Iran Military Escalation"
+    ],
+    "removed_topics": [
       "イランへの制裁と中国の姿勢",
       "ホルムズ海峡の安全",
       "国際的な外交努力"
-    ],
-    "removed_topics": [
-      "イランの攻撃拡大",
-      "海上安全保障の懸念",
-      "米国・イランの制裁拡大"
     ]
   }
 }

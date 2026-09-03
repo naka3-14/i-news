@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
+    "source": "Al Jazeera Iran",
+    "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz"
+  },
+  {
+    "date": "2026-09-03",
     "source": "Al Jazeera Iran",
     "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
     "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
@@ -9,102 +18,57 @@
     "summary": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit"
   },
   {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "source": "Al Jazeera Iran",
-    "title": "G20 finance leaders, except China, demand ‘free, safe’ transit through Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908655",
+    "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+    "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "G20 finance leaders, except China, demand ‘free, safe’ transit through Strait of Hormuz"
+    "summary": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war"
   },
   {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "source": "Al Jazeera Iran",
-    "title": "Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz"
+    "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Trump says US sees ‘everything’ Iran does, threatens further attacks"
   },
   {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "source": "Al Jazeera Iran",
-    "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
-    "url": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?"
+    "title": "What is Iran’s Castle Breaker missile, used against US bases?",
+    "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "What is Iran’s Castle Breaker missile, used against US bases?"
   },
   {
-    "date": "2026-09-02",
-    "source": "Al Jazeera Middle East",
-    "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz"
-  },
-  {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "source": "Al Jazeera Iran",
-    "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+    "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+    "url": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran, US exchange new attacks: Who was hit in latest strikes?"
+  },
+  {
+    "date": "2026-09-03",
+    "source": "Al Jazeera Iran",
+    "title": "UN watchdog urges access to Iran nuclear sites over proliferation concerns",
     "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog",
     "category": "核問題",
     "importance": 3,
-    "summary": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog"
+    "summary": "UN watchdog urges access to Iran nuclear sites over proliferation concerns"
   },
   {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "source": "Al Jazeera Iran",
-    "title": "Iran says it responded with missiles to US attack despite Trump’s threats",
+    "title": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11",
     "url": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran",
     "category": "軍事",
     "importance": 3,
-    "summary": "Iran says it responded with missiles to US attack despite Trump’s threats"
-  },
-  {
-    "date": "2026-09-02",
-    "source": "Al Jazeera Iran",
-    "title": "Why China will not comply with US sanctions on Iran",
-    "url": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Why China will not comply with US sanctions on Iran"
-  },
-  {
-    "date": "2026-09-02",
-    "source": "Al Jazeera Iran",
-    "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
-    "url": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Duolingo D-Day: Iranians question latest US sanctions targeting education"
-  },
-  {
-    "date": "2026-09-02",
-    "source": "Al Jazeera Iran",
-    "title": "Iran vows ‘severe punishment’ for US attacks, Trump warns against response",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran vows ‘severe punishment’ for US attacks, Trump warns against response"
-  },
-  {
-    "date": "2026-09-02",
-    "source": "Al Jazeera Iran",
-    "title": "Iran’s IRGC claims ballistic missile strike on US drone hangars in Jordan",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908825",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran’s IRGC claims ballistic missile strike on US drone hangars in Jordan"
-  },
-  {
-    "date": "2026-09-02",
-    "source": "Al Jazeera Iran",
-    "title": "Four killed in attack on wedding in Iran’s Sirik region",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?update=4908641",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Four killed in attack on wedding in Iran’s Sirik region"
+    "summary": "Iran claims attacks on Bahrain, Jordan, Iraq after US strikes kill 11"
   }
 ]
