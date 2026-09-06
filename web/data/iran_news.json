@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
+    "source": "Al Jazeera Iran",
+    "title": "Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days"
+  },
+  {
+    "date": "2026-09-06",
     "source": "Al Jazeera Iran",
     "title": "US says it hit three Iranian oil tankers after attacks on warships",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships",
@@ -9,25 +18,16 @@
     "summary": "US says it hit three Iranian oil tankers after attacks on warships"
   },
   {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "source": "Al Jazeera Iran",
-    "title": "South Korea mulls ‘contributions’ in Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "South Korea mulls ‘contributions’ in Strait of Hormuz"
-  },
-  {
-    "date": "2026-09-05",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Trump says US may attack Iran’s Pickaxe Mountain soon",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop",
-    "category": "軍事",
+    "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
+    "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran",
+    "category": "核問題",
     "importance": 3,
-    "summary": "Iran war updates: Trump says US may attack Iran’s Pickaxe Mountain soon"
+    "summary": "Trump official says ‘there may not be a nuclear agreement’ with Iran"
   },
   {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "source": "Al Jazeera Iran",
     "title": "US says it hit Iran oil tankers accused of helping ‘regional proxies’",
     "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies",
