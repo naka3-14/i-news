@@ -1,15 +1,51 @@
 [
   {
-    "date": "2026-09-06",
+    "date": "2026-09-08",
     "source": "Al Jazeera Iran",
-    "title": "Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days",
+    "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "Al Jazeera Iran",
+    "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+    "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Can Iran enforce a restricted zone in the Strait of Hormuz?"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "Al Jazeera Iran",
+    "title": "Iran to announce restricted zone outside Strait of Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran to announce restricted zone outside Strait of Hormuz"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "Al Jazeera Iran",
+    "title": "Hormuz shipping traffic falls sharply as US insists waterway ‘fully open’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Hormuz shipping traffic falls sharply as US insists waterway ‘fully open’"
+  },
+  {
+    "date": "2026-09-08",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
     "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran to announce restricted zone outside Strait ⁠of Hormuz in coming days"
+    "summary": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait"
   },
   {
-    "date": "2026-09-06",
+    "date": "2026-09-08",
     "source": "Al Jazeera Iran",
     "title": "US says it hit three Iranian oil tankers after attacks on warships",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships",
@@ -18,21 +54,12 @@
     "summary": "US says it hit three Iranian oil tankers after attacks on warships"
   },
   {
-    "date": "2026-09-06",
+    "date": "2026-09-08",
     "source": "Al Jazeera Iran",
     "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
     "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran",
     "category": "核問題",
     "importance": 3,
     "summary": "Trump official says ‘there may not be a nuclear agreement’ with Iran"
-  },
-  {
-    "date": "2026-09-06",
-    "source": "Al Jazeera Iran",
-    "title": "US says it hit Iran oil tankers accused of helping ‘regional proxies’",
-    "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies",
-    "category": "市場",
-    "importance": 2,
-    "summary": "US says it hit Iran oil tankers accused of helping ‘regional proxies’"
   }
 ]
