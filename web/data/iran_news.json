@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "Al Jazeera Iran",
     "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
     "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz",
@@ -9,7 +9,16 @@
     "summary": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz"
   },
   {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
+    "source": "Al Jazeera Iran",
+    "title": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
+    "url": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority"
+  },
+  {
+    "date": "2026-09-09",
     "source": "Al Jazeera Iran",
     "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
     "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz",
@@ -18,7 +27,7 @@
     "summary": "Can Iran enforce a restricted zone in the Strait of Hormuz?"
   },
   {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "Al Jazeera Iran",
     "title": "Iran to announce restricted zone outside Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926",
@@ -27,39 +36,66 @@
     "summary": "Iran to announce restricted zone outside Strait of Hormuz"
   },
   {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "source": "Al Jazeera Iran",
-    "title": "Hormuz shipping traffic falls sharply as US insists waterway ‘fully open’",
+    "title": "Iran war updates: Hormuz traffic falls as US insists waterway ‘fully open’",
     "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Hormuz shipping traffic falls sharply as US insists waterway ‘fully open’"
+    "summary": "Iran war updates: Hormuz traffic falls as US insists waterway ‘fully open’"
   },
   {
-    "date": "2026-09-08",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait"
-  },
-  {
-    "date": "2026-09-08",
-    "source": "Al Jazeera Iran",
-    "title": "US says it hit three Iranian oil tankers after attacks on warships",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships",
+    "date": "2026-09-09",
+    "source": "Al Jazeera Middle East",
+    "title": "US bombs five Iranian oil tankers after its navy is attacked",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked",
     "category": "軍事",
     "importance": 4,
-    "summary": "US says it hit three Iranian oil tankers after attacks on warships"
+    "summary": "US bombs five Iranian oil tankers after its navy is attacked"
   },
   {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
+    "source": "Al Jazeera Iran",
+    "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+    "url": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built",
+    "category": "外交",
+    "importance": 3,
+    "summary": "BRICS summit may be the only place another Iran ceasefire can be built"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Al Jazeera Iran",
+    "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+    "url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "IAEA warns over Iran nuclear access as Western powers push UN referral"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Al Jazeera Iran",
+    "title": "US attacks Iranian tankers, Iran launches missiles at US army in Jordan",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US attacks Iranian tankers, Iran launches missiles at US army in Jordan"
+  },
+  {
+    "date": "2026-09-09",
     "source": "Al Jazeera Iran",
     "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
     "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran",
     "category": "核問題",
     "importance": 3,
     "summary": "Trump official says ‘there may not be a nuclear agreement’ with Iran"
+  },
+  {
+    "date": "2026-09-09",
+    "source": "Al Jazeera Middle East",
+    "title": "US forces target Iranian tankers as IRGC retaliates with Jordan base attack",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "US forces target Iranian tankers as IRGC retaliates with Jordan base attack"
   }
 ]
