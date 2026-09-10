@@ -1,45 +1,41 @@
-# Iran Daily Report - 2026-09-09
+# Iran Daily Report - 2026-09-10
 
-## 1. Oil prices surge as US-Iran strikes intensify in Strait of Hormuz
+## 1. Why US-Iran war over Hormuz is threatening the Gulf’s waters
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters
 
-## 2. Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority
+## 2. US strikes five Iranian oil tankers, as Iran attacks 10 ships, Jordan base
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base
+
+## 3. US bombs five Iranian oil tankers after its navy is attacked
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked
+
+## 4. Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority
 
-## 3. Can Iran enforce a restricted zone in the Strait of Hormuz?
+## 5. IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program
 
-## 4. Iran to announce restricted zone outside Strait of Hormuz
+## 6. Brent crude surpasses $100 a barrel as Iran, US escalate attacks
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926
+- URL: https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel
 
-## 5. Iran war updates: Hormuz traffic falls as US insists waterway ‘fully open’
+## 7. Medicine shortages grow in Iran as US tightens sanctions, blockade
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days
+- URL: https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade
 
-## 6. US bombs five Iranian oil tankers after its navy is attacked
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked
+## 8. Jordanian air defences intercept Iranian missile barrage
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage
 
-## 7. BRICS summit may be the only place another Iran ceasefire can be built
+## 9. Next BRICS summit can get an Iran ceasefire
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built
 
-## 8. IAEA warns over Iran nuclear access as Western powers push UN referral
+## 10. IAEA warns over Iran nuclear access as Western powers push UN referral
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral
-
-## 9. US attacks Iranian tankers, Iran launches missiles at US army in Jordan
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues
-
-## 10. Trump official says ‘there may not be a nuclear agreement’ with Iran
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran
-
-## 11. US forces target Iranian tankers as IRGC retaliates with Jordan base attack
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan
