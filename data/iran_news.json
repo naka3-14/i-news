@@ -1,29 +1,47 @@
 [
   {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "source": "Al Jazeera Iran",
-    "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-    "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting",
+    "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
+    "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100",
     "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting"
+    "importance": 5,
+    "summary": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?"
   },
   {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
+    "source": "Al Jazeera Iran",
+    "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
+    "url": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Strait of Hormuz talks postponed due to Yemen events, says Iran"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Al Jazeera Iran",
+    "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+    "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Temporary Hormuz solution deferred as Iran-Arab summit falls through"
+  },
+  {
+    "date": "2026-09-15",
+    "source": "Al Jazeera Iran",
+    "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Why talks in Oman between Iran and Gulf Arab states were postponed"
+  },
+  {
+    "date": "2026-09-15",
     "source": "Al Jazeera Iran",
     "title": "Tehran and Muscat delay talks, citing regional consensus need",
     "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need",
     "category": "外交",
     "importance": 3,
     "summary": "Tehran and Muscat delay talks, citing regional consensus need"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Al Jazeera Iran",
-    "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran, UAE hold first talks at BRICS summit since conflict began"
   }
 ]
