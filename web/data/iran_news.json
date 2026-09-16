@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "source": "Al Jazeera Iran",
     "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
     "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100",
@@ -9,7 +9,7 @@
     "summary": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?"
   },
   {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "source": "Al Jazeera Iran",
     "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
     "url": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran",
@@ -18,7 +18,7 @@
     "summary": "Strait of Hormuz talks postponed due to Yemen events, says Iran"
   },
   {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "source": "Al Jazeera Iran",
     "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
     "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through",
@@ -27,7 +27,16 @@
     "summary": "Temporary Hormuz solution deferred as Iran-Arab summit falls through"
   },
   {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
+    "source": "Al Jazeera Iran",
+    "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
+    "url": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed"
+  },
+  {
+    "date": "2026-09-16",
     "source": "Al Jazeera Iran",
     "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed",
@@ -36,7 +45,25 @@
     "summary": "Why talks in Oman between Iran and Gulf Arab states were postponed"
   },
   {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Houthis seize 2 islands, Saudis intensify air attacks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: Houthis seize 2 islands, Saudis intensify air attacks"
+  },
+  {
+    "date": "2026-09-16",
+    "source": "Al Jazeera Iran",
+    "title": "WATCH: Why talks in Oman between Iran and Gulf Arab states were postponed",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?update=4951342",
+    "category": "外交",
+    "importance": 3,
+    "summary": "WATCH: Why talks in Oman between Iran and Gulf Arab states were postponed"
+  },
+  {
+    "date": "2026-09-16",
     "source": "Al Jazeera Iran",
     "title": "Tehran and Muscat delay talks, citing regional consensus need",
     "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need",
