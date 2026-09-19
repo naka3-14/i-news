@@ -1,15 +1,33 @@
 [
   {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "source": "Al Jazeera Iran",
-    "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
-    "url": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade",
+    "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
+    "url": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment",
     "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "US military claims Strait of Hormuz remains open amid ongoing blockade"
+    "importance": 5,
+    "summary": "South Korea says US-North Korea talks possible, rules out Hormuz deployment"
   },
   {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
+    "source": "Al Jazeera Iran",
+    "title": "Turkiye revokes Bank Mellat’s licence amid US sanctions pressure on Iran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?update=4963613",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "Turkiye revokes Bank Mellat’s licence amid US sanctions pressure on Iran"
+  },
+  {
+    "date": "2026-09-19",
+    "source": "Al Jazeera Iran",
+    "title": "Trump signs bill extending Iran sanctions to 2031",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?update=4963565",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "Trump signs bill extending Iran sanctions to 2031"
+  },
+  {
+    "date": "2026-09-19",
     "source": "Al Jazeera Iran",
     "title": "Russia, China veto UN mandate to monitor Iran sanctions",
     "url": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions",
@@ -18,7 +36,7 @@
     "summary": "Russia, China veto UN mandate to monitor Iran sanctions"
   },
   {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "source": "Al Jazeera Iran",
     "title": "What are all the sanctions Iran is under?",
     "url": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under",
@@ -27,30 +45,12 @@
     "summary": "What are all the sanctions Iran is under?"
   },
   {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "source": "Al Jazeera Iran",
     "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
     "url": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates",
     "category": "軍事",
     "importance": 3,
     "summary": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Al Jazeera Iran",
-    "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
-    "url": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Trump claims direct talks with Iran: Is diplomacy picking up again?"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Al Jazeera Iran",
-    "title": "Trump mulls Tehran’s ‘annihilation’ as combat roils Yemen",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Trump mulls Tehran’s ‘annihilation’ as combat roils Yemen"
   }
 ]
