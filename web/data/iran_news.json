@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-09-20",
+    "date": "2026-09-21",
+    "source": "Al Jazeera Iran",
+    "title": "Qatar says it is working to revive Iran-US talks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Qatar says it is working to revive Iran-US talks"
+  },
+  {
+    "date": "2026-09-21",
     "source": "Al Jazeera Iran",
     "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
     "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
@@ -9,7 +18,7 @@
     "summary": "Iran says conditions to re-engage in talks, end war sent to US via Qatar"
   },
   {
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "source": "Al Jazeera Iran",
     "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
     "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis",
