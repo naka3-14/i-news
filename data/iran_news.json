@@ -1,33 +1,42 @@
 [
   {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
+    "source": "Al Jazeera Middle East",
+    "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’"
+  },
+  {
+    "date": "2026-09-23",
     "source": "Al Jazeera Iran",
-    "title": "Qatar says it is working to revive Iran-US talks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks",
+    "title": "Trump confirms ‘very good’ talks with Iranian delegation at UN",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un",
     "category": "外交",
     "importance": 3,
-    "summary": "Qatar says it is working to revive Iran-US talks"
+    "summary": "Trump confirms ‘very good’ talks with Iranian delegation at UN"
   },
   {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tehran warns of ‘painful’ response if US launches attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade",
-    "category": "軍事",
+    "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+    "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions",
+    "category": "制裁",
     "importance": 3,
-    "summary": "Iran war updates: Tehran warns of ‘painful’ response if US launches attacks"
+    "summary": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions"
   },
   {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "source": "Al Jazeera Iran",
-    "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-    "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+    "title": "US, Iran hold ‘very good’ talks, Trump says at UN meeting",
+    "url": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2",
     "category": "外交",
     "importance": 3,
-    "summary": "Iran says conditions to re-engage in talks, end war sent to US via Qatar"
+    "summary": "US, Iran hold ‘very good’ talks, Trump says at UN meeting"
   },
   {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "source": "Al Jazeera Iran",
     "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
     "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war",
