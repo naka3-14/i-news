@@ -1,33 +1,42 @@
 [
   {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "source": "Al Jazeera Iran",
-    "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
-    "url": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks",
-    "category": "外交",
-    "importance": 5,
-    "summary": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks"
-  },
-  {
-    "date": "2026-09-25",
-    "source": "Al Jazeera Iran",
-    "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz"
-  },
-  {
-    "date": "2026-09-25",
-    "source": "Al Jazeera Iran",
-    "title": "Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iran-strait-of-hormuz-wont-be-used-to-impose-insecurity-on",
+    "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
+    "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’"
+    "summary": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?"
   },
   {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
+    "source": "Al Jazeera Middle East",
+    "title": "Iran’s FM says Hormuz security cannot be restored through military action",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran’s FM says Hormuz security cannot be restored through military action"
+  },
+  {
+    "date": "2026-09-26",
+    "source": "Al Jazeera Iran",
+    "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+    "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "Iraqi airports halt Iranian flights after new US aviation sanctions"
+  },
+  {
+    "date": "2026-09-26",
+    "source": "Al Jazeera Iran",
+    "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+    "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector"
+  },
+  {
+    "date": "2026-09-26",
     "source": "Al Jazeera Iran",
     "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
     "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland",
@@ -36,7 +45,7 @@
     "summary": "US aviation sanctions disrupt Iran flights, push travellers overland"
   },
   {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "source": "Al Jazeera Iran",
     "title": "Iran threatens countries enforcing US airline sanctions",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4",

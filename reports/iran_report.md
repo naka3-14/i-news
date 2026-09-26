@@ -1,21 +1,25 @@
-# Iran Daily Report - 2026-09-25
+# Iran Daily Report - 2026-09-26
 
-## 1. ‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks
+## 1. What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks
+- URL: https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz
 
-## 2. US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
+## 2. Iran’s FM says Hormuz security cannot be restored through military action
+- ソース: Al Jazeera Middle East
+- URL: https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days
+
+## 3. Iraqi airports halt Iranian flights after new US aviation sanctions
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions
 
-## 3. Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’
+## 4. UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/9/23/iran-strait-of-hormuz-wont-be-used-to-impose-insecurity-on
+- URL: https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector
 
-## 4. US aviation sanctions disrupt Iran flights, push travellers overland
+## 5. US aviation sanctions disrupt Iran flights, push travellers overland
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland
 
-## 5. Iran threatens countries enforcing US airline sanctions
+## 6. Iran threatens countries enforcing US airline sanctions
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4
