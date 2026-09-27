@@ -1,6 +1,24 @@
 [
   {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
+    "source": "Al Jazeera Iran",
+    "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz"
+  },
+  {
+    "date": "2026-09-27",
+    "source": "Al Jazeera Iran",
+    "title": "Trump rejects Iran’s proposal to reopen Hormuz within seven days",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump rejects Iran’s proposal to reopen Hormuz within seven days"
+  },
+  {
+    "date": "2026-09-27",
     "source": "Al Jazeera Iran",
     "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
     "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
@@ -9,16 +27,34 @@
     "summary": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?"
   },
   {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "source": "Al Jazeera Middle East",
-    "title": "Iran’s FM says Hormuz security cannot be restored through military action",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days",
+    "title": "Iran waiting for an official response as Trump rejects Hormuz plan",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran’s FM says Hormuz security cannot be restored through military action"
+    "summary": "Iran waiting for an official response as Trump rejects Hormuz plan"
   },
   {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
+    "source": "Al Jazeera Iran",
+    "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+    "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Pezeshkian says Iran ‘no longer trusts talks with Washington’"
+  },
+  {
+    "date": "2026-09-27",
+    "source": "Al Jazeera Iran",
+    "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+    "url": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?"
+  },
+  {
+    "date": "2026-09-27",
     "source": "Al Jazeera Iran",
     "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
     "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions",
@@ -27,7 +63,7 @@
     "summary": "Iraqi airports halt Iranian flights after new US aviation sanctions"
   },
   {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "source": "Al Jazeera Iran",
     "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
     "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector",
@@ -36,21 +72,12 @@
     "summary": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector"
   },
   {
-    "date": "2026-09-26",
-    "source": "Al Jazeera Iran",
-    "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-    "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland",
-    "category": "制裁",
+    "date": "2026-09-27",
+    "source": "Al Jazeera Middle East",
+    "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga",
+    "category": "軍事",
     "importance": 3,
-    "summary": "US aviation sanctions disrupt Iran flights, push travellers overland"
-  },
-  {
-    "date": "2026-09-26",
-    "source": "Al Jazeera Iran",
-    "title": "Iran threatens countries enforcing US airline sanctions",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Iran threatens countries enforcing US airline sanctions"
+    "summary": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA"
   }
 ]
