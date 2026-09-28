@@ -1,6 +1,51 @@
 [
   {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
+    "source": "Al Jazeera Iran",
+    "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
+    "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Strait of Hormuz tensions linger as Iran and US move further from a deal"
+  },
+  {
+    "date": "2026-09-28",
+    "source": "Al Jazeera Iran",
+    "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz"
+  },
+  {
+    "date": "2026-09-28",
+    "source": "Al Jazeera Iran",
+    "title": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Araghchi ignores Trump, waits for mediators’ response on Hormuz"
+  },
+  {
+    "date": "2026-09-28",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: US refutes claim that ‘advanced’ drone seized in Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran war updates: US refutes claim that ‘advanced’ drone seized in Hormuz"
+  },
+  {
+    "date": "2026-09-28",
+    "source": "Al Jazeera Iran",
+    "title": "How Libya can turn Hormuz crisis into economic opportunity",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?update=4993604",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "How Libya can turn Hormuz crisis into economic opportunity"
+  },
+  {
+    "date": "2026-09-28",
     "source": "Al Jazeera Iran",
     "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
     "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
@@ -9,34 +54,25 @@
     "summary": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz"
   },
   {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "source": "Al Jazeera Iran",
-    "title": "Trump rejects Iran’s proposal to reopen Hormuz within seven days",
+    "title": "Iran war updates: Trump rejects Tehran’s proposal to reopen Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Trump rejects Iran’s proposal to reopen Hormuz within seven days"
+    "summary": "Iran war updates: Trump rejects Tehran’s proposal to reopen Hormuz"
   },
   {
-    "date": "2026-09-27",
-    "source": "Al Jazeera Iran",
-    "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
-    "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?"
-  },
-  {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "source": "Al Jazeera Middle East",
-    "title": "Iran waiting for an official response as Trump rejects Hormuz plan",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan",
+    "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
+    "url": "https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran waiting for an official response as Trump rejects Hormuz plan"
+    "summary": "For Libya, the Hormuz crisis can be a trap or an opportunity"
   },
   {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "source": "Al Jazeera Iran",
     "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
     "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington",
@@ -45,7 +81,7 @@
     "summary": "Pezeshkian says Iran ‘no longer trusts talks with Washington’"
   },
   {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "source": "Al Jazeera Iran",
     "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
     "url": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next",
@@ -54,30 +90,12 @@
     "summary": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?"
   },
   {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "source": "Al Jazeera Iran",
-    "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-    "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Iraqi airports halt Iranian flights after new US aviation sanctions"
-  },
-  {
-    "date": "2026-09-27",
-    "source": "Al Jazeera Iran",
-    "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-    "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector"
-  },
-  {
-    "date": "2026-09-27",
-    "source": "Al Jazeera Middle East",
-    "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA"
+    "title": "Oil rebounds after Trump rejects Iran proposal",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?update=4993619",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Oil rebounds after Trump rejects Iran proposal"
   }
 ]
