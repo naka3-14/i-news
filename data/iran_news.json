@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
+    "source": "Al Jazeera Iran",
+    "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+    "url": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks",
+    "category": "核問題",
+    "importance": 5,
+    "summary": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks"
+  },
+  {
+    "date": "2026-09-30",
     "source": "Al Jazeera Iran",
     "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
     "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions",
@@ -9,93 +18,48 @@
     "summary": "Iran touts Hormuz attacks as oil flows increase despite tensions"
   },
   {
-    "date": "2026-09-29",
-    "source": "Al Jazeera Middle East",
-    "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
-    "url": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Al Jazeera Middle East",
-    "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
-    "url": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz"
-  },
-  {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "source": "Al Jazeera Iran",
-    "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
-    "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal",
+    "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
+    "url": "https://www.aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Strait of Hormuz tensions linger as Iran and US move further from a deal"
+    "summary": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay"
   },
   {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "source": "Al Jazeera Iran",
-    "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-    "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Al Jazeera Iran",
-    "title": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Araghchi ignores Trump, waits for mediators’ response on Hormuz"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: US refutes claim that ‘advanced’ drone seized in Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war updates: US refutes claim that ‘advanced’ drone seized in Hormuz"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Al Jazeera Iran",
-    "title": "How Libya can turn Hormuz crisis into economic opportunity",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?update=4993604",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "How Libya can turn Hormuz crisis into economic opportunity"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Al Jazeera Iran",
-    "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz"
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Al Jazeera Iran",
-    "title": "Trump dismisses ‘hoax’ reports he offered sanctions relief to Iran",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief",
+    "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
+    "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military",
     "category": "制裁",
     "importance": 3,
-    "summary": "Trump dismisses ‘hoax’ reports he offered sanctions relief to Iran"
+    "summary": "US sanctions 10 entities for allegedly supporting Iran’s military"
   },
   {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "source": "Al Jazeera Iran",
-    "title": "Oil rebounds after Trump rejects Iran proposal",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?update=4993619",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Oil rebounds after Trump rejects Iran proposal"
+    "title": "US-Iran talks in New York: What’s the latest?",
+    "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
+    "category": "外交",
+    "importance": 3,
+    "summary": "US-Iran talks in New York: What’s the latest?"
+  },
+  {
+    "date": "2026-09-30",
+    "source": "Al Jazeera Iran",
+    "title": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections",
+    "category": "外交",
+    "importance": 3,
+    "summary": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections"
+  },
+  {
+    "date": "2026-09-30",
+    "source": "Al Jazeera Iran",
+    "title": "Flights between Iran and Iraq’s Najaf resumes amid US aviation sanctions",
+    "url": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "Flights between Iran and Iraq’s Najaf resumes amid US aviation sanctions"
   }
 ]
