@@ -1,12 +1,12 @@
-# Iran Daily Report - 2026-09-30
+# Iran Daily Report - 2026-10-01
 
 ## 1. Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks
 
-## 2. Iran touts Hormuz attacks as oil flows increase despite tensions
+## 2. Is Iran losing its leverage over the Strait of Hormuz?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions
+- URL: https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz
 
 ## 3. Hormuz and Yemen: Iran offers de-escalation at a price others will pay
 - ソース: Al Jazeera Iran
@@ -23,7 +23,3 @@
 ## 6. US-Iran talks continue, but ‘deal unlikely’ before midterm elections
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections
-
-## 7. Flights between Iran and Iraq’s Najaf resumes amid US aviation sanctions
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs
