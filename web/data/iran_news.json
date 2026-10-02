@@ -1,15 +1,15 @@
 [
   {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "source": "Al Jazeera Iran",
-    "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
-    "url": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks",
-    "category": "核問題",
-    "importance": 5,
-    "summary": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks"
+    "title": "Trump deploys 2,000 Marines to Middle East, supertanker struck in Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump deploys 2,000 Marines to Middle East, supertanker struck in Hormuz"
   },
   {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "source": "Al Jazeera Iran",
     "title": "Is Iran losing its leverage over the Strait of Hormuz?",
     "url": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz",
@@ -18,16 +18,7 @@
     "summary": "Is Iran losing its leverage over the Strait of Hormuz?"
   },
   {
-    "date": "2026-10-01",
-    "source": "Al Jazeera Iran",
-    "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
-    "url": "https://www.aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay"
-  },
-  {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "source": "Al Jazeera Iran",
     "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
     "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military",
@@ -36,21 +27,12 @@
     "summary": "US sanctions 10 entities for allegedly supporting Iran’s military"
   },
   {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "source": "Al Jazeera Iran",
     "title": "US-Iran talks in New York: What’s the latest?",
     "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
     "category": "外交",
     "importance": 3,
     "summary": "US-Iran talks in New York: What’s the latest?"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Al Jazeera Iran",
-    "title": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections",
-    "category": "外交",
-    "importance": 3,
-    "summary": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections"
   }
 ]
