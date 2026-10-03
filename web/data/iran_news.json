@@ -1,15 +1,15 @@
 [
   {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "source": "Al Jazeera Iran",
-    "title": "Trump deploys 2,000 Marines to Middle East, supertanker struck in Hormuz",
+    "title": "Iran war updates: Foiled Houthi missile injures Saudi resident, Riyadh says",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz",
-    "category": "ホルムズ海峡",
+    "category": "軍事",
     "importance": 4,
-    "summary": "Trump deploys 2,000 Marines to Middle East, supertanker struck in Hormuz"
+    "summary": "Iran war updates: Foiled Houthi missile injures Saudi resident, Riyadh says"
   },
   {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "source": "Al Jazeera Iran",
     "title": "Is Iran losing its leverage over the Strait of Hormuz?",
     "url": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz",
@@ -18,21 +18,12 @@
     "summary": "Is Iran losing its leverage over the Strait of Hormuz?"
   },
   {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "source": "Al Jazeera Iran",
-    "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-    "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military",
+    "title": "Iran urges Iraq to lift flight ban amid US sanctions",
+    "url": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions",
     "category": "制裁",
     "importance": 3,
-    "summary": "US sanctions 10 entities for allegedly supporting Iran’s military"
-  },
-  {
-    "date": "2026-10-02",
-    "source": "Al Jazeera Iran",
-    "title": "US-Iran talks in New York: What’s the latest?",
-    "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
-    "category": "外交",
-    "importance": 3,
-    "summary": "US-Iran talks in New York: What’s the latest?"
+    "summary": "Iran urges Iraq to lift flight ban amid US sanctions"
   }
 ]
