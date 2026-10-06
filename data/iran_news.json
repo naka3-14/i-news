@@ -1,38 +1,20 @@
 [
   {
-    "date": "2026-10-05",
+    "date": "2026-10-06",
+    "source": "Al Jazeera Iran",
+    "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+    "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Is Iran charging a toll to allow oil traffic through Hormuz?"
+  },
+  {
+    "date": "2026-10-06",
     "source": "Al Jazeera Iran",
     "title": "Iran says Hormuz to remain closed until US meets conditions",
     "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions",
     "category": "ホルムズ海峡",
     "importance": 4,
     "summary": "Iran says Hormuz to remain closed until US meets conditions"
-  },
-  {
-    "date": "2026-10-05",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Foiled Houthi missile injures Saudi resident, Riyadh says",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz",
-    "category": "軍事",
-    "importance": 4,
-    "summary": "Iran war updates: Foiled Houthi missile injures Saudi resident, Riyadh says"
-  },
-  {
-    "date": "2026-10-05",
-    "source": "Al Jazeera Iran",
-    "title": "Iran urges Iraq to lift flight ban amid US sanctions",
-    "url": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "Iran urges Iraq to lift flight ban amid US sanctions"
-  },
-  {
-    "date": "2026-10-05",
-    "source": "Al Jazeera Iran",
-    "title": "Russia’s envoy to the IAEA rejects US call for Iran to abandon nuclear programme",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?update=5009676",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "Russia’s envoy to the IAEA rejects US call for Iran to abandon nuclear programme"
   }
 ]
