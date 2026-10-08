@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
+    "source": "Al Jazeera Iran",
+    "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz"
+  },
+  {
+    "date": "2026-10-08",
     "source": "Al Jazeera Iran",
     "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
     "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable",
@@ -9,7 +18,7 @@
     "summary": "Hormuz ship attacks surge: Are increased oil exports sustainable?"
   },
   {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "source": "Al Jazeera Iran",
     "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
     "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
@@ -18,7 +27,7 @@
     "summary": "Is Iran charging a toll to allow oil traffic through Hormuz?"
   },
   {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "source": "Al Jazeera Iran",
     "title": "Iran says Hormuz to remain closed until US meets conditions",
     "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions",
@@ -27,7 +36,7 @@
     "summary": "Iran says Hormuz to remain closed until US meets conditions"
   },
   {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: Saudi-led forces down Houthi missile in Khamis Mushait",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis",
