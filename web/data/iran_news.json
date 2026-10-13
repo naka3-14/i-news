@@ -1,6 +1,15 @@
 [
   {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
+    "source": "Al Jazeera Iran",
+    "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz"
+  },
+  {
+    "date": "2026-10-13",
     "source": "Al Jazeera Iran",
     "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
     "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
@@ -9,16 +18,61 @@
     "summary": "Hormuz attacks intensify as efforts to end war on Iran stall"
   },
   {
-    "date": "2026-10-12",
-    "source": "Al Jazeera Iran",
-    "title": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-    "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+    "date": "2026-10-13",
+    "source": "Al Jazeera Middle East",
+    "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region",
     "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war"
+    "importance": 5,
+    "summary": "Oil tanker reportedly attacked in Strait of Hormuz region"
   },
   {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
+    "source": "Al Jazeera Iran",
+    "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
+    "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "Al Jazeera Iran",
+    "title": "Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks",
+    "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "Al Jazeera Iran",
+    "title": "Iran denies directing Houthis; urges peace talks with Saudi Arabia",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?update=5038515",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran denies directing Houthis; urges peace talks with Saudi Arabia"
+  },
+  {
+    "date": "2026-10-13",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: 12 killed in attack on Riyadh airport – Saudi authorities",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal",
@@ -27,12 +81,12 @@
     "summary": "Iran war updates: 12 killed in attack on Riyadh airport – Saudi authorities"
   },
   {
-    "date": "2026-10-12",
-    "source": "Al Jazeera Middle East",
-    "title": "One killed in new attack on Riyadh airport; Iran says US reply ‘inadequate’",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "One killed in new attack on Riyadh airport; Iran says US reply ‘inadequate’"
+    "date": "2026-10-13",
+    "source": "Al Jazeera Iran",
+    "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
+    "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Why do Iran’s oil ‘intermediaries’ owe the government billions?"
   }
 ]
