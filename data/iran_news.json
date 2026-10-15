@@ -1,24 +1,42 @@
 [
   {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "source": "Al Jazeera Iran",
-    "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
-    "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz",
+    "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+    "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again",
     "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz"
+    "summary": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "source": "Al Jazeera Iran",
-    "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-    "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
+    "title": "Cargo vessels sunk in Hormuz Strait, Houthis claim another attack on Riyadh",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east",
     "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "Hormuz attacks intensify as efforts to end war on Iran stall"
+    "summary": "Cargo vessels sunk in Hormuz Strait, Houthis claim another attack on Riyadh"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
+    "source": "Al Jazeera Iran",
+    "title": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
+    "url": "https://www.aljazeera.com/news/2026/10/14/un-official-warns-of-looming-food-crisis-as-hormuz-fertiliser-plan-stalls",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls"
+  },
+  {
+    "date": "2026-10-15",
+    "source": "Al Jazeera Iran",
+    "title": "How do Iranians move money abroad to avoid US sanctions?",
+    "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "How do Iranians move money abroad to avoid US sanctions?"
+  },
+  {
+    "date": "2026-10-15",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: Houthis fire missiles at Saudi Arabia",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted",
@@ -27,7 +45,7 @@
     "summary": "Iran war updates: Houthis fire missiles at Saudi Arabia"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "source": "Al Jazeera Iran",
     "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
     "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran",
@@ -36,25 +54,7 @@
     "summary": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?"
   },
   {
-    "date": "2026-10-14",
-    "source": "Al Jazeera Iran",
-    "title": "Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks",
-    "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks"
-  },
-  {
-    "date": "2026-10-14",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks"
-  },
-  {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "source": "Al Jazeera Iran",
     "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
     "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions",
