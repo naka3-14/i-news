@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "source": "Al Jazeera Iran",
     "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
     "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again",
@@ -9,16 +9,7 @@
     "summary": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again"
   },
   {
-    "date": "2026-10-16",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Cargo ships sunk in Hormuz, Houthis claim Riyadh attack",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iran war updates: Cargo ships sunk in Hormuz, Houthis claim Riyadh attack"
-  },
-  {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "source": "Al Jazeera Iran",
     "title": "Containers and debris captured floating around the Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz",
@@ -27,7 +18,16 @@
     "summary": "Containers and debris captured floating around the Strait of Hormuz"
   },
   {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
+    "source": "Al Jazeera Iran",
+    "title": "UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?update=5051590",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz"
+  },
+  {
+    "date": "2026-10-17",
     "source": "Al Jazeera Iran",
     "title": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
     "url": "https://www.aljazeera.com/news/2026/10/14/un-official-warns-of-looming-food-crisis-as-hormuz-fertiliser-plan-stalls",
@@ -36,12 +36,39 @@
     "summary": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls"
   },
   {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
+    "source": "Al Jazeera Middle East",
+    "title": "Trump claims US Navy ‘effective’ blockade stops all Iranian ships in Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Trump claims US Navy ‘effective’ blockade stops all Iranian ships in Hormuz"
+  },
+  {
+    "date": "2026-10-17",
     "source": "Al Jazeera Iran",
-    "title": "How do Iranians move money abroad to avoid US sanctions?",
-    "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions",
+    "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
+    "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "Trump rules out using a nuclear bomb on Iran: Why that matters"
+  },
+  {
+    "date": "2026-10-17",
+    "source": "Al Jazeera Iran",
+    "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
+    "url": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs",
     "category": "制裁",
     "importance": 3,
-    "summary": "How do Iranians move money abroad to avoid US sanctions?"
+    "summary": "US sanctions leave Iranians facing flight cancellations and soaring costs"
+  },
+  {
+    "date": "2026-10-17",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden"
   }
 ]
