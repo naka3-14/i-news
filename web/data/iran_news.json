@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-10-17",
+    "date": "2026-10-19",
     "source": "Al Jazeera Iran",
     "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
     "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
@@ -9,16 +9,34 @@
     "summary": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels"
   },
   {
-    "date": "2026-10-17",
+    "date": "2026-10-19",
     "source": "Al Jazeera Iran",
-    "title": "Five tankers reported hit in Hormuz, drones intercepted over Riyadh",
+    "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz"
+  },
+  {
+    "date": "2026-10-19",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says ‘violating’ tanker ablaze in Hormuz after hitting sea mine",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran says ‘violating’ tanker ablaze in Hormuz after hitting sea mine"
+  },
+  {
+    "date": "2026-10-19",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Five tankers reported hit in Hormuz, drones intercepted over Riyadh"
+    "summary": "Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh"
   },
   {
-    "date": "2026-10-17",
+    "date": "2026-10-19",
     "source": "Al Jazeera Iran",
     "title": "Containers and debris captured floating around the Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz",
@@ -27,7 +45,7 @@
     "summary": "Containers and debris captured floating around the Strait of Hormuz"
   },
   {
-    "date": "2026-10-17",
+    "date": "2026-10-19",
     "source": "Al Jazeera Iran",
     "title": "UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?update=5051590",
@@ -36,7 +54,7 @@
     "summary": "UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz"
   },
   {
-    "date": "2026-10-17",
+    "date": "2026-10-19",
     "source": "Al Jazeera Iran",
     "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
     "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters",
@@ -45,7 +63,7 @@
     "summary": "Trump rules out using a nuclear bomb on Iran: Why that matters"
   },
   {
-    "date": "2026-10-17",
+    "date": "2026-10-19",
     "source": "Al Jazeera Iran",
     "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
     "url": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs",
@@ -54,7 +72,7 @@
     "summary": "US sanctions leave Iranians facing flight cancellations and soaring costs"
   },
   {
-    "date": "2026-10-17",
+    "date": "2026-10-19",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz",
