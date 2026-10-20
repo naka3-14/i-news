@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "source": "Al Jazeera Iran",
     "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
     "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
@@ -9,7 +9,7 @@
     "summary": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels"
   },
   {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "source": "Al Jazeera Iran",
     "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
@@ -18,66 +18,30 @@
     "summary": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz"
   },
   {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "source": "Al Jazeera Iran",
-    "title": "Iran says ‘violating’ tanker ablaze in Hormuz after hitting sea mine",
+    "title": "Iran war updates: ‘Violating’ vessel on fire in Hormuz after sea mine blast",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran says ‘violating’ tanker ablaze in Hormuz after hitting sea mine"
+    "summary": "Iran war updates: ‘Violating’ vessel on fire in Hormuz after sea mine blast"
   },
   {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh"
-  },
-  {
-    "date": "2026-10-19",
-    "source": "Al Jazeera Iran",
-    "title": "Containers and debris captured floating around the Strait of Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Containers and debris captured floating around the Strait of Hormuz"
-  },
-  {
-    "date": "2026-10-19",
-    "source": "Al Jazeera Iran",
-    "title": "UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?update=5051590",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz"
-  },
-  {
-    "date": "2026-10-19",
-    "source": "Al Jazeera Iran",
-    "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-    "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "Trump rules out using a nuclear bomb on Iran: Why that matters"
-  },
-  {
-    "date": "2026-10-19",
-    "source": "Al Jazeera Iran",
-    "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
-    "url": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "US sanctions leave Iranians facing flight cancellations and soaring costs"
-  },
-  {
-    "date": "2026-10-19",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz",
+    "title": "High-level diplomacy surges as Iran vows ‘forceful’ response if US attacks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares",
     "category": "軍事",
     "importance": 3,
-    "summary": "Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden"
+    "summary": "High-level diplomacy surges as Iran vows ‘forceful’ response if US attacks"
+  },
+  {
+    "date": "2026-10-20",
+    "source": "Al Jazeera Middle East",
+    "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+    "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?"
   }
 ]

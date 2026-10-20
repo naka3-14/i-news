@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-10-19
+# Iran Daily Report - 2026-10-20
 
 ## 1. US and Iran both claim control of Strait of Hormuz amid attacks on vessels
 - ソース: Al Jazeera Iran
@@ -8,30 +8,14 @@
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz
 
-## 3. Iran says ‘violating’ tanker ablaze in Hormuz after hitting sea mine
+## 3. Iran war updates: ‘Violating’ vessel on fire in Hormuz after sea mine blast
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats
 
-## 4. Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh
+## 4. High-level diplomacy surges as Iran vows ‘forceful’ response if US attacks
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2
+- URL: https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares
 
-## 5. Containers and debris captured floating around the Strait of Hormuz
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz
-
-## 6. UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?update=5051590
-
-## 7. Trump rules out using a nuclear bomb on Iran: Why that matters
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters
-
-## 8. US sanctions leave Iranians facing flight cancellations and soaring costs
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs
-
-## 9. Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz
+## 5. Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?
+- ソース: Al Jazeera Middle East
+- URL: https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel
