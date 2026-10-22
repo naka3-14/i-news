@@ -1,5 +1,5 @@
-# Iran Daily Report - 2026-10-21
+# Iran Daily Report - 2026-10-22
 
-## 1. US says peace deal with Iran extremely difficult amid Hormuz ship attacks
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult
+## 1. Iran’s enriched uranium re-emerges as point of contention in US talks
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks
