@@ -1,6 +1,33 @@
 [
   {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
+    "source": "Al Jazeera Iran",
+    "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+    "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation"
+  },
+  {
+    "date": "2026-10-23",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+    "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran says seven ships hit in Hormuz Strait, warns US of wider response"
+  },
+  {
+    "date": "2026-10-23",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Middle East on edge as threat of new US attack grows",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: Middle East on edge as threat of new US attack grows"
+  },
+  {
+    "date": "2026-10-23",
     "source": "Al Jazeera Iran",
     "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
     "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
