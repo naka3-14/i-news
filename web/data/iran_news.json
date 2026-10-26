@@ -1,15 +1,24 @@
 [
   {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "source": "Al Jazeera Iran",
-    "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-    "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response",
+    "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches",
     "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran says seven ships hit in Hormuz Strait, warns US of wider response"
+    "importance": 5,
+    "summary": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches"
   },
   {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
+    "source": "Al Jazeera Iran",
+    "title": "Trump rules out immediate attack on Iran; Qatar mediators visit Tehran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Trump rules out immediate attack on Iran; Qatar mediators visit Tehran"
+  },
+  {
+    "date": "2026-10-26",
     "source": "Al Jazeera Iran",
     "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
     "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks",
@@ -18,7 +27,7 @@
     "summary": "Iran blames US for deal failure, urges new try amid fear of new attacks"
   },
   {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "source": "Al Jazeera Iran",
     "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
     "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
@@ -27,7 +36,7 @@
     "summary": "Iran says won’t allow US warships to get close as Trump ponders new attacks"
   },
   {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "source": "Al Jazeera Iran",
     "title": "Is Iran planning attacks on Americans; why is the US on alert?",
     "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert",
@@ -36,7 +45,16 @@
     "summary": "Is Iran planning attacks on Americans; why is the US on alert?"
   },
   {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca"
+  },
+  {
+    "date": "2026-10-26",
     "source": "Al Jazeera Iran",
     "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
     "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit",
@@ -45,7 +63,7 @@
     "summary": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit"
   },
   {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "source": "Al Jazeera Iran",
     "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
     "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war",
