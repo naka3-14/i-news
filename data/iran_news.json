@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "source": "Al Jazeera Iran",
     "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches",
@@ -9,66 +9,39 @@
     "summary": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches"
   },
   {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "source": "Al Jazeera Iran",
-    "title": "Trump rules out immediate attack on Iran; Qatar mediators visit Tehran",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Trump rules out immediate attack on Iran; Qatar mediators visit Tehran"
+    "title": "Inside the worst month for ships in the Strait of Hormuz External Link This article will be opened in a new browser window",
+    "url": "https://interactive.aljazeera.com/aje/2026/hormuz-journey-seafarer/?utm_source=aljazeera.com&utm_medium=website&utm_campaign=ucms",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Inside the worst month for ships in the Strait of Hormuz External Link This article will be opened in a new browser window"
   },
   {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says US is ‘not serious’ about talks; vessel on fire off Iraq’s coast",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran says US is ‘not serious’ about talks; vessel on fire off Iraq’s coast"
+  },
+  {
+    "date": "2026-10-27",
+    "source": "Al Jazeera Iran",
+    "title": "Delegations arrive in Tehran for security talks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Delegations arrive in Tehran for security talks"
+  },
+  {
+    "date": "2026-10-27",
     "source": "Al Jazeera Iran",
     "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
     "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks",
     "category": "軍事",
     "importance": 3,
     "summary": "Iran blames US for deal failure, urges new try amid fear of new attacks"
-  },
-  {
-    "date": "2026-10-26",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-    "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran says won’t allow US warships to get close as Trump ponders new attacks"
-  },
-  {
-    "date": "2026-10-26",
-    "source": "Al Jazeera Iran",
-    "title": "Is Iran planning attacks on Americans; why is the US on alert?",
-    "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Is Iran planning attacks on Americans; why is the US on alert?"
-  },
-  {
-    "date": "2026-10-26",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca"
-  },
-  {
-    "date": "2026-10-26",
-    "source": "Al Jazeera Iran",
-    "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-    "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit"
-  },
-  {
-    "date": "2026-10-26",
-    "source": "Al Jazeera Iran",
-    "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
-    "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war",
-    "category": "市場",
-    "importance": 2,
-    "summary": "Are global oil reserves sufficient to withstand renewed US-Iran war?"
   }
 ]
