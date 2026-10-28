@@ -1,15 +1,15 @@
 [
   {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "source": "Al Jazeera Iran",
-    "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches",
+    "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz",
     "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches"
+    "importance": 4,
+    "summary": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz"
   },
   {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "source": "Al Jazeera Iran",
     "title": "Inside the worst month for ships in the Strait of Hormuz External Link This article will be opened in a new browser window",
     "url": "https://interactive.aljazeera.com/aje/2026/hormuz-journey-seafarer/?utm_source=aljazeera.com&utm_medium=website&utm_campaign=ucms",
@@ -18,16 +18,34 @@
     "summary": "Inside the worst month for ships in the Strait of Hormuz External Link This article will be opened in a new browser window"
   },
   {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "source": "Al Jazeera Iran",
-    "title": "Iran says US is ‘not serious’ about talks; vessel on fire off Iraq’s coast",
+    "title": "Iranians brace for renewed attacks after Israeli, US elections",
+    "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iranians brace for renewed attacks after Israeli, US elections"
+  },
+  {
+    "date": "2026-10-28",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran says US ‘not serious’ about talks amid Tehran meeting"
+  },
+  {
+    "date": "2026-10-28",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Putin hosts Moscow talks with Qatari emir, Iran president",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq",
     "category": "外交",
     "importance": 3,
-    "summary": "Iran says US is ‘not serious’ about talks; vessel on fire off Iraq’s coast"
+    "summary": "Iran war updates: Putin hosts Moscow talks with Qatari emir, Iran president"
   },
   {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "source": "Al Jazeera Iran",
     "title": "Delegations arrive in Tehran for security talks",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks",
@@ -36,12 +54,12 @@
     "summary": "Delegations arrive in Tehran for security talks"
   },
   {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "source": "Al Jazeera Iran",
-    "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-    "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks",
-    "category": "軍事",
+    "title": "Iran, Saudi Arabia, Turkiye and Pakistan agree to continue talks for peace",
+    "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions",
+    "category": "外交",
     "importance": 3,
-    "summary": "Iran blames US for deal failure, urges new try amid fear of new attacks"
+    "summary": "Iran, Saudi Arabia, Turkiye and Pakistan agree to continue talks for peace"
   }
 ]
