@@ -1,15 +1,6 @@
 [
   {
-    "date": "2026-10-29",
-    "source": "Al Jazeera Iran",
-    "title": "Iran in talks with mediators over 7-day Hormuz plan; Houthis attack Aden",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iran in talks with mediators over 7-day Hormuz plan; Houthis attack Aden"
-  },
-  {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "source": "Al Jazeera Iran",
     "title": "Hormuz oil spill forces closure of UAE beaches",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches",
@@ -18,7 +9,16 @@
     "summary": "Hormuz oil spill forces closure of UAE beaches"
   },
   {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
+    "source": "Al Jazeera Iran",
+    "title": "Iran’s IRGC says tankers strike naval mines and catch fire in Hormuz Strait",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran’s IRGC says tankers strike naval mines and catch fire in Hormuz Strait"
+  },
+  {
+    "date": "2026-10-30",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: Tehran in ‘close contact’ with mediators on Hormuz plan",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
@@ -27,7 +27,7 @@
     "summary": "Iran war updates: Tehran in ‘close contact’ with mediators on Hormuz plan"
   },
   {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "source": "Al Jazeera Iran",
     "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
     "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz",
@@ -36,39 +36,12 @@
     "summary": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz"
   },
   {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "source": "Al Jazeera Iran",
     "title": "Iranians brace for renewed attacks after Israeli, US elections",
     "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end",
     "category": "軍事",
     "importance": 3,
     "summary": "Iranians brace for renewed attacks after Israeli, US elections"
-  },
-  {
-    "date": "2026-10-29",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran says US ‘not serious’ about talks amid Tehran meeting"
-  },
-  {
-    "date": "2026-10-29",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Putin hosts Moscow talks with Qatari emir, Iran president",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran war updates: Putin hosts Moscow talks with Qatari emir, Iran president"
-  },
-  {
-    "date": "2026-10-29",
-    "source": "Al Jazeera Iran",
-    "title": "Delegations arrive in Tehran for security talks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Delegations arrive in Tehran for security talks"
   }
 ]
