@@ -1,21 +1,17 @@
-# Iran Daily Report - 2026-10-30
+# Iran Daily Report - 2026-10-31
 
-## 1. Hormuz oil spill forces closure of UAE beaches
+## 1. Iran says four oil tankers in Hormuz on fire; Trump says war will end soon
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon
+
+## 2. Oman rescues 25 from burning oil tanker in Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz
+
+## 3. Hormuz oil spill forces closure of UAE beaches
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches
 
-## 2. Iran’s IRGC says tankers strike naval mines and catch fire in Hormuz Strait
+## 4. Qatari officials in Iran in bid to revive ceasefire deal with US
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz
-
-## 3. Iran war updates: Tehran in ‘close contact’ with mediators on Hormuz plan
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us
-
-## 4. Iran’s calculations as US escalation looms: Trust, midterms, Hormuz
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz
-
-## 5. Iranians brace for renewed attacks after Israeli, US elections
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end
+- URL: https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us

@@ -1,6 +1,24 @@
 [
   {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says four oil tankers in Hormuz on fire; Trump says war will end soon",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Iran says four oil tankers in Hormuz on fire; Trump says war will end soon"
+  },
+  {
+    "date": "2026-10-31",
+    "source": "Al Jazeera Iran",
+    "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Oman rescues 25 from burning oil tanker in Strait of Hormuz"
+  },
+  {
+    "date": "2026-10-31",
     "source": "Al Jazeera Iran",
     "title": "Hormuz oil spill forces closure of UAE beaches",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches",
@@ -9,39 +27,12 @@
     "summary": "Hormuz oil spill forces closure of UAE beaches"
   },
   {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "source": "Al Jazeera Iran",
-    "title": "Iran’s IRGC says tankers strike naval mines and catch fire in Hormuz Strait",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran’s IRGC says tankers strike naval mines and catch fire in Hormuz Strait"
-  },
-  {
-    "date": "2026-10-30",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tehran in ‘close contact’ with mediators on Hormuz plan",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war updates: Tehran in ‘close contact’ with mediators on Hormuz plan"
-  },
-  {
-    "date": "2026-10-30",
-    "source": "Al Jazeera Iran",
-    "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz"
-  },
-  {
-    "date": "2026-10-30",
-    "source": "Al Jazeera Iran",
-    "title": "Iranians brace for renewed attacks after Israeli, US elections",
-    "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end",
-    "category": "軍事",
+    "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
+    "url": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us",
+    "category": "外交",
     "importance": 3,
-    "summary": "Iranians brace for renewed attacks after Israeli, US elections"
+    "summary": "Qatari officials in Iran in bid to revive ceasefire deal with US"
   }
 ]
