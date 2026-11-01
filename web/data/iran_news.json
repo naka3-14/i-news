@@ -1,15 +1,6 @@
 [
   {
-    "date": "2026-10-31",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says four oil tankers in Hormuz on fire; Trump says war will end soon",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iran says four oil tankers in Hormuz on fire; Trump says war will end soon"
-  },
-  {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "source": "Al Jazeera Iran",
     "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz",
@@ -18,21 +9,66 @@
     "summary": "Oman rescues 25 from burning oil tanker in Strait of Hormuz"
   },
   {
-    "date": "2026-10-31",
-    "source": "Al Jazeera Iran",
-    "title": "Hormuz oil spill forces closure of UAE beaches",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches",
+    "date": "2026-11-01",
+    "source": "Al Jazeera Middle East",
+    "title": "Iran says talks under way on two-day plan to reopen Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz",
     "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "Hormuz oil spill forces closure of UAE beaches"
+    "summary": "Iran says talks under way on two-day plan to reopen Strait of Hormuz"
   },
   {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says four tankers on fire after striking mines in Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran says four tankers on fire after striking mines in Hormuz"
+  },
+  {
+    "date": "2026-11-01",
+    "source": "Al Jazeera Iran",
+    "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+    "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks"
+  },
+  {
+    "date": "2026-11-01",
+    "source": "Al Jazeera Iran",
+    "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+    "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran warns of unfettered retaliation if attacked as mediators try for peace"
+  },
+  {
+    "date": "2026-11-01",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says US ‘shifted tone’, waiting on response after talks with mediators",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran says US ‘shifted tone’, waiting on response after talks with mediators"
+  },
+  {
+    "date": "2026-11-01",
     "source": "Al Jazeera Iran",
     "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
     "url": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us",
     "category": "外交",
     "importance": 3,
     "summary": "Qatari officials in Iran in bid to revive ceasefire deal with US"
+  },
+  {
+    "date": "2026-11-01",
+    "source": "Al Jazeera Iran",
+    "title": "US senator slams oil firms for profiting $130bn from war on Iran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?update=5101930",
+    "category": "市場",
+    "importance": 2,
+    "summary": "US senator slams oil firms for profiting $130bn from war on Iran"
   }
 ]
