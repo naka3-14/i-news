@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "source": "Al Jazeera Iran",
     "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz",
@@ -9,16 +9,16 @@
     "summary": "Oman rescues 25 from burning oil tanker in Strait of Hormuz"
   },
   {
-    "date": "2026-11-01",
-    "source": "Al Jazeera Middle East",
-    "title": "Iran says talks under way on two-day plan to reopen Strait of Hormuz",
+    "date": "2026-11-02",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says waiting for US response to latest plan to reopen Hormuz Strait",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz",
     "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iran says talks under way on two-day plan to reopen Strait of Hormuz"
+    "importance": 4,
+    "summary": "Iran says waiting for US response to latest plan to reopen Hormuz Strait"
   },
   {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "source": "Al Jazeera Iran",
     "title": "Iran says four tankers on fire after striking mines in Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz",
@@ -27,7 +27,25 @@
     "summary": "Iran says four tankers on fire after striking mines in Hormuz"
   },
   {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
+    "source": "Al Jazeera Iran",
+    "title": "Iran willing to make concessions in deal with US to end war, open Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?update=5105315",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran willing to make concessions in deal with US to end war, open Hormuz"
+  },
+  {
+    "date": "2026-11-02",
+    "source": "Al Jazeera Middle East",
+    "title": "Iran says 2 tankers on fire in Hormuz; Trump again claims war will end soon",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran says 2 tankers on fire in Hormuz; Trump again claims war will end soon"
+  },
+  {
+    "date": "2026-11-02",
     "source": "Al Jazeera Iran",
     "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
     "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks",
@@ -36,7 +54,7 @@
     "summary": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks"
   },
   {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "source": "Al Jazeera Iran",
     "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
     "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace",
@@ -45,30 +63,12 @@
     "summary": "Iran warns of unfettered retaliation if attacked as mediators try for peace"
   },
   {
-    "date": "2026-11-01",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says US ‘shifted tone’, waiting on response after talks with mediators",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran says US ‘shifted tone’, waiting on response after talks with mediators"
-  },
-  {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "source": "Al Jazeera Iran",
     "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
     "url": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us",
     "category": "外交",
     "importance": 3,
     "summary": "Qatari officials in Iran in bid to revive ceasefire deal with US"
-  },
-  {
-    "date": "2026-11-01",
-    "source": "Al Jazeera Iran",
-    "title": "US senator slams oil firms for profiting $130bn from war on Iran",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?update=5101930",
-    "category": "市場",
-    "importance": 2,
-    "summary": "US senator slams oil firms for profiting $130bn from war on Iran"
   }
 ]
