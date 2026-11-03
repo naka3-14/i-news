@@ -1,74 +1,74 @@
 [
   {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "source": "Al Jazeera Iran",
-    "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz",
+    "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz",
     "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Oman rescues 25 from burning oil tanker in Strait of Hormuz"
+    "importance": 4,
+    "summary": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz"
   },
   {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "source": "Al Jazeera Iran",
-    "title": "Iran says waiting for US response to latest plan to reopen Hormuz Strait",
+    "title": "US conducts ‘defensive’ strikes on Iranian targets in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "US conducts ‘defensive’ strikes on Iranian targets in Strait of Hormuz"
+  },
+  {
+    "date": "2026-11-03",
+    "source": "Al Jazeera Iran",
+    "title": "Hormuz shipping still faces major risks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Hormuz shipping still faces major risks"
+  },
+  {
+    "date": "2026-11-03",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Tehran awaits US response on proposal to reopen Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Iran says waiting for US response to latest plan to reopen Hormuz Strait"
+    "summary": "Iran war updates: Tehran awaits US response on proposal to reopen Hormuz"
   },
   {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "source": "Al Jazeera Iran",
-    "title": "Iran says four tankers on fire after striking mines in Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran says four tankers on fire after striking mines in Hormuz"
+    "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+    "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire"
   },
   {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "source": "Al Jazeera Iran",
-    "title": "Iran willing to make concessions in deal with US to end war, open Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?update=5105315",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran willing to make concessions in deal with US to end war, open Hormuz"
+    "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran says US talks could resume ‘within a short period’ if demands are met"
   },
   {
-    "date": "2026-11-02",
-    "source": "Al Jazeera Middle East",
-    "title": "Iran says 2 tankers on fire in Hormuz; Trump again claims war will end soon",
+    "date": "2026-11-03",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Tehran says ‘intensive’ US talks underway",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran says 2 tankers on fire in Hormuz; Trump again claims war will end soon"
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran war updates: Tehran says ‘intensive’ US talks underway"
   },
   {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "source": "Al Jazeera Iran",
     "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
     "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks",
     "category": "外交",
     "importance": 3,
     "summary": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks"
-  },
-  {
-    "date": "2026-11-02",
-    "source": "Al Jazeera Iran",
-    "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-    "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran warns of unfettered retaliation if attacked as mediators try for peace"
-  },
-  {
-    "date": "2026-11-02",
-    "source": "Al Jazeera Iran",
-    "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
-    "url": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Qatari officials in Iran in bid to revive ceasefire deal with US"
   }
 ]

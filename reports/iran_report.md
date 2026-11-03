@@ -1,33 +1,33 @@
-# Iran Daily Report - 2026-11-02
+# Iran Daily Report - 2026-11-03
 
-## 1. Oman rescues 25 from burning oil tanker in Strait of Hormuz
+## 1. Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz
+- URL: https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz
 
-## 2. Iran says waiting for US response to latest plan to reopen Hormuz Strait
+## 2. US conducts ‘defensive’ strikes on Iranian targets in Strait of Hormuz
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court
+
+## 3. Hormuz shipping still faces major risks
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks
+
+## 4. Iran war updates: Tehran awaits US response on proposal to reopen Hormuz
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz
 
-## 3. Iran says four tankers on fire after striking mines in Hormuz
+## 5. Trump signals progress on Iran deal as Tehran pushes faster ceasefire
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz
+- URL: https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us
 
-## 4. Iran willing to make concessions in deal with US to end war, open Hormuz
+## 6. Iran says US talks could resume ‘within a short period’ if demands are met
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?update=5105315
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met
 
-## 5. Iran says 2 tankers on fire in Hormuz; Trump again claims war will end soon
-- ソース: Al Jazeera Middle East
+## 7. Iran war updates: Tehran says ‘intensive’ US talks underway
+- ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon
 
-## 6. Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks
+## 8. Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks
-
-## 7. Iran warns of unfettered retaliation if attacked as mediators try for peace
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace
-
-## 8. Qatari officials in Iran in bid to revive ceasefire deal with US
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us
