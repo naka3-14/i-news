@@ -1,65 +1,29 @@
 [
   {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "source": "Al Jazeera Iran",
-    "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz",
+    "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+    "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz"
+    "summary": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes"
   },
   {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "source": "Al Jazeera Iran",
-    "title": "Hormuz shipping still faces major risks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Hormuz shipping still faces major risks"
-  },
-  {
-    "date": "2026-11-04",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says ‘maximum deterrence’ plan is ready in case of any new US attack",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack",
+    "title": "Will the US resume its attacks on Iran?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran",
     "category": "軍事",
     "importance": 3,
-    "summary": "Iran says ‘maximum deterrence’ plan is ready in case of any new US attack"
+    "summary": "Will the US resume its attacks on Iran?"
   },
   {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tehran warns of ‘crushing response’ if US attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court",
+    "title": "Iranian leaders welcome US midterm results, but Trump may still attack",
+    "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack",
     "category": "軍事",
     "importance": 3,
-    "summary": "Iran war updates: Tehran warns of ‘crushing response’ if US attacks"
-  },
-  {
-    "date": "2026-11-04",
-    "source": "Al Jazeera Iran",
-    "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
-    "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire"
-  },
-  {
-    "date": "2026-11-04",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran says US talks could resume ‘within a short period’ if demands are met"
-  },
-  {
-    "date": "2026-11-04",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tehran says ‘intensive’ US talks underway",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran war updates: Tehran says ‘intensive’ US talks underway"
+    "summary": "Iranian leaders welcome US midterm results, but Trump may still attack"
   }
 ]
