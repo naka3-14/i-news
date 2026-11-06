@@ -1,15 +1,42 @@
 [
   {
-    "date": "2026-11-05",
-    "source": "Al Jazeera Iran",
-    "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-    "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+    "date": "2026-11-06",
+    "source": "Al Jazeera Middle East",
+    "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+    "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack",
     "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes"
+    "importance": 5,
+    "summary": "Iran says tankers struck in Hormuz amid fears of new US attack"
   },
   {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
+    "source": "Al Jazeera Iran",
+    "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+    "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait"
+  },
+  {
+    "date": "2026-11-06",
+    "source": "Al Jazeera Iran",
+    "title": "US sanctions Indian and Turkish firms accused of helping Iran",
+    "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "US sanctions Indian and Turkish firms accused of helping Iran"
+  },
+  {
+    "date": "2026-11-06",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: States aiding US attack ‘legitimate targets’, says Tehran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: States aiding US attack ‘legitimate targets’, says Tehran"
+  },
+  {
+    "date": "2026-11-06",
     "source": "Al Jazeera Iran",
     "title": "Will the US resume its attacks on Iran?",
     "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran",
@@ -18,7 +45,7 @@
     "summary": "Will the US resume its attacks on Iran?"
   },
   {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "source": "Al Jazeera Iran",
     "title": "Iranian leaders welcome US midterm results, but Trump may still attack",
     "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack",
