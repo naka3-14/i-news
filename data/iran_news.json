@@ -1,6 +1,24 @@
 [
   {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Houthis claim Riyadh attacks; US hits vessel near Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Iran war updates: Houthis claim Riyadh attacks; US hits vessel near Hormuz"
+  },
+  {
+    "date": "2026-11-08",
+    "source": "Al Jazeera Iran",
+    "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+    "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation"
+  },
+  {
+    "date": "2026-11-08",
     "source": "Al Jazeera Iran",
     "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
     "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions",
@@ -9,48 +27,30 @@
     "summary": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?"
   },
   {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "source": "Al Jazeera Iran",
-    "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-    "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait"
+    "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+    "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?"
   },
   {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
+    "source": "Al Jazeera Iran",
+    "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+    "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "US Treasury sanctions eight Canadian money exchange firms over Iran ties"
+  },
+  {
+    "date": "2026-11-08",
     "source": "Al Jazeera Iran",
     "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
     "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran",
     "category": "外交",
     "importance": 3,
     "summary": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran"
-  },
-  {
-    "date": "2026-11-07",
-    "source": "Al Jazeera Iran",
-    "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-    "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "US sanctions Indian and Turkish firms accused of helping Iran"
-  },
-  {
-    "date": "2026-11-07",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: States aiding US attack ‘legitimate targets’, says Tehran",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war updates: States aiding US attack ‘legitimate targets’, says Tehran"
-  },
-  {
-    "date": "2026-11-07",
-    "source": "Al Jazeera Iran",
-    "title": "Will the US resume its attacks on Iran?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Will the US resume its attacks on Iran?"
   }
 ]
