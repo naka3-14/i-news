@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-11-08
+# Iran Daily Report - 2026-11-09
 
 ## 1. Iran war updates: Houthis claim Riyadh attacks; US hits vessel near Hormuz
 - ソース: Al Jazeera Iran
@@ -12,14 +12,14 @@
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions
 
-## 4. Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
+## 4. Iran waiting to resume talks after US midterms ‘shock’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis
+
+## 5. Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive
 
-## 5. US Treasury sanctions eight Canadian money exchange firms over Iran ties
+## 6. US Treasury sanctions eight Canadian money exchange firms over Iran ties
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties
-
-## 6. Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran
