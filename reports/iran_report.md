@@ -1,25 +1,25 @@
-# Iran Daily Report - 2026-11-09
+# Iran Daily Report - 2026-11-10
 
-## 1. Iran war updates: Houthis claim Riyadh attacks; US hits vessel near Hormuz
+## 1. France blames Iran for October supermarket cyberattack
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack
 
-## 2. Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation
+## 2. France accuses Iran of cyberattack on supermarket fridges
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation
+- URL: https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges
 
-## 3. Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?
+## 3. IRGC strikes three tankers near Hormuz over ‘US links’
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us
 
-## 4. Iran waiting to resume talks after US midterms ‘shock’
+## 4. Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat
+
+## 5. Iran waiting to resume talks after US midterms ‘shock’
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis
 
-## 5. Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive
-
-## 6. US Treasury sanctions eight Canadian money exchange firms over Iran ties
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties
+## 6. Qatar PM meets with Trump for talks on ending war on Iran
+- ソース: Al Jazeera Middle East
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran

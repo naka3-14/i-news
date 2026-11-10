@@ -1,33 +1,42 @@
 [
   {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Houthis claim Riyadh attacks; US hits vessel near Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal",
-    "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iran war updates: Houthis claim Riyadh attacks; US hits vessel near Hormuz"
+    "title": "France blames Iran for October supermarket cyberattack",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack",
+    "category": "軍事",
+    "importance": 4,
+    "summary": "France blames Iran for October supermarket cyberattack"
   },
   {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "source": "Al Jazeera Iran",
-    "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-    "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
+    "title": "France accuses Iran of cyberattack on supermarket fridges",
+    "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+    "category": "軍事",
+    "importance": 4,
+    "summary": "France accuses Iran of cyberattack on supermarket fridges"
+  },
+  {
+    "date": "2026-11-10",
+    "source": "Al Jazeera Iran",
+    "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation"
+    "summary": "IRGC strikes three tankers near Hormuz over ‘US links’"
   },
   {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "source": "Al Jazeera Iran",
-    "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-    "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?"
+    "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+    "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat"
   },
   {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "source": "Al Jazeera Iran",
     "title": "Iran waiting to resume talks after US midterms ‘shock’",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis",
@@ -36,21 +45,12 @@
     "summary": "Iran waiting to resume talks after US midterms ‘shock’"
   },
   {
-    "date": "2026-11-09",
-    "source": "Al Jazeera Iran",
-    "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-    "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive",
-    "category": "核問題",
+    "date": "2026-11-10",
+    "source": "Al Jazeera Middle East",
+    "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran",
+    "category": "外交",
     "importance": 3,
-    "summary": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?"
-  },
-  {
-    "date": "2026-11-09",
-    "source": "Al Jazeera Iran",
-    "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-    "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "US Treasury sanctions eight Canadian money exchange firms over Iran ties"
+    "summary": "Qatar PM meets with Trump for talks on ending war on Iran"
   }
 ]
