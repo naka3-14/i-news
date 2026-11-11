@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "source": "Al Jazeera Iran",
     "title": "France blames Iran for October supermarket cyberattack",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack",
@@ -9,48 +9,57 @@
     "summary": "France blames Iran for October supermarket cyberattack"
   },
   {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "source": "Al Jazeera Iran",
-    "title": "France accuses Iran of cyberattack on supermarket fridges",
-    "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
-    "category": "軍事",
-    "importance": 4,
-    "summary": "France accuses Iran of cyberattack on supermarket fridges"
+    "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "Iraq blocks Iranian football team’s plane from landing over US sanctions"
   },
   {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "source": "Al Jazeera Iran",
-    "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "IRGC strikes three tankers near Hormuz over ‘US links’"
-  },
-  {
-    "date": "2026-11-10",
-    "source": "Al Jazeera Iran",
-    "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
-    "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat",
+    "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+    "url": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb",
     "category": "核問題",
     "importance": 3,
-    "summary": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat"
+    "summary": "Iran backs nuclear treaty even as hardliners raise prospect of bomb"
   },
   {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "source": "Al Jazeera Iran",
-    "title": "Iran waiting to resume talks after US midterms ‘shock’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis",
-    "category": "外交",
+    "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+    "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means",
+    "category": "軍事",
     "importance": 3,
-    "summary": "Iran waiting to resume talks after US midterms ‘shock’"
+    "summary": "Iran lifts 2,000km limit on its ballistic missiles: What that means"
   },
   {
-    "date": "2026-11-10",
-    "source": "Al Jazeera Middle East",
-    "title": "Qatar PM meets with Trump for talks on ending war on Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran",
+    "date": "2026-11-11",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Tehran’s security chief says no talks with US ongoing",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender",
     "category": "外交",
     "importance": 3,
-    "summary": "Qatar PM meets with Trump for talks on ending war on Iran"
+    "summary": "Iran war updates: Tehran’s security chief says no talks with US ongoing"
+  },
+  {
+    "date": "2026-11-11",
+    "source": "Al Jazeera Middle East",
+    "title": "Hegseth survives impeachment bid as Iran’s security chief denies US talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Hegseth survives impeachment bid as Iran’s security chief denies US talks"
+  },
+  {
+    "date": "2026-11-11",
+    "source": "Al Jazeera Iran",
+    "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+    "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+    "category": "市場",
+    "importance": 2,
+    "summary": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’"
   }
 ]

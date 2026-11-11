@@ -1,25 +1,29 @@
-# Iran Daily Report - 2026-11-10
+# Iran Daily Report - 2026-11-11
 
 ## 1. France blames Iran for October supermarket cyberattack
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack
 
-## 2. France accuses Iran of cyberattack on supermarket fridges
+## 2. Iraq blocks Iranian football team’s plane from landing over US sanctions
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions
 
-## 3. IRGC strikes three tankers near Hormuz over ‘US links’
+## 3. Iran backs nuclear treaty even as hardliners raise prospect of bomb
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us
+- URL: https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb
 
-## 4. Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat
+## 4. Iran lifts 2,000km limit on its ballistic missiles: What that means
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat
+- URL: https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means
 
-## 5. Iran waiting to resume talks after US midterms ‘shock’
+## 5. Iran war updates: Tehran’s security chief says no talks with US ongoing
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis
+- URL: https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender
 
-## 6. Qatar PM meets with Trump for talks on ending war on Iran
+## 6. Hegseth survives impeachment bid as Iran’s security chief denies US talks
 - ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks
+
+## 7. France summons Iran’s ambassador over supermarket fridge ‘sabotage’
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage
