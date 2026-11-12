@@ -1,29 +1,29 @@
-# Iran Daily Report - 2026-11-11
+# Iran Daily Report - 2026-11-12
 
-## 1. France blames Iran for October supermarket cyberattack
+## 1. Iran denies talks with US, says Hormuz will stay shut until demands are met
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack
+- URL: https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met
 
-## 2. Iraq blocks Iranian football team’s plane from landing over US sanctions
+## 2. Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf
+
+## 3. Iraq blocks Iranian football team’s plane from landing over US sanctions
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions
 
-## 3. Iran backs nuclear treaty even as hardliners raise prospect of bomb
+## 4. Iran backs nuclear treaty even as hardliners raise prospect of bomb
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb
 
-## 4. Iran lifts 2,000km limit on its ballistic missiles: What that means
+## 5. Oil production nears pre-Iran war levels, OPEC says
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means
+- URL: https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says
 
-## 5. Iran war updates: Tehran’s security chief says no talks with US ongoing
+## 6. Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender
+- URL: https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists
 
-## 6. Hegseth survives impeachment bid as Iran’s security chief denies US talks
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks
-
-## 7. France summons Iran’s ambassador over supermarket fridge ‘sabotage’
+## 7. Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage
+- URL: https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil

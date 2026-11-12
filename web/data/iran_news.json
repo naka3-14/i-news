@@ -1,15 +1,24 @@
 [
   {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "source": "Al Jazeera Iran",
-    "title": "France blames Iran for October supermarket cyberattack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack",
-    "category": "軍事",
-    "importance": 4,
-    "summary": "France blames Iran for October supermarket cyberattack"
+    "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+    "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Iran denies talks with US, says Hormuz will stay shut until demands are met"
   },
   {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
+    "source": "Al Jazeera Iran",
+    "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+    "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says"
+  },
+  {
+    "date": "2026-11-12",
     "source": "Al Jazeera Iran",
     "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions",
@@ -18,7 +27,7 @@
     "summary": "Iraq blocks Iranian football team’s plane from landing over US sanctions"
   },
   {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "source": "Al Jazeera Iran",
     "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
     "url": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb",
@@ -27,39 +36,30 @@
     "summary": "Iran backs nuclear treaty even as hardliners raise prospect of bomb"
   },
   {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "source": "Al Jazeera Iran",
-    "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
-    "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran lifts 2,000km limit on its ballistic missiles: What that means"
-  },
-  {
-    "date": "2026-11-11",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tehran’s security chief says no talks with US ongoing",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Iran war updates: Tehran’s security chief says no talks with US ongoing"
-  },
-  {
-    "date": "2026-11-11",
-    "source": "Al Jazeera Middle East",
-    "title": "Hegseth survives impeachment bid as Iran’s security chief denies US talks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Hegseth survives impeachment bid as Iran’s security chief denies US talks"
-  },
-  {
-    "date": "2026-11-11",
-    "source": "Al Jazeera Iran",
-    "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-    "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+    "title": "Oil production nears pre-Iran war levels, OPEC says",
+    "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says",
     "category": "市場",
     "importance": 2,
-    "summary": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’"
+    "summary": "Oil production nears pre-Iran war levels, OPEC says"
+  },
+  {
+    "date": "2026-11-12",
+    "source": "Al Jazeera Iran",
+    "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+    "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?"
+  },
+  {
+    "date": "2026-11-12",
+    "source": "Al Jazeera Iran",
+    "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+    "url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil",
+    "category": "市場",
+    "importance": 2,
+    "summary": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?"
   }
 ]
