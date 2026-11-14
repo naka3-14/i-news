@@ -1,25 +1,25 @@
-# Iran Daily Report - 2026-11-13
+# Iran Daily Report - 2026-11-14
 
-## 1. Iran denies talks with US, says Hormuz will stay shut until demands are met
+## 1. Iran threatens unlimited response over Strait of Hormuz after US attack
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij
 
-## 2. Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says
+## 2. IRGC says tanker caught fire after hitting mines in Strait of Hormuz
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz
 
-## 3. Iran warns of expanded retaliation as Israel reportedly readies to attack
+## 3. Strait of Hormuz shipping remains 65 percent below pre-war levels, UKMTO says
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?update=5150146
+
+## 4. Iran honours fallen soldiers in Iran-Iraq war with missile display
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display
+
+## 5. UN watchdog calls on Iran to reopen nuclear facilities to inspection
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection
+
+## 6. Iran warns of expanded retaliation as Israel reportedly readies to attack
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack
-
-## 4. Oil production nears pre-Iran war levels, OPEC says
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says
-
-## 5. Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists
-
-## 6. Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil
