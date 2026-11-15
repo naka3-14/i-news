@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "source": "Al Jazeera Iran",
     "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij",
@@ -9,7 +9,16 @@
     "summary": "Iran threatens unlimited response over Strait of Hormuz after US attack"
   },
   {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
+    "source": "Al Jazeera Iran",
+    "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+    "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran"
+  },
+  {
+    "date": "2026-11-15",
     "source": "Al Jazeera Iran",
     "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz",
@@ -18,7 +27,7 @@
     "summary": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz"
   },
   {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "source": "Al Jazeera Iran",
     "title": "Strait of Hormuz shipping remains 65 percent below pre-war levels, UKMTO says",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?update=5150146",
@@ -27,7 +36,16 @@
     "summary": "Strait of Hormuz shipping remains 65 percent below pre-war levels, UKMTO says"
   },
   {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
+    "source": "Al Jazeera Iran",
+    "title": "How does Iran view Trump sidelining Vance from talks?",
+    "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away",
+    "category": "外交",
+    "importance": 3,
+    "summary": "How does Iran view Trump sidelining Vance from talks?"
+  },
+  {
+    "date": "2026-11-15",
     "source": "Al Jazeera Iran",
     "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display",
@@ -36,21 +54,12 @@
     "summary": "Iran honours fallen soldiers in Iran-Iraq war with missile display"
   },
   {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "source": "Al Jazeera Iran",
     "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
     "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
     "category": "核問題",
     "importance": 3,
     "summary": "UN watchdog calls on Iran to reopen nuclear facilities to inspection"
-  },
-  {
-    "date": "2026-11-14",
-    "source": "Al Jazeera Iran",
-    "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-    "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran warns of expanded retaliation as Israel reportedly readies to attack"
   }
 ]
