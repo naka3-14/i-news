@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-11-15
+# Iran Daily Report - 2026-11-16
 
 ## 1. Iran threatens unlimited response over Strait of Hormuz after US attack
 - ソース: Al Jazeera Iran
@@ -12,18 +12,22 @@
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz
 
-## 4. Strait of Hormuz shipping remains 65 percent below pre-war levels, UKMTO says
+## 4. Tehran warns it may strike first before another US attack
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?update=5150146
+- URL: https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack
 
-## 5. How does Iran view Trump sidelining Vance from talks?
+## 5. Bahrain accuses Iran of attacking its territory to ‘settle’ score with US
+- ソース: Al Jazeera Iran
+- URL: https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us
+
+## 6. How does Iran view Trump sidelining Vance from talks?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away
 
-## 6. Iran honours fallen soldiers in Iran-Iraq war with missile display
+## 7. Iran honours fallen soldiers in Iran-Iraq war with missile display
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display
 
-## 7. UN watchdog calls on Iran to reopen nuclear facilities to inspection
+## 8. UN watchdog calls on Iran to reopen nuclear facilities to inspection
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection
