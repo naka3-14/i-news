@@ -1,15 +1,33 @@
 [
   {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "source": "Al Jazeera Iran",
-    "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij",
+    "title": "Oil tankers hit sea mines in the Strait of Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz",
     "category": "ホルムズ海峡",
     "importance": 5,
-    "summary": "Iran threatens unlimited response over Strait of Hormuz after US attack"
+    "summary": "Oil tankers hit sea mines in the Strait of Hormuz"
   },
   {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
+    "source": "Al Jazeera Iran",
+    "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+    "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field"
+  },
+  {
+    "date": "2026-11-17",
+    "source": "Al Jazeera Iran",
+    "title": "Tehran warns of escalating retaliation amid US actions in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?update=5155987",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Tehran warns of escalating retaliation amid US actions in Strait of Hormuz"
+  },
+  {
+    "date": "2026-11-17",
     "source": "Al Jazeera Iran",
     "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
     "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
@@ -18,25 +36,16 @@
     "summary": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran"
   },
   {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "source": "Al Jazeera Iran",
-    "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz"
-  },
-  {
-    "date": "2026-11-16",
-    "source": "Al Jazeera Iran",
-    "title": "Tehran warns it may strike first before another US attack",
+    "title": "Updates: Yemen’s Houthis edge closer to Aden; Iran, Pakistan hold talks",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack",
-    "category": "軍事",
+    "category": "外交",
     "importance": 3,
-    "summary": "Tehran warns it may strike first before another US attack"
+    "summary": "Updates: Yemen’s Houthis edge closer to Aden; Iran, Pakistan hold talks"
   },
   {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "source": "Al Jazeera Iran",
     "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
     "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us",
@@ -45,30 +54,12 @@
     "summary": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US"
   },
   {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "source": "Al Jazeera Iran",
     "title": "How does Iran view Trump sidelining Vance from talks?",
     "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away",
     "category": "外交",
     "importance": 3,
     "summary": "How does Iran view Trump sidelining Vance from talks?"
-  },
-  {
-    "date": "2026-11-16",
-    "source": "Al Jazeera Iran",
-    "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran honours fallen soldiers in Iran-Iraq war with missile display"
-  },
-  {
-    "date": "2026-11-16",
-    "source": "Al Jazeera Iran",
-    "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-    "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "UN watchdog calls on Iran to reopen nuclear facilities to inspection"
   }
 ]
