@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "source": "Al Jazeera Iran",
     "title": "Oil tankers hit sea mines in the Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz",
@@ -9,7 +9,25 @@
     "summary": "Oil tankers hit sea mines in the Strait of Hormuz"
   },
   {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
+    "source": "Al Jazeera Middle East",
+    "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz",
+    "category": "ホルムズ海峡",
+    "importance": 5,
+    "summary": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz"
+  },
+  {
+    "date": "2026-11-18",
+    "source": "Al Jazeera Iran",
+    "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says"
+  },
+  {
+    "date": "2026-11-18",
     "source": "Al Jazeera Iran",
     "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
     "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field",
@@ -18,48 +36,30 @@
     "summary": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field"
   },
   {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "source": "Al Jazeera Iran",
-    "title": "Tehran warns of escalating retaliation amid US actions in Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?update=5155987",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Tehran warns of escalating retaliation amid US actions in Strait of Hormuz"
-  },
-  {
-    "date": "2026-11-17",
-    "source": "Al Jazeera Iran",
-    "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-    "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran"
-  },
-  {
-    "date": "2026-11-17",
-    "source": "Al Jazeera Iran",
-    "title": "Updates: Yemen’s Houthis edge closer to Aden; Iran, Pakistan hold talks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack",
-    "category": "外交",
-    "importance": 3,
-    "summary": "Updates: Yemen’s Houthis edge closer to Aden; Iran, Pakistan hold talks"
-  },
-  {
-    "date": "2026-11-17",
-    "source": "Al Jazeera Iran",
-    "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-    "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us",
+    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+    "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain",
     "category": "軍事",
     "importance": 3,
-    "summary": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US"
+    "summary": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain"
   },
   {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "source": "Al Jazeera Iran",
-    "title": "How does Iran view Trump sidelining Vance from talks?",
-    "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away",
-    "category": "外交",
+    "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+    "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know",
+    "category": "軍事",
     "importance": 3,
-    "summary": "How does Iran view Trump sidelining Vance from talks?"
+    "summary": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know"
+  },
+  {
+    "date": "2026-11-18",
+    "source": "Al Jazeera Iran",
+    "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
+    "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Bahrain thwarts drone attack; Iran claims targeting US radar"
   }
 ]
