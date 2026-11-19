@@ -1,24 +1,24 @@
 [
   {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "source": "Al Jazeera Iran",
-    "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz",
+    "title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+    "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open",
     "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Oil tankers hit sea mines in the Strait of Hormuz"
+    "importance": 4,
+    "summary": "US official says Hormuz insurance hits $64m: Is the strait really open?"
   },
   {
-    "date": "2026-11-18",
-    "source": "Al Jazeera Middle East",
-    "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-    "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz",
+    "date": "2026-11-19",
+    "source": "Al Jazeera Iran",
+    "title": "Ships risk Hormuz Strait due to limited US protection",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ships-risk-hormuz-strait-due-to-limited-us-protection",
     "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz"
+    "importance": 4,
+    "summary": "Ships risk Hormuz Strait due to limited US protection"
   },
   {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "source": "Al Jazeera Iran",
     "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says",
@@ -27,16 +27,25 @@
     "summary": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says"
   },
   {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "source": "Al Jazeera Iran",
-    "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-    "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field"
+    "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+    "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "US steps up pressure on Iran-backed Hezbollah with new sanctions"
   },
   {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
+    "source": "Al Jazeera Iran",
+    "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+    "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island"
+  },
+  {
+    "date": "2026-11-19",
     "source": "Al Jazeera Iran",
     "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain",
@@ -45,7 +54,7 @@
     "summary": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain"
   },
   {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "source": "Al Jazeera Iran",
     "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
     "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know",
@@ -54,7 +63,7 @@
     "summary": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know"
   },
   {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "source": "Al Jazeera Iran",
     "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
     "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar",
