@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-11-19
+# Iran Daily Report - 2026-11-20
 
 ## 1. US official says Hormuz insurance hits $64m: Is the strait really open?
 - ソース: Al Jazeera Iran
@@ -8,9 +8,9 @@
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/11/18/ships-risk-hormuz-strait-due-to-limited-us-protection
 
-## 3. Vessels on fire after naval mine hit in Hormuz Strait, Iran says
+## 3. Iran war updates: Riyadh tower hit by Houthi attack, Saudi authorities say
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says
+- URL: https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz
 
 ## 4. US steps up pressure on Iran-backed Hezbollah with new sanctions
 - ソース: Al Jazeera Iran
@@ -27,7 +27,3 @@
 ## 7. Is Iran plotting a ‘dirty bomb’ attack in the US? What we know
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know
-
-## 8. Bahrain thwarts drone attack; Iran claims targeting US radar
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar
