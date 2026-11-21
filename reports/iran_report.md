@@ -1,4 +1,4 @@
-# Iran Daily Report - 2026-11-20
+# Iran Daily Report - 2026-11-21
 
 ## 1. US official says Hormuz insurance hits $64m: Is the strait really open?
 - ソース: Al Jazeera Iran
@@ -23,7 +23,3 @@
 ## 6. Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain
-
-## 7. Is Iran plotting a ‘dirty bomb’ attack in the US? What we know
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know
