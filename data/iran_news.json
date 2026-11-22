@@ -1,24 +1,78 @@
 [
   {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "source": "Al Jazeera Iran",
-    "title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
-    "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open",
+    "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination",
     "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "US official says Hormuz insurance hits $64m: Is the strait really open?"
+    "importance": 5,
+    "summary": "Swimmer braves tanker attacks to expose Hormuz contamination"
   },
   {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "source": "Al Jazeera Iran",
-    "title": "Ships risk Hormuz Strait due to limited US protection",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ships-risk-hormuz-strait-due-to-limited-us-protection",
+    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+    "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Ships risk Hormuz Strait due to limited US protection"
+    "summary": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping"
   },
   {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+    "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran says it downed US drones over Hormuz as bid to end war remains stalled"
+  },
+  {
+    "date": "2026-11-22",
+    "source": "Al Jazeera Iran",
+    "title": "Bahrain says Iranian attack causes fire at industrial facility",
+    "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Bahrain says Iranian attack causes fire at industrial facility"
+  },
+  {
+    "date": "2026-11-22",
+    "source": "Al Jazeera Iran",
+    "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+    "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Iran says held talks with Qatari mediators, urges US to accept conditions"
+  },
+  {
+    "date": "2026-11-22",
+    "source": "Al Jazeera Iran",
+    "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons"
+  },
+  {
+    "date": "2026-11-22",
+    "source": "Al Jazeera Iran",
+    "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+    "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "Could Iran reverse its stated policy of a civil-only nuclear programme?"
+  },
+  {
+    "date": "2026-11-22",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Iran says US radar targeted in attacks on Bahrain bases",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: Iran says US radar targeted in attacks on Bahrain bases"
+  },
+  {
+    "date": "2026-11-22",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: Riyadh tower hit by Houthi attack, Saudi authorities say",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz",
@@ -27,7 +81,16 @@
     "summary": "Iran war updates: Riyadh tower hit by Houthi attack, Saudi authorities say"
   },
   {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
+    "source": "Al Jazeera Iran",
+    "title": "France, Germany, UK and US raise concerns over UN nuclear inspector access in Iran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?update=5169509",
+    "category": "核問題",
+    "importance": 3,
+    "summary": "France, Germany, UK and US raise concerns over UN nuclear inspector access in Iran"
+  },
+  {
+    "date": "2026-11-22",
     "source": "Al Jazeera Iran",
     "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
     "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions",
@@ -36,21 +99,12 @@
     "summary": "US steps up pressure on Iran-backed Hezbollah with new sanctions"
   },
   {
-    "date": "2026-11-21",
-    "source": "Al Jazeera Iran",
-    "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-    "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island",
+    "date": "2026-11-22",
+    "source": "Al Jazeera Middle East",
+    "title": "Bahrain says Iranian attack hits industrial facility",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility",
     "category": "軍事",
     "importance": 3,
-    "summary": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island"
-  },
-  {
-    "date": "2026-11-21",
-    "source": "Al Jazeera Iran",
-    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-    "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain"
+    "summary": "Bahrain says Iranian attack hits industrial facility"
   }
 ]
