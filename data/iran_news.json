@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "source": "Al Jazeera Iran",
     "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination",
@@ -9,7 +9,25 @@
     "summary": "Swimmer braves tanker attacks to expose Hormuz contamination"
   },
   {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
+    "source": "Al Jazeera Iran",
+    "title": "Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Tankers set ablaze in Hormuz as IRGC warns of unrest threat"
+  },
+  {
+    "date": "2026-11-23",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Navy says tankers ablaze near Hormuz after hitting mines",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue",
+    "category": "ホルムズ海峡",
+    "importance": 4,
+    "summary": "Iran war updates: Navy says tankers ablaze near Hormuz after hitting mines"
+  },
+  {
+    "date": "2026-11-23",
     "source": "Al Jazeera Iran",
     "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
     "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
@@ -18,7 +36,7 @@
     "summary": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping"
   },
   {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "source": "Al Jazeera Iran",
     "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
     "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
@@ -27,16 +45,34 @@
     "summary": "Iran says it downed US drones over Hormuz as bid to end war remains stalled"
   },
   {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "source": "Al Jazeera Iran",
-    "title": "Bahrain says Iranian attack causes fire at industrial facility",
+    "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+    "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran unveils dual-missile launcher, new ‘missile city’: What to know"
+  },
+  {
+    "date": "2026-11-23",
+    "source": "Al Jazeera Iran",
+    "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+    "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "What’s behind Iran’s escalation of attacks in the Gulf?"
+  },
+  {
+    "date": "2026-11-23",
+    "source": "Al Jazeera Iran",
+    "title": "Bahrain says Iranian attack caused fire at industrial facility",
     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
     "category": "軍事",
     "importance": 3,
-    "summary": "Bahrain says Iranian attack causes fire at industrial facility"
+    "summary": "Bahrain says Iranian attack caused fire at industrial facility"
   },
   {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "source": "Al Jazeera Iran",
     "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
     "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
@@ -45,7 +81,7 @@
     "summary": "Iran says held talks with Qatari mediators, urges US to accept conditions"
   },
   {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "source": "Al Jazeera Iran",
     "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal",
@@ -54,57 +90,12 @@
     "summary": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons"
   },
   {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "source": "Al Jazeera Iran",
     "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
     "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
     "category": "核問題",
     "importance": 3,
     "summary": "Could Iran reverse its stated policy of a civil-only nuclear programme?"
-  },
-  {
-    "date": "2026-11-22",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Iran says US radar targeted in attacks on Bahrain bases",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war updates: Iran says US radar targeted in attacks on Bahrain bases"
-  },
-  {
-    "date": "2026-11-22",
-    "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Riyadh tower hit by Houthi attack, Saudi authorities say",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Iran war updates: Riyadh tower hit by Houthi attack, Saudi authorities say"
-  },
-  {
-    "date": "2026-11-22",
-    "source": "Al Jazeera Iran",
-    "title": "France, Germany, UK and US raise concerns over UN nuclear inspector access in Iran",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?update=5169509",
-    "category": "核問題",
-    "importance": 3,
-    "summary": "France, Germany, UK and US raise concerns over UN nuclear inspector access in Iran"
-  },
-  {
-    "date": "2026-11-22",
-    "source": "Al Jazeera Iran",
-    "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-    "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions",
-    "category": "制裁",
-    "importance": 3,
-    "summary": "US steps up pressure on Iran-backed Hezbollah with new sanctions"
-  },
-  {
-    "date": "2026-11-22",
-    "source": "Al Jazeera Middle East",
-    "title": "Bahrain says Iranian attack hits industrial facility",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility",
-    "category": "軍事",
-    "importance": 3,
-    "summary": "Bahrain says Iranian attack hits industrial facility"
   }
 ]
