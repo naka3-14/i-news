@@ -1,10 +1,10 @@
-# Iran Daily Report - 2026-11-23
+# Iran Daily Report - 2026-11-24
 
-## 1. Swimmer braves tanker attacks to expose Hormuz contamination
+## 1. Iran’s IRGC says three tankers ablaze after hitting naval mines in Hormuz
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination
+- URL: https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines
 
-## 2. Tankers set ablaze in Hormuz as IRGC warns of unrest threat
+## 2. Iran war updates: Tehran says US drone downed near Hormuz
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat
 
@@ -12,13 +12,13 @@
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue
 
-## 4. Tankers hit in Strait of Hormuz as Iran tightens grip on shipping
+## 4. Qatar PM looks to revive US-Iran talks after meeting Rubio
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio
 
-## 5. Iran says it downed US drones over Hormuz as bid to end war remains stalled
+## 5. US escalates sanctions on Iran, targets ‘shadow banking’ networks
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled
+- URL: https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks
 
 ## 6. Iran unveils dual-missile launcher, new ‘missile city’: What to know
 - ソース: Al Jazeera Iran
@@ -40,6 +40,6 @@
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal
 
-## 11. Could Iran reverse its stated policy of a civil-only nuclear programme?
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme
+## 11. Iran threatens response to any attack amid naval blockade
+- ソース: Al Jazeera Middle East
+- URL: https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade

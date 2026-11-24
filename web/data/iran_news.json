@@ -1,24 +1,24 @@
 [
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
-    "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination",
+    "title": "Iran’s IRGC says three tankers ablaze after hitting naval mines in Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
     "category": "ホルムズ海峡",
-    "importance": 5,
-    "summary": "Swimmer braves tanker attacks to expose Hormuz contamination"
+    "importance": 4,
+    "summary": "Iran’s IRGC says three tankers ablaze after hitting naval mines in Hormuz"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
-    "title": "Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+    "title": "Iran war updates: Tehran says US drone downed near Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat",
     "category": "ホルムズ海峡",
     "importance": 4,
-    "summary": "Tankers set ablaze in Hormuz as IRGC warns of unrest threat"
+    "summary": "Iran war updates: Tehran says US drone downed near Hormuz"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: Navy says tankers ablaze near Hormuz after hitting mines",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue",
@@ -27,25 +27,25 @@
     "summary": "Iran war updates: Navy says tankers ablaze near Hormuz after hitting mines"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
-    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-    "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping"
+    "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Qatar PM looks to revive US-Iran talks after meeting Rubio"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
-    "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-    "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran says it downed US drones over Hormuz as bid to end war remains stalled"
+    "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+    "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
+    "category": "制裁",
+    "importance": 3,
+    "summary": "US escalates sanctions on Iran, targets ‘shadow banking’ networks"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
     "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
     "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know",
@@ -54,7 +54,7 @@
     "summary": "Iran unveils dual-missile launcher, new ‘missile city’: What to know"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
     "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
     "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
@@ -63,7 +63,7 @@
     "summary": "What’s behind Iran’s escalation of attacks in the Gulf?"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
     "title": "Bahrain says Iranian attack caused fire at industrial facility",
     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
@@ -72,7 +72,7 @@
     "summary": "Bahrain says Iranian attack caused fire at industrial facility"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
     "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
     "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
@@ -81,7 +81,7 @@
     "summary": "Iran says held talks with Qatari mediators, urges US to accept conditions"
   },
   {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "source": "Al Jazeera Iran",
     "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal",
@@ -90,12 +90,12 @@
     "summary": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons"
   },
   {
-    "date": "2026-11-23",
-    "source": "Al Jazeera Iran",
-    "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-    "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
-    "category": "核問題",
+    "date": "2026-11-24",
+    "source": "Al Jazeera Middle East",
+    "title": "Iran threatens response to any attack amid naval blockade",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade",
+    "category": "軍事",
     "importance": 3,
-    "summary": "Could Iran reverse its stated policy of a civil-only nuclear programme?"
+    "summary": "Iran threatens response to any attack amid naval blockade"
   }
 ]
