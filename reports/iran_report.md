@@ -1,8 +1,8 @@
-# Iran Daily Report - 2026-11-24
+# Iran Daily Report - 2026-11-25
 
-## 1. Iran’s IRGC says three tankers ablaze after hitting naval mines in Hormuz
+## 1. Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?
 - ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines
+- URL: https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working
 
 ## 2. Iran war updates: Tehran says US drone downed near Hormuz
 - ソース: Al Jazeera Iran
@@ -27,19 +27,3 @@
 ## 7. What’s behind Iran’s escalation of attacks in the Gulf?
 - ソース: Al Jazeera Iran
 - URL: https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf
-
-## 8. Bahrain says Iranian attack caused fire at industrial facility
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility
-
-## 9. Iran says held talks with Qatari mediators, urges US to accept conditions
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions
-
-## 10. Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons
-- ソース: Al Jazeera Iran
-- URL: https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal
-
-## 11. Iran threatens response to any attack amid naval blockade
-- ソース: Al Jazeera Middle East
-- URL: https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade
