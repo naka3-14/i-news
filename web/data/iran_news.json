@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "source": "Al Jazeera Iran",
     "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
     "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working",
@@ -9,7 +9,7 @@
     "summary": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?"
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "source": "Al Jazeera Iran",
     "title": "Iran war updates: Another tanker ‘on fire’ after hitting mine in Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order",
@@ -18,16 +18,34 @@
     "summary": "Iran war updates: Another tanker ‘on fire’ after hitting mine in Hormuz"
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "source": "Al Jazeera Iran",
-    "title": "Iran war updates: Tehran says US drone downed near Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat",
-    "category": "ホルムズ海峡",
-    "importance": 4,
-    "summary": "Iran war updates: Tehran says US drone downed near Hormuz"
+    "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+    "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops",
+    "category": "外交",
+    "importance": 3,
+    "summary": "Trump downplays Russia, China support for Iran during talks with US troops"
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
+    "source": "Al Jazeera Iran",
+    "title": "Iran’s Araghchi calls Kuwait attack ‘suspicious’, offers cooperation",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran’s Araghchi calls Kuwait attack ‘suspicious’, offers cooperation"
+  },
+  {
+    "date": "2026-11-27",
+    "source": "Al Jazeera Iran",
+    "title": "Iran war updates: Tehran denies carrying out drone attack that killed two",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh",
+    "category": "軍事",
+    "importance": 3,
+    "summary": "Iran war updates: Tehran denies carrying out drone attack that killed two"
+  },
+  {
+    "date": "2026-11-27",
     "source": "Al Jazeera Iran",
     "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
     "url": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting",
@@ -36,7 +54,7 @@
     "summary": "Iran rations electricity: How deeply are US sanctions, blockade biting?"
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "source": "Al Jazeera Iran",
     "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio",
@@ -45,7 +63,7 @@
     "summary": "Qatar PM looks to revive US-Iran talks after meeting Rubio"
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "source": "Al Jazeera Iran",
     "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
     "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
@@ -54,12 +72,12 @@
     "summary": "US escalates sanctions on Iran, targets ‘shadow banking’ networks"
   },
   {
-    "date": "2026-11-26",
-    "source": "Al Jazeera Iran",
-    "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-    "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know",
+    "date": "2026-11-27",
+    "source": "Al Jazeera Middle East",
+    "title": "Two dead after Iranian drone attack on Kuwait",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait",
     "category": "軍事",
     "importance": 3,
-    "summary": "Iran unveils dual-missile launcher, new ‘missile city’: What to know"
+    "summary": "Two dead after Iranian drone attack on Kuwait"
   }
 ]
